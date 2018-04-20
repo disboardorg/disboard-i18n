@@ -16,12 +16,6 @@
  *
  * NOTE: this file must be saved in UTF-8 encoding.
  */
- /*
- * This zh-CN (Simplified used in mainland) translation is made by Austin Huang (im@austinhuang.me)
- * https://austinhuang.me
- * US/CA :  +1 (808) 468-0313 (Text/Voicemail only)
- * UK    : +44 (843) 558-5832 (Call/Voicemail only. Subject to 0843 calling fees)
- */
 return [
     'Ascending' => 'Aufsteigend',
     'Add New Server' => 'Füge einen neuen Server hinzu',
