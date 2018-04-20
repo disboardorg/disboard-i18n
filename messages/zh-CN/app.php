@@ -16,14 +16,8 @@
  *
  * NOTE: this file must be saved in UTF-8 encoding.
  */
-
- /*
- * This zh-CN (Simplified used in mainland) translation is made by Austin Huang (im@austinhuang.me)
- * https://austinhuang.me
- * US/CA :  +1 (808) 468-0313 (Text/Voicemail only)
- * UK    : +44 (843) 558-5832 (Call/Voicemail only. Subject to 0843 rates)
- */
 return [
+    'Ascending' => '顺序',
     'Add New Server' => '添加新的服务器',
     'Add Your Server' => '添加新的服务器',
     'Add Bot' => '邀请机器人',
@@ -35,6 +29,7 @@ return [
     'Are you sure you want to delete this review?' => '确定删除该评论？',
     'Bad Request' => '请求无效',
     'Bump' => '顶',
+    'Bumped At' => '最先顶的顺序',
     'Cancel' => '取消',
     'Categorize your server by keywords (e.g. game title)' => '您可以使用关键词（如游戏名称）。',
     'Category' => '分类',
@@ -113,6 +108,7 @@ return [
     'This server is private. Only the owner (you) can view it.' => '本服务器不在公共列表上。只有服主（您）可以看到它。',
     'This server is not public because invite URL is not set' => '由于未设置邀请链接，本服务器现在未显示在列表上。',
     'This will add this server to our public server list' => '选择该框以将服务器置于公共列表上',
+    'Title' => '标题',
     'Unspecified' => '未选择',
     'User' => '用户',
     'Users' => '用户',
@@ -160,6 +156,7 @@ return [
     'Strategy Games' => '战略游戏',
     'TCG Games' => '卡片（TCG）游戏',
     'Tabletop Games' => '桌面游戏',
+    /* Meta Descriptions */
     'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD是一个公共Discord服务器列表。不论游戏，动漫，或是音乐，您总能来查找适合您的Discord服务器。在这里加入那些有趣的服务器吧！',
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => '关键词“{keyword}”的搜索结果。{count}个Discord服务器正在等待您的加入！',
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => '带“{tag}”标签的Discord服务器一览。在这里发现您所喜爱的服务器！',
