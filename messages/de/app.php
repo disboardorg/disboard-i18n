@@ -128,7 +128,7 @@ return [
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD wurde gemacht, um alle Discord mehr genießen zu lassen.<br>Wir hoffen du findest tolle Discord Server und Freunde hier 😊.',
     /* Welcome Messages on home page */
     'Public <span class="discord-logo">Discord</span> Servers' => '<strong class="brand">DISBOARD</strong> ist der Ort wo du <strong>Discord Server listen/finden</strong> kannst.',
-    '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<<strong class="brand">DISBOARD</strong> ist der Ort wo du <strong>Discord Server listen/finden</strong> kannst.',
+    '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> ist der Ort wo du <strong>Discord Server listen/finden</strong> kannst.',
     'Find and join some awesome servers listed here.' => 'Finde und joine wundervollen Servern die hier gelistet sind',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Oder <a href="{login-url}">melde dich an</a> und <strong>füge deinen Server hinzu wenn du der Owner bist</strong> 😎',
     'Add Your Server!' => 'Füge deinen Server hinzu', // The large button
