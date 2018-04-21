@@ -5,4 +5,4 @@ This repository is placed under my management as permitted by the owner of Disbo
 
 ![proof](https://cdn.discordapp.com/attachments/436887330826092547/436887370244292638/Screen_Shot_2018-04-20_at_9.54.02_AM.png)
 
-Just follow the format and do a PR to contribute. Have fun translating xd
+Just follow the **Japanese file** (`ja`) and do a PR to contribute. Have fun translating xd
