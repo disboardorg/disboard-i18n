@@ -47,7 +47,7 @@ return [
     'Manage Server' => 'Server verwalten',
     'Member Count' => 'Benutzer-Zähler',
     '{time, plural, =1{# minute} other{# minutes}}' => '{time} Minuten',
-    'New Review' => 'Neue Rezension'
+    'New Review' => 'Neue Rezension',
     'Not Found' => 'Nicht gefunden',
     'No results found for <strong>{keyword}<strong>' => 'Für <strong>{keyword}</strong> wurden keine Ergebnisse gefunden',
     'Official Discord Server' => 'Offizieller Discord Server',
