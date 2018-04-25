@@ -1,11 +1,3 @@
-/*
-Idonesian/Bahasa Language
-
-You think there's a mistake in the Translation. Please do make changes!
-
-Translated by: John Patrick
-*/
-
 {
     "Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Hi! aku adalah bot disboard",
     "COMMAND LIST": "List Perintah",

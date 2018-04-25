@@ -1,6 +1,6 @@
 <?php
  /*
- * This ph (Simplified used in mainland) translation is made by John Patrick (github.com/aerisDoesCodes)
+ * This fil (Simplified used in mainland) translation is made by John Patrick (github.com/aerisDoesCodes)
  * https://github.com/aerisDoesCodes
  */
 return [
