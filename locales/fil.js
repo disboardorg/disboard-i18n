@@ -10,7 +10,7 @@
 		"other": "Maghintay ng %s minuto"
 	},
 	"Refresh done": "Tapos na ang refresh",
-	"Please give me Create Instant Invite permission to me": "Paki bigyan ako ng pahintulot na Gumawa ng \`Create Instant\`",
+	"Please give me Create Instant Invite permission to me": "Paki bigyan ako ng pahintulot na Gumawa ng `Create Instant`",
 	"And then send this command: `!disboard refresh`": "Pagkatapos i-send ang utos na ito: `!disboard refresh`",
 	"Your server have not been added to DISBOARD (<https://disboard.org/>) :tired_face:": "Ang iyong server ay hinda pa idinagdag sa DISBOARD (<https://disboard.org/>) :tired_face:",
 	"Please add one to the site before using this bot!": "Mangyaring magdagdag ng isa sa site bago gamitin ang bot na ito!",
