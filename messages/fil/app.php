@@ -54,7 +54,7 @@ return [
     '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# minute} other{# minutes}}',
     'New Review' => 'Bagong Pagsusuri',
     'Not Found' => 'Hindi Mahanap',
-    'No results found for <strong>{keyword}<strong>' => 'Walang natagpuang mga resulta para sa <strong>{keyword}</strong>',
+    'No results found for <strong>{keyword}<strong>' => 'Walang natagpuang resulta para sa <strong>{keyword}</strong>',
     'Official Discord Server' => 'Opisyal na Discord Server',
     'Owner servers' => 'Mga server ng may-ari',
     'Please enter no more than {tagLimit} tags.' => 'Mangyaring magpasok ng hindi hihigit sa {tagLimit} na mga tag',
