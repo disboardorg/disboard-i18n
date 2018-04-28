@@ -1,6 +1,6 @@
 <?php
  /*
- * This ph (Simplified used in mainland) translation is made by John Patrick (github.com/aerisDoesCodes)
+ * This fil (Simplified used in mainland) translation is made by John Patrick (github.com/aerisDoesCodes)
  * https://github.com/aerisDoesCodes
  */
 return [
@@ -38,8 +38,8 @@ return [
     'Failed to Sync' => 'Nabigong i-sync',
     'Games' => 'Laro',
     'Go to Dashboard' => 'Pumunta sa Dashboard',
-    'Go Home' => 'Pumunta Pauwi',
-    'Home' => 'Pauwi',
+    'Go Home' => 'Go Home',
+    'Home' => 'Home',
     'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Kung hindi ka maglagay ng bot, maaari mong HINDI magpakita ang iba\'t ibang mga impormasyong tungkol sa iyong server, lumikha ng isang link sa imbitasyon o pagaayos ng iyong mga server ang mga utos',
     'If your server isn\'t in the above list or dropdown, sync with Discord manually' => 'Kung ang iyong server ay wala sa listahan sa itaas o baba, i-sync nang manu-mano sa Discord',
     'In DISBOARD, you can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'Sa DISBOARD, maaari ka na ngayong magsulat ng mga pagsusuri at magdagdag ng mga rating para sa mga server na iyong sinalihan. <br>Irekumenda natin ang iyong mga paboritong server sa ibang tao!',
@@ -73,7 +73,7 @@ return [
     'Review {serverName}' => 'Suriin ang {serverName}',
     'Save' => 'I-save',
     'See: <a href="{url}" target="_blank">screen capture</a>' => 'Tingnan ang: <a href="{url}" target="_blank">pagkuha ng screen</a>',
-    'See More Discord Servers' => 'Tingnan ang Higit pang mga Discord Server',
+    'See More Discord Servers' => 'Tingnan ang Higit pang Discord Server',
     'Search' => 'Paghahanap',
     'Search Discord Servers' => 'Maghanap ng Discord Server',
     'Search Options' => 'Maghanap ng pagpipilian',
@@ -85,7 +85,7 @@ return [
     'Select a server to review' => 'Pumili ng isang server upang suriin',
     'Separate by space' => 'Ihiwalay gamit ang espasyo',
     'Servers' => 'Servers',
-    'Showing <b>{from}</b> - <b>{to}</b> of <strong>{total} servers</strong>' => 'Ipinapakita ang <b>{from}</b> - <b>{to}</b> ng <strong>{total} mga server</strong>',
+    'Showing <b>{from}</b> - <b>{to}</b> of <strong>{total} servers</strong>' => 'Ipinapakita ang <b>{from}</b> - <b>{to}</b> ng <strong>{total} na mga server</strong>',
     'Sort by' => 'Ayusin ayon sa',
     'Submit' => 'Ipasa',
     'Support' => 'Suporta',
