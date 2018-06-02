@@ -5,10 +5,10 @@
 	"Bump this server": "Bumpe diesen Server",
 	"Bump done": "Bump erfolgreich",
 	"Please wait another %s minute": {
-		"one": "Bitte warte weitere %s Minuten",
+		"one": "Bitte warte eine weitere Minute",
 		"other": "Bitte warte weitere %s Minuten"
 	},
-	"Refresh done": "Aktualisierung erfolgt",
+	"Refresh done": "Aktualisierung erflogreich",
 	"Please give me Create Instant Invite permission to me": "Bitte gebe mit die Soforteinladung Erstellen Berrechtigung",
 	"And then send this command: `!disboard refresh`": "Sende dann diesen Command: `!disboard refresh`",
 	"Your server have not been added to DISBOARD (<https://disboard.org/>) :tired_face:": "Dein Server wurde noch nicht zu DISBOARD (<https://disboard.org/>) hinzugefügt :tired_face:",
