@@ -1,7 +1,7 @@
 <?php
 return [
     'Ascending' => 'Вверх',
-    'Add New Server' => 'Добавить новый сервер',
+    'Add New Server' => 'Добавить Сервер',
     'Add Your Server' => 'Добавить ваш сервер',
     'Add Bot' => 'Добавить бота',
     'Add a Tag' => 'Добавить тэг',
@@ -43,7 +43,8 @@ return [
     'In DISBOARD, you can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'На DISBOARD, вы можете писать отзывы и добавлять рейтинги серверам, на которые вы вступаете <br>Давайте порекомендуем ваши любимые сервера другим людям!',
     'Invite Link' => 'Пригласительная ссылка',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'Присоединитесь к <a href="{invite}">нашему серверу</a> и прочитайте требования на <span class="tag is-light">#partners</span> канале',
-    'Join this Server' => 'Присоединиться к Серверу',
+    'Join this Server' => 'Вступить',
+    '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}">Присоединитесь к серверу</a>, чтобы стать первым, кто напишет отзыв!',
     'Language' => 'Язык',
     'Login' => 'Логин',
     'Logout' => 'Выход',
@@ -53,6 +54,7 @@ return [
     '{time, plural, =1{# minute} other{# minutes}}' => '{time} Минуты',
     'New Review' => 'Новый Отзыв',
     'Not Found' => 'Не Найдено',
+    'No reviews and ratings yet' => 'Отзывы и рейтинги отсутствуют',
     'No results found for <strong>{keyword}<strong>' => 'Нет результатов для <strong>{keyword}</strong>',
     'Official Discord Server' => 'Оффициальный Discord Сервер',
     'Owner servers' => 'Ваши Сервера',
@@ -130,7 +132,7 @@ return [
     /* Categories */
     'Adventure Games' => 'Приключенческие Игры',
     'All Games' => 'Все игры',
-    'Anime and Manga' => 'Аниме и Манга',
+    'Anime · Manga' => 'Аниме · Манга',
     'Community' => 'Сообщество',
     'Computers' => 'Компьютеры',
     'FPS Games' => 'Шутеры',
