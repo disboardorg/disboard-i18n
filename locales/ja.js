@@ -3,18 +3,33 @@
 	"COMMAND LIST": "コマンドリスト",
 	"This!": "いま表示してるやつだよ",
 	"Bump this server": "このサーバーの表示順をアップするよ",
-	"Change Instant Invite to this channel": "招待リンクをこのチャンネルに変更するよ",
 	"Bump done": "上げました",
-	"Please wait another %s minute": {
-		"one": "あと%s分待って！",
-		"other": "あと%s分待って！"
+	"Please wait another **%s** minute": {
+		"one": "あと**%s**分待って！",
+		"other": "あと**%s**分待って！"
 	},
 	"Refresh done": "サーバー情報を更新しました",
 	"Please give me Create Instant Invite permission to me": "ディスボードのボットに「招待を作成」の権限をください",
 	"And then send this command: `!disboard refresh`": "その後このコマンドを送信してください: `!disboard refresh`",
 	"Your server have not been added to DISBOARD (<https://disboard.org/>) :tired_face:": "あなたのサーバはまだディスボード(<https://disboard.org/>)に追加されていません :tired_face:",
 	"Please add one to the site before using this bot!": "このボットを使用する前にまずはサーバーを追加してね！",
-	"Invite link has been changed": "招待リンクが変更されました",
+	"Change Instant Invite to this channel": "招待リンクをこのチャンネルに変更するよ",
 	"I couldn't bump your server because it's private": "サーバーが非公開になっているから上げられなかったよ",
-	"Edit your server at Dashboard: https://disboard.org/dashboard": "ダッシュボードから設定を変更してね: https://disboard.org/dashboard"
+	"Edit your server at Dashboard: https://disboard.org/dashboard": "ダッシュボードから設定を変更してね: https://disboard.org/dashboard",
+	"Invite link has been changed": "招待リンクが変更されたよ",
+	"Check it on DISBOARD": "ディスボードでチェックしてね",
+	"DISBOARD: The Public Server List": "ディスボード: Discord サーバー掲示板",
+	"Server ID": "サーバーID",
+	"Default channel": "デフォルトチャンネル",
+	"Command alias": "コマンド別名",
+	"Shard ID": "シャード ID",
+	"Main Language": "メインの言語",
+	"Not set": "設定なし",
+	"Return the server page URL on DISBOARD": "ディスボードのサーバー個別ページを出すよ",
+	"Usage: `!disboard alias <alias>`": "使い方: `!disboard alias <alias>`",
+	"Set the command alias to *<alias>*": "コマンド別名を *<alias>* にするよ",
+	"The command alias has been changed to **`%s`**": "コマンド別名を **`%s`** にしたよ",
+	"The command alias length should be less than %d": "コマンド別名の長さは %d 文字以下でないダメだよ",
+	"Admin only": "管理者のみ",
+	"This command can only be executed by administrators": "このコマンドは管理者だけしか使えないよ！"
 }
