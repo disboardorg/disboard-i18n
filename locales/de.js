@@ -1,6 +1,6 @@
 {
 	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Hi! Ich bin ein Bot für DISBOARD (<https://disboard.org/>)",
-	"COMMAND LIST": "COMMAND LISTE",
+	"COMMAND LIST": "BEFEHL LISTE",
 	"This!": "Das!",
 	"Bump this server": "Bumpe diesen Server",
 	"Bump done": "Bump erfolgreich",
@@ -15,6 +15,21 @@
 	"Please add one to the site before using this bot!": "Bitte füge einen Server zu der Seite hinzu bevor du den Bot nutzt",
 	"Change Instant Invite to this channel": "Ändert die Soforteinladung zu diesem Channel",
 	"I couldn't bump your server because it's private": "Ich kann deinen Server nicht bumpen weil er auf privat gestellt ist",
-	"Edit your server at Dashboard: https://disboard.org/dashboard": "Bearbeite deinen Server mit dem Dashboard: https://disboard.org/dashboard",
-	"Invite link has been changed": "Soforteinladungslink wurde geändert"
+	"Edit your server at Dashboard: https://disboard.org/dashboard": "Bearbeite deinen Server auf dem Dashboard: https://disboard.org/dashboard",
+	"Invite link has been changed": "Soforteinladungslink wurde geändert",
+	"Check it on DISBOARD": "Sehe es auf DISBOARD",
+	"DISBOARD: The Public Server List": "DISBOARD: Die öffentliche Server Liste",
+	"Server ID": "Server ID",
+	"Default channel": "Standart Channel",
+	"Command alias": "Befehlsalias",
+	"Shard ID": "Shard ID",
+	"Main Language": "Server Sprache",
+	"Not set": "Nicht festgelegt",
+	"Return the server page URL on DISBOARD": "Gibt die Serverseite URL auf DISBOARD wieder",
+	"Usage: `!disboard alias <alias>`": "Benutzung: `!disboard alias <alias>`",
+	"Set the command alias to *<alias>*": "Setzt den Befehlsalias zu *<alias>*",
+	"The command alias has been changed to **`%s`**": "Der Befehlsalias wurde geändert zu **`%s`**",
+	"The command alias length should be less than %d": "Die Länge des Befehlsalias sollte kürzer als %d sein",
+	"Admin only": "Nur Administartoren",
+	"This command can only be executed by administrators": "Dieser Befehl kann nur von Administartoren ausgeführt werden."
 }
