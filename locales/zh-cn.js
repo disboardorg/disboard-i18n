@@ -4,10 +4,6 @@
 	"This!": "就是这个！",
 	"Bump this server": "在服务器列表上顶本服务器",
 	"Bump done": "服务器已顶",
-	"Please wait another %s minute": {
-		"one": "请再等%s分钟！",
-		"other": "请再等%s分钟！"
-	},
 	"Please wait another **%s** minute": {
 		"one": "请再等**%s**分钟！",
 		"other": "请再等**%s**分钟！"
