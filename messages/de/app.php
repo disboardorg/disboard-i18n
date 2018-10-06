@@ -90,7 +90,7 @@ return [
     'Reviews' => 'Rezensionen',
     '{count, plural, =1{<b>#</b> review} other{<b>#</b> reviews}}' => '{count} Rezensionen',
     'Review {serverName}' => 'Schreibe eine Rezension für {serverName}',
-    'Reviews of {serverName}' => 'Bewertungen von {serverName}'
+    'Reviews of {serverName}' => 'Bewertungen von {serverName}',
     'Save' => 'Speichern',
     'See: <a href="{url}" target="_blank">screen capture</a>' => 'Siehe <a href="{url}" target="_blank">Bildschirmfoto</a>',
     'See all reviews' => 'Zeige alle Rezensionen',
@@ -155,7 +155,7 @@ return [
     /* Categories */
     'Adventure Games' => 'Abenteuer Spiele',
     'All Games' => 'Alle Spiele',
-    'Anime and Manga' => 'Animie und Manga',
+    'Anime · Manga' => 'Animie · Manga',
     'Community' => 'Gemeinschaften',
     'Computers' => 'Computer',
     'FPS Games' => 'FPS Spiele',
