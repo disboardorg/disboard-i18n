@@ -22,7 +22,7 @@
 	"Server ID": "서버 ID",
 	"Default channel": "기본 채널",
 	"Command alias": "명령어 별명",
-	"Shard ID": "シャード ID",
+	"Shard ID": "Shard ID",
 	"Main Language": "메인 언어",
 	"Not set": "설정 하지 않음",
 	"Return the server page URL on DISBOARD": "디스보드 서버의 개별 페이지를 표시할게.",
