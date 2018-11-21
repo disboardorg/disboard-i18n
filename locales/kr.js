@@ -11,7 +11,7 @@
 	"Refresh done": "서버 정보를 갱신 했습니다.",
 	"Please give me Create Instant Invite permission to me": "디스 보드의 봇에게 「초대 작성」의 권한을 부여하세요.",
 	"And then send this command: `!disboard refresh`": "그 다음 이 명령어를 전송해 주세요 : `!disboard refresh`",
-	"Your server have not been added to DISBOARD (<https://disboard.org/>) :tired_face:": "당신 서버는 아직 디스보드(<https://disboard.org/>)에 추가되어있지 않습니다: tired_face:",
+	"Your server have not been added to DISBOARD (<https://disboard.org/>) :tired_face:": "당신 서버는 아직 디스보드(<https://disboard.org/>)에 추가되어있지 않습니다 :tired_face:",
 	"Please add one to the site before using this bot!": "이 봇을 사용하기 전에 먼저 서버를 추가해줘!",
 	"Change Instant Invite to this channel": "초대 링크를 이 채널로 변경할게.",
 	"I couldn't bump your server because it's private": "서버가 비공개 되어 있어서 갱신할수 없었어.",
