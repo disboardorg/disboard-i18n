@@ -93,7 +93,7 @@ return [
     'Reviews of {serverName}' => 'Opiniones de {serverName}',
     'Save' => 'Guardar',
     'See: <a href="{url}" target="_blank">screen capture</a>' => 'Echa un vistazo a: <a href="{url}" target="_blank">captura de pantalla</a>',
-    'See all reviews' => 'Ver todas las opiniones',
+    'See all Discord reviews' => 'Ver todas las opiniones',
     'See all Discord servers' => 'Ver todos los Servidores de Discord',
     'See More Discord Servers' => 'Ver más Servidores de Discord',
     'Search' => 'Buscar',
