@@ -1,6 +1,6 @@
 {
 	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Hi! Ich bin ein Bot für DISBOARD (<https://disboard.org/>)",
-	"COMMAND LIST": "BEFEHL LISTE",
+	"COMMAND LIST": "LISTE DER BEFEHLE",
 	"This!": "Das!",
 	"Bump this server": "Bumpe diesen Server",
 	"Bump done": "Bump erfolgreich",
@@ -8,9 +8,9 @@
 		"one": "Bitte warte eine weitere Minute",
 		"other": "Bitte warte weitere %s Minuten"
 	},
-	"Refresh done": "Aktualisierung erflogreich",
-	"Please give me Create Instant Invite permission to me": "Bitte gebe mit die Soforteinladung Erstellen Berrechtigung",
-	"And then send this command: `!disboard refresh`": "Sende dann diesen Command: `!disboard refresh`",
+	"Refresh done": "Aktualisierung erfolgreich",
+	"Please give me Create Instant Invite permission to me": "Bitte gib mir die Berechtigung, Einladungen zu erstellen.",
+	"And then send this command: `!disboard refresh`": "Nutze dann den Befehl: `!disboard refresh`",
 	"Your server have not been added to DISBOARD (<https://disboard.org/>) :tired_face:": "Dein Server wurde noch nicht zu DISBOARD (<https://disboard.org/>) hinzugefügt :tired_face:",
 	"Please add one to the site before using this bot!": "Bitte füge einen Server zu der Seite hinzu bevor du den Bot nutzt",
 	"Change Instant Invite to this channel": "Ändert die Soforteinladung zu diesem Channel",
@@ -20,16 +20,16 @@
 	"Check it on DISBOARD": "Sehe es auf DISBOARD",
 	"DISBOARD: The Public Server List": "DISBOARD: Die öffentliche Server Liste",
 	"Server ID": "Server ID",
-	"Default channel": "Standart Channel",
+	"Default channel": "Standard Channel",
 	"Command alias": "Befehlsalias",
 	"Shard ID": "Shard ID",
-	"Main Language": "Server Sprache",
+	"Main Language": "Serversprache",
 	"Not set": "Nicht festgelegt",
 	"Return the server page URL on DISBOARD": "Gibt die Serverseite URL auf DISBOARD wieder",
-	"Usage: `!disboard alias <alias>`": "Benutzung: `!disboard alias <alias>`",
+	"Usage: `!disboard alias <alias>`": "Korrekte Schreibweise: `!disboard alias <alias>`",
 	"Set the command alias to *<alias>*": "Setzt den Befehlsalias zu *<alias>*",
 	"The command alias has been changed to **`%s`**": "Der Befehlsalias wurde geändert zu **`%s`**",
 	"The command alias length should be less than %d": "Die Länge des Befehlsalias sollte kürzer als %d sein",
-	"Admin only": "Nur Administartoren",
-	"This command can only be executed by administrators": "Dieser Befehl kann nur von Administartoren ausgeführt werden."
+	"Admin only": "Nur Administratoren",
+	"This command can only be executed by administrators": "Dieser Befehl kann nur von Administratoren ausgeführt werden."
 }
