@@ -84,7 +84,7 @@ return [
     'More about {appName}' => '{appName} 에 대해',
     'Not Found' => '페이지를 찾을 수 없습니다.',
     'No reviews and ratings yet' => '이 서버에는 아직 리뷰・평가가 없습니다.',
-    'No results found for <strong>{keyword}<strong>' => '<strong>{keyword}</strong> 의 검색결과를 찾을 수 없었습니다.',
+    'No results found for <strong>{keyword}</strong>' => '<strong>{keyword}</strong> 의 검색결과를 찾을 수 없었습니다.',
     'Official Discord Server' => '공식 Discord 서버',
     'Official verified partners' => '공식 인증된 파트너',
     'Owner servers' => '소유 서버',

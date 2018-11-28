@@ -67,7 +67,7 @@ return [
     'More about {appName}' => 'Más sobre {appName}',
     'Not Found' => 'No Encontrado',
     'No reviews and ratings yet' => 'No hay reseñas ni calificaciones todavía',
-    'No results found for <strong>{keyword}<strong>' => 'No se han encontrado resultados para <strong>{keyword}</strong>',
+    'No results found for <strong>{keyword}</strong>' => 'No se han encontrado resultados para <strong>{keyword}</strong>',
     'Official Discord Server' => 'Servidor Oficial de Discord',
     'Official verified partners' => 'Servidores verificados oficiales',
     'Owner servers' => 'Servidores en propiedad',
