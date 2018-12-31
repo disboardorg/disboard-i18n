@@ -1,20 +1,35 @@
 {
 	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Hi! Ako ay isang bot para sa DISBOARD (<https://disboard.org/>)",
-	"COMMAND LIST": "Listahan ng Commands",
+	"COMMAND LIST": "Listahan ng mga Utos",
 	"This!": "Ito!",
 	"Bump this server": "Bump ang server na ito",
-	"Change Instant Invite to this channel": "Baguhin ang Instant Invite sa channel na ito",
 	"Bump done": "Bump done",
-	"Please wait another %s minute": {
+	"Please wait another **%s** minute": {
 		"one": "Maghintay ng %s minuto",
 		"other": "Maghintay ng %s minuto"
 	},
 	"Refresh done": "Tapos na ang refresh",
-	"Please give me Create Instant Invite permission to me": "Paki bigyan ako ng pahintulot na Gumawa ng `Create Instant`",
+	"Please give me Create Instant Invite permission to me": "Paki bigyan ako ng pahintulot na Gumawa ng `Create Instant Invite`",
 	"And then send this command: `!disboard refresh`": "Pagkatapos i-send ang utos na ito: `!disboard refresh`",
 	"Your server have not been added to DISBOARD (<https://disboard.org/>) :tired_face:": "Ang iyong server ay hinda pa idinagdag sa DISBOARD (<https://disboard.org/>) :tired_face:",
-	"Please add one to the site before using this bot!": "Mangyaring magdagdag ng isa sa site bago gamitin ang bot na ito!",
-	"Invite link has been changed": "Ang invite link ay nag bago",
+	"Please add one to the site before using this bot!": "Mangyaring magdagdag ng isa sa site bago gamitin ang bot na ito！",
+	"Change Instant Invite to this channel": "Baguhin ang Instant Invite sa channel na ito",
 	"I couldn't bump your server because it's private": "Hindi ko mai-bump ang iyong server dahil pribado ito",
-	"Edit your server at Dashboard: https://disboard.org/dashboard": "I-edit ang iyong server sa Dashboard: https://disboard.org/dashboard"
+	"Edit your server at Dashboard: https://disboard.org/dashboard": "I-edit ang iyong server sa Dashboard: https://disboard.org/dashboard",
+	"Invite link has been changed": "Ang invite link ay nag bago",
+	"Check it on DISBOARD": "Tingnan sa DISBOARD",
+	"DISBOARD: The Public Server List": "DISBOARD: Ang pampublikong Listahan ng mga Servers",
+	"Server ID": "Server ID",
+	"Default channel": "Default channel",
+	"Command alias": "Alias ng utos",
+	"Shard ID": "Shard ID",
+	"Main Language": "Pangunahing Wika",
+	"Not set": "Hindi naka-set",
+	"Return the server page URL on DISBOARD": "Ibalik ang server page URL sa DISBOARD",
+	"Usage: `!disboard alias <alias>`": "Paggamit: `!disboard alias <alias>`",
+	"Set the command alias to *<alias>*": "Na-set ang alias ng utos sa *<alias>*",
+	"The command alias has been changed to **`%s`**": "Ang alias ng utos ay na palitan sa **`%s`**",
+	"The command alias length should be less than %d": "Ang alias ng utos ay dapat na mas mababa sa %d",
+	"Admin only": "Admin lamang",
+	"This command can only be executed by administrators": "Ang utos na ito ay maaaring ipatupad lamang ng mga administrators！"
 }
