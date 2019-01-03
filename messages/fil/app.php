@@ -136,7 +136,7 @@ return [
     '{0, plural, =1{# hour} other{# hours}} ago' => '{0} oras na nakalipas',
     '{0, plural, =1{# minute} other{# minutes}} ago' => '{0} minuto na nakalipas',
     '{0, plural, =1{# second} other{# seconds}} ago' => '{0} segundo na nakalipas',
-    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'Ang DISBOARD ay ginawa upang lalong ma i-enjoy ang Discord.<br> Inaasahan namin na makahanap ka ng mga kahanga-hangang servers ng Discord at mga kaibigan dito 😊',    
+    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'Ang DISBOARD ay ginawa upang lalong ma i-enjoy ang Discord.<br> Inaasahan namin na makahanap ka ng mga kahanga-hangang servers ng Discord at mga kaibigan dito 😊',
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Mag tuklas ng <span class="discord-logo">Discord</span> Servers',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Kumokonekta kami ng mga <strong>Discord servers</strong> at mga taong magsama-sama',
@@ -144,7 +144,7 @@ return [
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> ay ang lugar kung saan maaari mong <strong> ilista/mahanap ang mga server ng Discord </strong>.',
     'Find and join some awesome servers listed here.' => 'Mag hanap at sumali ng mga kahanga-hangang servers na naka lista dito.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'O <a href="{login-url}"> pag-login </a> at <strong> idagdag ang iyong server kung ikaw ay may-ari ng server</strong> 😎',
-    'Add Your Server!' => 'サーバーを掲載する!', // The large button
+    'Add Your Server!' => 'Ilagay ang iyong Server!', // The large button
     /* Categories */
     'Adventure Games' => 'Pakikipagsapalaran Laro',
     'All Games' => 'Lahat ng Laro',
