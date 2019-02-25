@@ -110,7 +110,7 @@ return [
     'Users' => 'Пользователи',
     'View' => 'Просмотр', // view server button on Dashboard
     'Want to be a partner?' => 'Хотите стать партнером?',
-    'Why don\'t you review your favorite server?' => 'Почему бы вам не написать отзыв на ваш любимый сервер?',
+    'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => 'Почему бы вам не написать отзыв на ваш любимый сервер?',
     'You haven\'t added a server yet' => 'Вы еще не добавили сервер!',
     'Your servers' => 'Ваши сервера',
     'Your reviews' => 'Ваши отзывы',

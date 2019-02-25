@@ -130,7 +130,7 @@ return [
     'Users' => 'Benutzer',
     'View' => 'Erfahre mehr', // view server button on Dashboard
     'Want to be a partner?' => 'Möchtest du ein Partner sein?',
-    'Why don\'t you review your favorite server?' => 'Wieso bewertest du nicht deinen Liebling\'s Server?',
+    'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => 'Wieso bewertest du nicht deinen Liebling\'s Server?',
     'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => 'Wieso <a href="{reviewUrl}">bewertest du nicht <strong>{serverName}</strong></a>?',
     'You haven\'t added a server yet' => 'Du hast zur Zeit noch keinen Server hinzugefügt!',
     'Your servers' => 'Deine Server',
