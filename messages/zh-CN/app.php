@@ -39,6 +39,7 @@ return [
     '<b>Categories</b> and <b>Popular tags</b>' =>  '<b>分类</b> 和 <b>热门标签</b>',
     'Could not delete the server' => '无法删除该服务器',
     'Could not delete the review' => '无法删除该评论',
+    'Created at {datetime}' => '创建于{datetime}',
     'Dashboard' => '设定',
     'Descending' => '降序',
     'Description' => '介绍',
@@ -53,6 +54,7 @@ return [
     'Discord Servers Bumped Recently' => '最近顶过的服务器',
     'Don\'t forget to check "Set this link to never expire"' => '请确保服务器邀请无失效期！（服务器永久邀请码应为7字母长）',
     'Edit' => '編集',
+    'Edit Server' => '编辑服务器',
     'Enter keyword(s)' => '关键词搜索',
     'Failed to Sync' => '同步失败',
     'Games' => '游戏',
@@ -69,12 +71,12 @@ return [
     'Language' => '语言',
     'Login' => '登陆',
     'Logout' => '退出',
-    'Manage Server' => '管理服务器',
     'Main Language' => '主要语言',
     'Member Count' => '成员',
     '<b>{number}</b> online' => '<b>{number}</b> 在线', // online member count
     '<b>{number}</b> total' => '<b>{number}</b> 成员', // toal member count
     '{time, plural, =1{# minute} other{# minutes}}' => '{time} 分钟',
+    'New!' => '新!',
     'New Review' => '新评论',
     '<b>{number}</b> total' => '<b>{number}</b> 成员', // toal member count
     'More about {appName}' => '更多关于 {appName}',
