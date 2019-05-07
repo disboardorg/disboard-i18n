@@ -63,7 +63,7 @@ return [
     'Member Count' => 'Miembros Totales',
     '<b>{number}</b> online' => '<b>{number}</b> en línea',
     '<b>{number}</b> total' => '<b>{number}</b> en total',
-    '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# minuto} other{# minutos}}',
+    '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# minute} other{# minutes}}',
     'New!' => '¡Nueva!',
     'New Review' => 'Nueva reseña',
     'More about {appName}' => 'Más sobre {appName}',
