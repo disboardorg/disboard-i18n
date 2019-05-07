@@ -76,7 +76,7 @@ return [
     '<b>{number}</b> online' => '<b>{number}</b> 在线', // online member count
     '<b>{number}</b> total' => '<b>{number}</b> 成员', // toal member count
     '{time, plural, =1{# minute} other{# minutes}}' => '{time} 分钟',
-    'New!' => '新!',
+    'New!' => '新！',
     'New Review' => '新评论',
     '<b>{number}</b> total' => '<b>{number}</b> 成员', // toal member count
     'More about {appName}' => '更多关于 {appName}',
@@ -162,7 +162,7 @@ return [
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong>是一个让你 <strong>寻找及分享Discord服务器</strong>的地方。',
     'Find and join some awesome servers listed here.' => '加入那些有趣的服务器，',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => '或者<a href="/login">登陆</a>并且 <strong>添加自己拥有的服务器</strong> 😎',
-    'Add Your Server!' => '添加新的服务器!', // The large button
+    'Add Your Server!' => '添加新的服务器！', // The large button
     /* Categories */
     'Adventure Games' => '冒险游戏',
     'All Games' => '游戏综合',

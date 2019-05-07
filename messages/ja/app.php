@@ -37,7 +37,7 @@ return [
     'Categorize your server by keywords (e.g. game title)' => 'キーワードでサーバーをカテゴライズしよう（例：ゲームの名前など）',
     'Category' => 'カテゴリ',
     '<b>Categories</b> and <b>Popular tags</b>' =>  '<b>カテゴリー</b> と <b>人気タグ</b>',
-    'Copied the URL!' => 'URLをコピーしました!',
+    'Copied the URL!' => 'URLをコピーしました！',
     'Could not bump the server because the invite link is invalid (expired?)' => '招待リンクが無効のためサーバーを上げることができませんでした（期限切れかな？）',
     'Could not delete the server' => 'このサーバーを削除できませんでした',
     'Could not delete the review' => 'このレビューを削除できませんでした',
@@ -82,7 +82,7 @@ return [
     '<b>{number}</b> online' => '<b>{number}</b> オンライン', // online member count
     '<b>{number}</b> total' => '<b>{number}</b> 総数', // toal member count
     '{time, plural, =1{# minute} other{# minutes}}' => '{time} 分',
-    'New!' => 'できたて!',
+    'New!' => 'できたて！',
     'New Review' => '新規レビュー',
     'More about {appName}' => '{appName} について',
     'Not Found' => 'ページが見つかりません',
@@ -173,7 +173,7 @@ return [
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD（ディスボード）</strong>は <strong>Discord（ディスコード）のサーバーを募集/検索できる掲示板</strong>です。',
     'Find and join some awesome servers listed here.' => 'ここであなたにぴったりのサーバーとめぐり逢おう！',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => '<strong>サーバーの管理者 😎 であれば</strong>、<a href="/login">ログイン</a>して<strong>あなたのサーバーを掲載</strong>してみよう！',
-    'Add Your Server!' => 'サーバーを掲載する!', // The large button
+    'Add Your Server!' => 'サーバーを掲載する！', // The large button
     /* Categories */
     'Adventure Games' => 'アドベンチャーゲーム',
     'All Games' => 'ゲーム全般',

@@ -1,6 +1,6 @@
 {
   "DISBOARD: The Public Server List": "DISBOARD: Die öffentliche Serverliste",
-  "Hi! I am the DISBOARD bot(<https://disboard.org/>)": "Hi! Ich bin ein Bot für DISBOARD (<https://disboard.org/>)",
+  "Hi! I am the DISBOARD bot(<https://disboard.org/>)": "Hallo! Ich bin ein Bot für DISBOARD (<https://disboard.org/>)",
   "COMMAND LIST": "LISTE DER BEFEHLE",
   "This!": "Das!",
   "Bump this server": "Bumpe diesen Server",

@@ -132,7 +132,7 @@ return [
     'Want to be a partner?' => '¿Quieres ser un afiliado?',
     'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => '¿Por qué no escribes una reseña de tu servidor favorito?',
     'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => '¿Por qué no escribes <a href="{reviewUrl}">una reseña de <strong>{serverName}</strong></a>?',
-    'You haven\'t added a server yet' => '¡Todavía no has añadido ningún servidor!',
+    'You haven\'t added a server yet' => 'Todavía no has añadido ningún servidor',
     'Your servers' => 'tus servidores',
     'Your reviews' => 'Tus reseñas',
     'Your server has been bumped' => 'Tu servidor ha sido saltado',
