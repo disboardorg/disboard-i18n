@@ -1,6 +1,6 @@
 {
 	"DISBOARD: The Public Server List": "DISBOARD: список публичных серверов",
-	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Привет! Я бот для DISBOARD (<https://disboard.org/>)",
+	"Hi! I am the DISBOARD bot(<https://disboard.org/>)": "Привет! Я бот для DISBOARD (<https://disboard.org/>)",
 	"COMMAND LIST": "СПИСОК КОММАНД",
 	"This!": "Это!",
 	"Bump this server": "Повысить этот сервер",
@@ -11,8 +11,8 @@
 	"Check it on DISBOARD": "Проверьте это на DISBOARD",
 	"Please give me `Create Instant Invite` permission on this channel": "Пожалуйста, дайте мне разрешение создавать Экспресс Приглашения",
 	"And then send this command: `%s`": "Затем используйте эту комманду: `%s`",
-	"Send this command to create invite: `%s`": "Отправьте эту команду для создания приглашения: `%s`",
-	"Invite link has been changed": "Пригласительная ссылка была изменена",
+	"Send this command to create instant invite: `%s`": "Отправьте эту команду для создания приглашения: `%s`",
+	"Instant invite link has been changed": "Пригласительная ссылка была изменена",
 	"This command can only be executed by administrators": "Эта команда может быть исполнена только администраторами",
 	"Server ID": "ID Сервера",
 	"Shard ID": "ID Шарда",

@@ -1,6 +1,6 @@
 {
 	"DISBOARD: The Public Server List": "DISBOARD: Ang Listahan ng Pampublikong Server",
-	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Hi! Ako ay isang bot para sa DISBOARD (<https://disboard.org/>)",
+	"Hi! I am the DISBOARD bot(<https://disboard.org/>)": "Hi! Ako ay isang bot para sa DISBOARD (<https://disboard.org/>)",
 	"COMMAND LIST": "Listahan ng mga Utos",
 	"This!": "Ito!",
 	"Bump this server": "Bump ang server na ito",
@@ -11,8 +11,8 @@
 	"Check it on DISBOARD": "Tingnan sa DISBOARD",
 	"Please give me `Create Instant Invite` permission on this channel": "Paki bigyan ako ng pahintulot na Gumawa ng `Create Instant Invite`",
 	"And then send this command: `%s`": "Pagkatapos i-send ang utos na ito: `%s`",
-	"Send this command to create invite: `%s`": "Ipadala ang command na ito upang lumikha ng imbitasyon: `%s`",
-	"Invite link has been changed": "Ang invite link ay nag bago",
+	"Send this command to create instant invite: `%s`": "Ipadala ang command na ito upang lumikha ng imbitasyon: `%s`",
+	"Instant invite link has been changed": "Ang invite link ay nag bago",
 	"This command can only be executed by administrators": "Ang utos na ito ay maaaring ipatupad lamang ng mga administrators！",
 	"Server ID": "Server ID",
 	"Shard ID": "Shard ID",

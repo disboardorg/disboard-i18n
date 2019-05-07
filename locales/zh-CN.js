@@ -1,6 +1,6 @@
 {
 	"DISBOARD: The Public Server List": "DISBOARD: 公共服务器列表",
-	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "哈喽！我是DISBOARD (<https://disboard.org/zh-cn>) 的机器人！",
+	"Hi! I am the DISBOARD bot(<https://disboard.org/>)": "哈喽！我是DISBOARD (<https://disboard.org/zh-cn>) 的机器人！",
 	"COMMAND LIST": "命令列表",
 	"This!": "就是这个！",
 	"Bump this server": "在服务器列表上顶本服务器",
@@ -11,8 +11,8 @@
 	"Check it on DISBOARD": "在 DISBOARD 上查看",
 	"Please give me `Create Instant Invite` permission on this channel": "请给我`建立即时邀请`的权限",
 	"And then send this command: `%s`": "然后输入 `%s`",
-	"Send this command to create invite: `%s`": "发送此命令以创建邀请: `%s`",
-	"Invite link has been changed": "邀请链接已更改",
+	"Send this command to create instant invite: `%s`": "发送此命令以创建邀请: `%s`",
+	"Instant invite link has been changed": "邀请链接已更改",
 	"This command can only be executed by administrators": "只有管理员才能运行该命令",
 	"Server ID": "服务器 ID",
 	"Shard ID": "Shard ID",

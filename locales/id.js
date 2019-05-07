@@ -1,6 +1,6 @@
 {
 	"DISBOARD: The Public Server List": "DISBOARD: Daftar Server Publik",
-	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Hi! aku adalah bot DISBOARD (<https://disboard.org/>)",
+	"Hi! I am the DISBOARD bot(<https://disboard.org/>)": "Hi! aku adalah bot DISBOARD (<https://disboard.org/>)",
 	"COMMAND LIST": "List Perintah",
 	"This!": "Ini!",
 	"Bump this server": "Bump server ini",
@@ -11,8 +11,8 @@
 	"Check it on DISBOARD": "Periksa di DISBOARD",
 	"Please give me `Create Instant Invite` permission on this channel": "Tolong beri saya Buat undangan Instan Undangan",
 	"And then send this command: `%s`": "Dan kemudian kirim perintah ini: `%s`",
-	"Send this command to create invite: `%s`": "Kirim perintah ini untuk membuat undangan: `%s`",
-	"Invite link has been changed": "Jemput pautan telah ditukar",
+	"Send this command to create instant invite: `%s`": "Kirim perintah ini untuk membuat undangan: `%s`",
+	"Instant invite link has been changed": "Jemput pautan telah ditukar",
 	"This command can only be executed by administrators": "Perintah ini hanya dapat dieksekusi oleh administrator",
 	"Server ID": "Server ID",
 	"Shard ID": "Shard ID",

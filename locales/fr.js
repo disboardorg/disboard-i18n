@@ -1,6 +1,6 @@
 {
 	"DISBOARD: The Public Server List": "DISBOARD: La Liste des Serveurs Publics",
-	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Salut! Je suis un bot pour for DISBOARD (<https://disboard.org/>)",
+	"Hi! I am the DISBOARD bot(<https://disboard.org/>)": "Salut! Je suis un bot pour for DISBOARD (<https://disboard.org/>)",
 	"COMMAND LIST": "LISTE DES COMMANDES",
 	"This!": "Ceci!",
 	"Bump this server": "Bump ce serveur",
@@ -11,8 +11,8 @@
 	"Check it on DISBOARD": "Vérifiez ça sur DISBOARD",
 	"Please give me `Create Instant Invite` permission on this channel": "S'il vous plait, donnez moi la permission `Create Instant Invite` dans ce channel",
 	"And then send this command: `%s`": "Et ensuite, envoyez cette commande: `%s`",
-	"Send this command to create invite: `%s`": "Envoyez cette commande pour rafraichir l'invitation: `%s`",
-	"Invite link has been changed": "Le lien d'invitation a été changé",
+	"Send this command to create instant invite: `%s`": "Envoyez cette commande pour rafraichir l'invitation: `%s`",
+	"Instant invite link has been changed": "Le lien d'invitation a été changé",
 	"This command can only be executed by administrators": "Cette commande ne peut être executée par les administrateurs",
 	"Server ID": "ID du Serveur",
 	"Shard ID": "ID du fragment",

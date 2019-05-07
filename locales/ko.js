@@ -1,6 +1,6 @@
 {
 	"DISBOARD: The Public Server List": "DISBOARD: Discord 서버 게시판",
-	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "안녕!. 나는 디스보드(<https://disboard.org/ko>)의 봇이야!",
+	"Hi! I am the DISBOARD bot(<https://disboard.org/>)": "안녕!. 나는 디스보드(<https://disboard.org/ko>)의 봇이야!",
 	"COMMAND LIST": "명령어 목록",
 	"This!": "지금 표시되고 있는 거야!",
 	"Bump this server": "이 서버를 갱신할게!",
@@ -11,8 +11,8 @@
 	"Check it on DISBOARD": "DISBOARD에서 확인하십시오",
 	"Please give me `Create Instant Invite` permission on this channel": "디스 보드의 봇에게 「초대 작성」의 권한을 부여하세요",
 	"And then send this command: `%s`": "그 다음 이 명령어를 전송해 주세요 : `!d refresh`",
-	"Send this command to create invite: `%s`": "초대: `%s` 을 생성하려면이 명령을 보내십시오",
-	"Invite link has been changed": "초대 링크가 변경되었어",
+	"Send this command to create instant invite: `%s`": "초대: `%s` 을 생성하려면이 명령을 보내십시오",
+	"Instant invite link has been changed": "초대 링크가 변경되었어",
 	"This command can only be executed by administrators": "이 명령어는 관리자만 사용할수 있어",
 	"Server ID": "서버 ID",
 	"Shard ID": "Shard ID",
