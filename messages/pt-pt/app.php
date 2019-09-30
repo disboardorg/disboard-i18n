@@ -76,7 +76,7 @@ return [
     'Partners' => 'Parceiros',
     'Please enter no more than {tagLimit} tags.' => 'Respeite o limite de {tagLimit} etiquetas.',
     'Please select a server' => 'Por favor selecione um servidor',
-    'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Por favor espere {time, plural, =1{# minuto} other{# minutos}} para voltar a fazer bump ao servidor',
+    'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Por favor espere {0, plural, =1{# minuto} other{# minutos}} para voltar a fazer bump ao servidor',
     'Popular Tags' => 'Etiquetas populares',
     'Private' => 'Privado',
     'Public' => 'Público',
