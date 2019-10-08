@@ -147,7 +147,7 @@ return [
     '{0, plural, =1{# second} other{# seconds}} ago' => '{0, plural, =1{# seconde} other{# secondes}}',
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD est crée pour tous de s\'amuser plus en Discord.<br>On vous espère de trouver des bons serveurs Discord et amis ici 😊.',
     /* Welcome Messages on home page */
-    'Discover <span class="discord-logo">Discord</span> Servers' => 'Découverir des serveurs <span class="discord-logo">Discord</span>',
+    'Discover <span class="discord-logo">Discord</span> Servers' => 'Découvrir des serveurs <span class="discord-logo">Discord</span>',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Nouc connectons les <strong>Serveurs Discord</strong> et les <b>personnes</b> ensemble',
     'Public <span class="discord-logo">Discord</span> Servers' => 'Serveurs <span class="discord-logo">Discord</span> Publics',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> est l\'endroid où vous pouvez <strong>lister/trouver des serveurs Discord</strong>',
