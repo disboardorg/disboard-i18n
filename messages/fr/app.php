@@ -94,8 +94,8 @@ return [
     'Reviews of {serverName}' => 'Avis sur {serverName}',
     'Save' => 'Sauvegarder',
     'See: <a href="{url}" target="_blank">screen capture</a>' => 'Siehe <a href="{url}" target="_blank">capture d\'écran</a>',
-    'See all reviews' => 'Voir tout les avis',
-    'See all Discord servers' => 'Voir tout les serveurs Discord',
+    'See all reviews' => 'Voir tous les avis',
+    'See all Discord servers' => 'Voir tous les serveurs Discord',
     'See More Discord Servers' => 'Voir Plus de Serveur Discord',
     'Search' => 'Rechercher',
     'Search Discord Servers' => 'Rechercher des Serveurs Discord',
@@ -145,9 +145,9 @@ return [
     '{0, plural, =1{# hour} other{# hours}} ago' => 'Il y a {0, plural, =1{# heure} other{# heures}}',
     '{0, plural, =1{# minute} other{# minutes}} ago' => 'Il y a {0, plural, =1{# minute} other{# minutes}}',
     '{0, plural, =1{# second} other{# seconds}} ago' => '{0, plural, =1{# seconde} other{# secondes}}',
-    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD wurde gemacht, um alle Discord mehr genießen zu lassen.<br>Wir hoffen du findest tolle Discord Server und Freunde hier 😊.',
+    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD est crée pour tous de s\'amuser plus en Discord.<br>On vous espère de trouver des bons serveurs Discord et amis ici 😊.',
     /* Welcome Messages on home page */
-    'Discover <span class="discord-logo">Discord</span> Servers' => 'Entdecken sie <span class="discord-logo">Discord</span> Server',
+    'Discover <span class="discord-logo">Discord</span> Servers' => 'Découverir des serveurs <span class="discord-logo">Discord</span>',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Nouc connectons les <strong>Serveurs Discord</strong> et les <b>personnes</b> ensemble',
     'Public <span class="discord-logo">Discord</span> Servers' => 'Serveurs <span class="discord-logo">Discord</span> Publics',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> est l\'endroid où vous pouvez <strong>lister/trouver des serveurs Discord</strong>',
@@ -156,7 +156,7 @@ return [
     'Add Your Server!' => 'Ajoutre Votre Serveur', // The large button
     /* Categories */
     'Adventure Games' => 'jeux d\'aventure',
-    'All Games' => 'Tout les Jeux',
+    'All Games' => 'Tous les Jeux',
     'Anime · Manga' => 'Anime · Manga',
     'Community' => 'Communauté',
     'Computers' => 'Computer',
