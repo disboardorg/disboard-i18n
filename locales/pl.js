@@ -5,7 +5,7 @@
   "This!": "To, co widzisz!",
   "Bump this server": "Podbij ten serwer",
   "Get server page link": "Uzyskaj link do strony serwera",
-  "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Ustaw, aby zaproszenie kierowało do tego kanału.\nJeśli określono kanał [channel], zostanie utworzone zaproszenie do tego kanału (dostępne tylko dla administratorów)",
+  "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Ustaw, aby zaproszenie kierowało do tego kanału.\nJeśli określono kanał [channel], zostanie utworzone zaproszenie do tego kanału",
   "Admin only": "Tylko dla administratorów",
   "Bump done": "Podbito serwer",
   "Check it on DISBOARD": "Zobacz aktualizację na stronie DISBOARD",
