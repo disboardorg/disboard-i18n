@@ -183,4 +183,8 @@ return [
     'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD es la lista de servidores públicos de Discord. Puedes buscar servidores en cuanto a tus intereses, como Gaming, Anime, Música, etc. ¡Encuentra y únete a algún servidor que te guste por aquí!',
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Resultados para: {keyword}. Hay {count, plural, =1{# servidor} other{# servidores}} esperando a que te unas!',
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Lista de servidores de Discord etiquetados con {tag}. ¡Únete a un servidor que te guste de esta lista!',
+    /* New strings */
+    'Separate by <b>space</b>': 'Separar con <b>espacios</b>',
+    'Settings': 'Opciones',
+    'Servers': 'Servidores',
 ];
