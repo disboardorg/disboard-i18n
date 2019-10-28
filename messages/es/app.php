@@ -184,7 +184,7 @@ return [
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Resultados para: {keyword}. Hay {count, plural, =1{# servidor} other{# servidores}} esperando a que te unas!',
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Lista de servidores de Discord etiquetados con {tag}. ¡Únete a un servidor que te guste de esta lista!',
     /* New strings */
-    'Separate by <b>space</b>': 'Separar con <b>espacios</b>',
-    'Settings': 'Opciones',
-    'Servers': 'Servidores',
+    'Separate by <b>space</b>' => 'Separar con <b>espacios</b>',
+    'Settings' => 'Opciones',
+    'Servers' => 'Servidores',
 ];
