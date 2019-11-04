@@ -108,7 +108,7 @@ return [
     'Report this server' => 'Zgłoś ten serwer',
     'Report Type' => 'Typ zgłoszenia',
     'Review' => 'Recenzja',
-    'Reviews' => 'Rezencje',
+    'Reviews' => 'Recenzje',
     'Reviewed by' => 'Zrecenzjonowane przez',
     '{count, plural, =1{<b>#</b> review} other{<b>#</b> reviews}}' => '{count} recenzji',
     'Review {serverName}' => 'Zrecenzuj serwer {serverName}',
