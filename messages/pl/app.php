@@ -21,7 +21,7 @@ return [
     'Categorize your server by keywords (e.g. game title)' => 'Ustal kategorię serwera według słów kluczowych (np. tytuł gry)',
     'Category' => 'Kategoria',
     '<b>Categories</b> and <b>Popular tags</b>' =>  '<b>Kategorie</b> oraz <b>popularne tagi</b>',
-    'Copied the URL' => 'Skopiowano adres internetowy!',
+    'Copied the URL' => 'Skopiowano adres internetowy',
     'Could not bump the server because the invite link is invalid (expired?)' => 'Nie można podbić serwera, ponieważ link z zaproszeniem jest nieprawidłowy (może wygasł?)',
     'Could not delete the server' => 'Wystąpił błąd podczas usuwania serwera',
     'Could not delete the review' => 'Wystąpił błąd podczas usuwania recenzji',
@@ -52,7 +52,7 @@ return [
     'Go Back' => 'Wróć',
     'Go Home' => 'Przejdź do strony głównej',
     'Home' => 'Strona główna',
-    'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Jeśli nie dodasz bota na serwer, nie będziesz mógł udostępnić żadnych informacji o swoim serwerze, utworzyć linku z zaproszeniem, czy też podbić serwera za pomocą komendy'
+    'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Jeśli nie dodasz bota na serwer, nie będziesz mógł udostępnić żadnych informacji o swoim serwerze, utworzyć linku z zaproszeniem, czy też podbić serwera za pomocą komendy',
     'If your server isn\'t in the above list or dropdown, sync with Discord manually' => 'Jeśli Twojego serwera nie ma na powyższej liście, dokonaj ręcznej synchronizacji z Discord',
     'Invite is not set' => 'Nie ustawiono zaproszenia',
     'You can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'Możesz teraz pisać recenzje i dodawać oceny serwerom, do których dołączyłeś.<br>Polecaj swoje ulubione serwery innym!',

@@ -20,7 +20,7 @@ return [
     'Categorize your server by keywords (e.g. game title)' => 'Categorize o seu servidor com palavras chave (ex: nome do jogo)',
     'Category' => 'Categoria',
     '<b>Categories</b> and <b>Popular tags</b>' =>  '<b>Categorias</b> e <b>Etiquetas Populares</b>',
-    'Copied the URL!' => 'URL copiado!',
+    'Copied the URL' => 'URL copiado',
     'Could not bump the server because the invite link is invalid (expired?)' => 'Não é possível fazer bump no servidor porque o link do convite é invalido (expirado?)',
     'Could not delete the server' => 'Não foi possível eliminar o servidor',
     'Could not delete the review' => 'Não foi possível eliminar a review',

@@ -164,6 +164,7 @@ return [
     'This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.' => 'このサイトは reCAPTCHA によって保護されており、Googleの<a href="https://policies.google.com/privacy">プライバシーポリシー</a>と<a href="https://policies.google.com/terms">利用規約</a>が適用されます。',
     'This will add this server to our public server list' => 'チェックすると掲示板に公開されます',
     'Title' => 'タイトル',
+    '{tag1} and {tag2}(nsfw) tags cannot be set together' => '`{tag1}` タグ と `{tag2}` タグ(NSFW) は一緒に設定できません',
     '<b>{total}</b> servers in total' => '<b>{total}</b> サーバー',
     '<b>{total}</b> reviews in total' => '<b>{total}</b> レビュー',
     'Unmute' => 'ミュート解除',
