@@ -14,7 +14,7 @@
     "Send this command to create invite: %s": "Ve ondan sonra bu komutu gonder: %s",
     "Invite link has been changed": "Davet linki degistirildi",
     "Invalid channel: %s": "Gecersiz kanal: %s",
-    "This command can only be executed by administrators": "Bu komut sadece yˆneticiler tarafindan kullanilabilir",
+    "This command can only be executed by administrators": "Bu komut sadece yoneticiler tarafindan kullanilabilir",
     "Server ID": "Sunucu Kimligi",
     "Shard ID": "Shard Kimligi",
     "Default channel": "Normal kanal",
