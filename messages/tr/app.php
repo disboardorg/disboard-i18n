@@ -41,7 +41,7 @@ return [
     'Discord servers partnered with <span class="brand">DISBOARD</span>' => 'Discord sunuculari ile <span class="brand">DISBOARD</span> ortak oldu',
     'Discord Server List' => 'Discord Sunucu Listesi',
     'Discord Server Reviews' => 'Discord Sunucu Elestirileri',
-    'Discord Servers Bumped Recently' => 'ﬁuanda Patlayan Discord Sunuculari',
+    'Discord Servers Bumped Recently' => 'Suanda Patlayan Discord Sunuculari',
     'Discord servers categorized as <strong>{category}</strong>' => 'Discord sunuculari <strong>{category}</strong> olarak kategorize edildi.',
     'Discord servers tagged with {tag}' => 'Discord sunuculari {tag} ile etiketlendi.',
     '<span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> Sunuculari',
@@ -94,7 +94,7 @@ return [
     'Rating' => 'Derecelendirme',
     'Ratings & Reviews' => 'Derecelendirme & Elestiri',
     'Read more' => 'Daha fazla oku',
-    'Recently deleted server cannot be bumped' => 'ﬁuanlik silinen sunucu patlatilamaz',
+    'Recently deleted server cannot be bumped' => 'Suanlik silinen sunucu patlatilamaz',
     'Recommended' => 'Onerilen',
     'Redirecting' => 'Yonlendirme',
     'Reply' => 'Cevap',
@@ -194,7 +194,7 @@ return [
     'Tabletop Games' => 'Masa Oyunlari',
     'Fighting Games' => 'Dovus Oyunlari',
     /* Meta Descriptions */
-    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD, herkese acik Discord sunucularini listeleyen topluluktur. ›lgilerinize gore Discord sunucularini arayabilirsiniz. Kumar, Anime, Muzik vb. gibi. Listelenen muthis sunuculari bul ve bazilarina gir.',
+    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD, herkese acik Discord sunucularini listeleyen topluluktur. Ilgilerinize gore Discord sunucularini arayabilirsiniz. Kumar, Anime, Muzik vb. gibi. Listelenen muthis sunuculari bul ve bazilarina gir.',
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => '{keyword}: icin sonuclar araniyor. Katilman icin bekliyorlar.',
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => '{tag} ile etiketlenen Discord sunucularini listele. Listelenen sunuculari bul ve bazilarina gir.',
 ];
