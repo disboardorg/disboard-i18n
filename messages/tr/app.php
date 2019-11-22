@@ -17,7 +17,7 @@ return [
     'Bumped At' => 'Patlad˝',
     'Bumped {time}' => '{time} da patlad˝',
     'Bumped recently' => 'GeÁenlerde patlad˝',
-    'Cancel' => '›ptal et,
+    'Cancel' => '›ptal et',
     'Categorize your server by keywords (e.g. game title)' => 'Sunucunu anahtar kelimelerle kategorize et (e.g. titre d\'un jeu)',
     'Category' => 'Kategori',
     '<b>Categories</b> and <b>Popular tags</b>' =>  '<b>Kategoriler</b> et <b>Pop¸ler etiketler</b>',
