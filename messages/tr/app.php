@@ -1,4 +1,10 @@
 <?php
+
+/*
+ALL SPECIAL TURKISH CHARACTERS should be converted to their UTF-8 COUNTERPART
+GitHub does not consume encodings other than UTF-8, nor that I can convert them properly
+*/
+
 return [
     'Ascending' => 'Yukselen',
     'Add New Server' => 'Yeni Sunucu Ekle',
@@ -60,12 +66,12 @@ return [
     '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}">›lk elestirmen olmak icin</a> bu sunucuya gir!',
     'Language' => 'Dil',
     'Login' => 'Giris Yap',
-    'Logout' => '«ikis Yap',
+    'Logout' => 'Cikis Yap',
     'Main Language' => 'Ana Dil',
-    'Member Count' => '‹ye Sayisi',
+    'Member Count' => 'Uye Sayisi',
     '<b>{number}</b> online' => '<b>{number}</b> aktif',
     '<b>{number}</b> total' => '<b>{number}</b> toplam',
-    '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# minute} other{# minutes}}',
+    '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# dadika} other{# dadika}}',
     'New!' => 'Yeni!',
     'New Review' => 'Yeni Elestiri',
     'More about {appName}' => '{appName} hakkinda',
@@ -81,7 +87,7 @@ return [
     'Please select a server' => 'Lutfen bir sunucu sec',
     'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Lutfen diier patlamaya kadar {0, plural, =1{# dakika} other{# dakika}} bekle',
     'Popular Tags' => 'Populer Etiketler',
-    'Private' => '÷zel',
+    'Private' => 'Ozel',
     'Public' => 'Herkese Acik',
     'Public Discord Servers' => 'Genel Discord Sunuculari',
     'Public Discord Server List' => 'Genel Discord Sunucu Listesi',
@@ -89,7 +95,7 @@ return [
     'Ratings & Reviews' => 'Derecelendirme & Elestiri',
     'Read more' => 'Daha fazla oku',
     'Recently deleted server cannot be bumped' => 'ﬁuanlik silinen sunucu patlatilamaz',
-    'Recommended' => '÷nerilen',
+    'Recommended' => 'Onerilen',
     'Redirecting' => 'Yonlendirme',
     'Reply' => 'Cevap',
     'Reply to Review' => 'Elestiriye Cevap Ver',
@@ -151,16 +157,16 @@ return [
     'just now' => 'suanlik',
     '{0, plural, =1{# day} other{# days}} ago' => '{0, plural, =1{# gun} other{# gun}} once',
     '{0, plural, =1{# hour} other{# hours}} ago' => '{0, plural, =1{# saat} other{# saat}} once',
-    '{0, plural, =1{# minute} other{# minutes}} ago' => 'Il y a {0, plural, =1{# dakika} other{# dakika}} once',
+    '{0, plural, =1{# minute} other{# minutes}} ago' => '{0, plural, =1{# dakika} other{# dakika}} once',
     '{0, plural, =1{# second} other{# seconds}} ago' => '{0, plural, =1{# saniye} other{# saniye}} once',
-    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here ??.' => 'DISBOARD herkesin Discord\'da daha fazla eilenmesi icin yapilmistir.<br>Burada muthis Discord sunuculari ve arkadaslar bulacaiinizi umuyoruz ??.',
+    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD herkesin Discord\'da daha fazla eilenmesi icin yapilmistir.<br>Burada muthis Discord sunuculari ve arkadaslar bulacaiinizi umuyoruz 😊.',
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> Sunucularini Kesfet',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Biz <strong>Discord Sunuculari</strong> ve <b>insanlarla</b> birlikte bailanti kuruyoruz',
     'Public <span class="discord-logo">Discord</span> Servers' => 'Herkese Acik <span class="discord-logo">Discord</span> Sunuculari',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> <strong>Discord sunucularini listeleyip bulacaiiniz</strong> yerdir.',
     'Find and join some awesome servers listed here.' => 'Listelenen harika sunuculari bul ve bazilarina gir.',
-    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> ??' => 'Yada <a href="{login-url}">giris yap</a> ve <strong>eier bir sunucu kurucusuysan sunucunu ekle</strong> ??',
+    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Yada <a href="{login-url}">giris yap</a> ve <strong>eier bir sunucu kurucusuysan sunucunu ekle</strong> 😎',
     'Add Your Server!' => 'Sunucu Ekle', // The large button
     /* Categories */
     'Adventure Games' => 'Macera Oyunlari',
