@@ -88,7 +88,7 @@ return [
     'Please enter no more than {tagLimit} tags.' => 'Bitte füge nicht mehr als {tagLimit} Tags hinzu',
     'Please select a server' => 'Bitte wähle einen Server aus',
     'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Bitte warte {0} Minuten bis der Server gebumpt werden kann',
-    'Please wait another {0, plural, =1{# minute} other{# minutes}} until you can bump' => 'Bitte warte {0} bis du erneut bumpen kannst',
+    'Please wait another {0, plural, =1{# minute} other{# minutes}} until you can bump' => 'Bitte warte {0} Minuten bis du erneut bumpen kannst',
     'Popular Tags' => 'Oft genutzte Tags',
     'Private' => 'Privat',
     'Public' => 'Öffentlich',
