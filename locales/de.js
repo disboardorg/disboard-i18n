@@ -19,7 +19,7 @@
 	"Shard ID": "Shard ID",
 	"Default channel": "Standard Kanal",
 	"Invite Link": "Soforteinladungslink",
-  "Main Language": "Serversprache",
+	"Main Language": "Serversprache",
 	"I'm handling your command": "Ich verarbeite deinen Befehl",
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Dieser Server ist auf privat gesetzt. \nLege über das Dashboard (https://disboard.org/dashboard) den Eintrag auf öffentlich fest, um diesen Server zu bumpen",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Dieser Server wurde auf DISBOARD noch nicht hinzugefügt. \nFüge diesen Server über das Dashboard (https://disboard.org/dashboard) hinzu"
