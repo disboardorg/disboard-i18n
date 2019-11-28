@@ -160,7 +160,6 @@ return [
     'The report has been sent' => '通報が送信されました',
     'The server is set to private' => 'このサーバーは非公開に設定されています',
     'This server is private. Only the owner (you) can view it.' => 'このサーバーは非公開です。オーナー（あなた）しか閲覧できません。',
-    'This server is not public because invite URL is not set' => 'このサーバーは招待URLが設定されていないため非公開になっています',
     'This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.' => 'このサイトは reCAPTCHA によって保護されており、Googleの<a href="https://policies.google.com/privacy">プライバシーポリシー</a>と<a href="https://policies.google.com/terms">利用規約</a>が適用されます。',
     'This will add this server to our public server list' => 'チェックすると掲示板に公開されます',
     'Title' => 'タイトル',

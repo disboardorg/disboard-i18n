@@ -126,7 +126,6 @@ return [
     'Tags' => 'Étiquettes',
     'The server is set to private' => 'Ce serveur est définit sur privé',
     'This server is private. Only the owner (you) can view it.' => 'Ce serveur est privé. Seul le propriétaire (vous) peut le voir.',
-    'This server is not public because invite URL is not set' => 'Ce serveur n\'est pas public car l\'URL d\'invitation n\'est pas défini',
     'This will add this server to our public server list' => 'Cela ajoutera ce serveur à notre liste de serveurs publics',
     'Title' => 'Titre',
     '<b>{total}</b> servers in total' => '<b>{total}</b> serveurs au total',

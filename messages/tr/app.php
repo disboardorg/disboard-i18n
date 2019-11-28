@@ -132,7 +132,6 @@ return [
     'Tags' => 'Etiketler',
     'The server is set to private' => 'Sunucu ozel olarak ayarlandi.',
     'This server is private. Only the owner (you) can view it.' => 'Bu sunucu ozel. Sadece kurucu (sen) gorebilir.',
-    'This server is not public because invite URL is not set' => 'Bu sunucu herkese acik deiil cunku davet linki ayarlanmadi',
     'This will add this server to our public server list' => 'Bu sunucuyu herkese acik sunucu listesine ekleyecek',
     'Title' => 'Baslik',
     '<b>{total}</b> servers in total' => '<b>{total}</b> toplam sunucu',

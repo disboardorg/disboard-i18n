@@ -121,7 +121,6 @@ return [
     'Tags' => 'Mga Tag',
     'The server is set to private' => 'Ang server ay naka-set sa pribado',
     'This server is private. Only the owner (you) can view it.' => 'Ang server na ito ay pribado. Tanging ang may-ari (ikaw) ay maaaring matingnan ito.',
-    'This server is not public because invite URL is not set' => 'Ang server na ito ay hindi pampubliko dahil hindi naitakda ang URL ng pag-imbita',
     'This will add this server to our public server list' => 'Ito ay magdaragdag ng server na ito sa aming listahan ng pampublikong server',
     'Title' => 'Pamagat',
     '<b>{total}</b> servers in total' => '<b>{total}</b> kabuuang servers',

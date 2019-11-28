@@ -110,7 +110,6 @@ return [
     'Tags' => 'Тэги',
     'The server is set to private' => 'Сервер настроен как частный',
     'This server is private. Only the owner (you) can view it.' => 'Этот сервер приватный. Только владелец (du) может видеть его',
-    'This server is not public because invite URL is not set' => 'Этот сервер не публичный, потому что пригласительный URL не был добавлен ',
     'This will add this server to our public server list' => 'Это добавит этот сервер в список публичных серверов',
     'Title' => 'Название',
     'Unspecified' => 'Неопределено',

@@ -143,7 +143,6 @@ return [
     'Tags' => '태그',
     'The server is set to private' => '서버가 비공개로 설정되었습니다',
     'This server is private. Only the owner (you) can view it.' => '이 서버는 비공개 입니다. 오너(당신)만 열람할 수 있습니다.',
-    'This server is not public because invite URL is not set' => '이 서버는 초대 URL이 설정되어있지 않아 비공개 상태입니다.',
     'This will add this server to our public server list' => '체크하면 게시판에 공개됩니다.',
     'Title' => '제목',
     '<b>{total}</b> servers in total' => '<b>{total}</b> 서버',

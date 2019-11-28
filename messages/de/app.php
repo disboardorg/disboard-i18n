@@ -143,7 +143,6 @@ return [
     'The report has been sent' => 'Die Meldung wurde gesendet',
     'The server is set to private' => 'Der Server ist auf privat gesetzt',
     'This server is private. Only the owner (you) can view it.' => 'Dieser Server ist privat nur der Besitzer (du) kannst ihn sehen',
-    'This server is not public because invite URL is not set' => 'Dieser Server ist noch nicht öffentlich weil der Einladungslink nicht gesetzt wurde',
     'This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.' => 'Diese Website ist durch reCAPTCHA und die <a href="https://policies.google.com/privacy">Datenschutzbestimmungen</a> und <a href="https://policies.google.com/terms">Nutzungsbedingungen</a> geschützt.',
     'This will add this server to our public server list' => 'Das wird deinen Server zur öffentlichsen Server Liste hinzufügen',
     'Title' => 'Titel',

@@ -118,7 +118,6 @@ return [
     'Tags' => '标签',
     'The server is set to private' => '服务器设置为私有',
     'This server is private. Only the owner (you) can view it.' => '本服务器不在公共列表上。只有服主（您）可以看到它。',
-    'This server is not public because invite URL is not set' => '由于未设置邀请链接，本服务器现在未显示在列表上。',
     'This will add this server to our public server list' => '选择该框以将服务器置于公共列表上',
     'Title' => '标题',
     '<b>{total}</b> servers in total' => '<b>{total}</b> 个服务器',
