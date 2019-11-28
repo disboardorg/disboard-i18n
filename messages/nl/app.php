@@ -155,12 +155,12 @@ return [
     '{0, plural, =1{# hour} other{# hours}} ago' => '{0, plural, =1{# hour} other{# hours}}',
     '{0, plural, =1{# minute} other{# minutes}} ago' => '{0, plural, =1{# minuut} other{# minuten}}',
     '{0, plural, =1{# second} other{# seconds}} ago' => '{0, plural, =1{# seconde} other{# secondes}}',
-    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord-servers and friends here 😊.' => 'DISBOARD was gemaakt om Discord plezieriger te maken voor iedereen.<br>We hopen dat je hier geweldige Discord servers en vrienden vindt 😊.',
+    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD was gemaakt om Discord plezieriger te maken voor iedereen.<br>We hopen dat je hier geweldige Discord servers en vrienden vindt 😊.',
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Ontdek <span class="discord-logo">Discord</span> Servers',
-    'We connect <strong>Discord-servers</strong> and <b>people</b> together' => 'Wij verbinden <strong>Discord-servers</strong> en <b>mensen</b> samen',
+    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Wij verbinden <strong>Discord-servers</strong> en <b>mensen</b> samen',
     'Public <span class="discord-logo">Discord</span> Servers' => 'Publieke <span class="discord-logo">Discord</span> Servers',
-    '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord-servers</strong>.' => '<strong class="brand">DISBOARD</strong> is dè plek waar jij <strong>Discord-servers kan plaatsen en zoeken</strong>.',
+    '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> is dè plek waar jij <strong>Discord-servers kan plaatsen en zoeken</strong>.',
     'Find and join some awesome servers listed here.' => 'Zoek en verbind met de geweldige servers die hier vermeld zijn.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Of <a href="{login-url}">meld aan</a> en <strong>voeg je eigen server toe als je de eigenaar bent</strong> 😎',
     'Add Your Server!' => 'Voeg Je Server Toe!', // The large button
@@ -190,9 +190,9 @@ return [
     'Tabletop Games' => 'Bordspellen',
     'Fighting Games' => 'Vechtspellen',
     /* Meta Descriptions */
-    'DISBOARD is the public Discord server listing community. You can search Discord-servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD is dè publieke Discord server lijst gemeenschap. Je kan Discord-servers zoeken op interesse zoals Gamen, Anime, Muziek, etc. Vind hier een geweldige server om je bij aan te sluiten!',
+    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD is dè publieke Discord server lijst gemeenschap. Je kan Discord-servers zoeken op interesse zoals Gamen, Anime, Muziek, etc. Vind hier een geweldige server om je bij aan te sluiten!',
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Zoek resultaten voor: {keyword}. Er {count, plural, =1{is # server die} other{zijn # servers die}} wachten op jou!',
-    'List of Discord-servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Lijst van Discord-servers met de {tag} trefwoord. Vind hier een geweldige server om je bij aan te sluiten!',
+    'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Lijst van Discord-servers met de {tag} trefwoord. Vind hier een geweldige server om je bij aan te sluiten!',
     /* New strings */
     'Separate by <b>space</b>' => 'Scheid door een <b>spatie</b>',
     'Settings' => 'Instellingen',
