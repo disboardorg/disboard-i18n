@@ -1,0 +1,27 @@
+{
+  // Swedish translation, generally Sweden Swedish rather than Finland Swedish.
+	"DISBOARD: The Public Server List": "DISBOARD: Den Offentliga Serverlistan",
+	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Hej hej! Jag är bot till DISBOARD (<https://disboard.org/>)",
+	"COMMAND LIST": "LISTA ÖVER KOMMANDON",
+	"This!": "Den här!",
+	"Bump this server": "Bump:a den här servern",
+	"Get server page link": "Få länken till serverns sida",
+	"Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Byta inbjudning till den här kanalen. Om [en kanal] specifieras, skapar inbjudningen till den där kanalen",
+	"Admin only": "Endast administratörer",
+	"Bump done": "Bump:ad klart",
+	"Check it on DISBOARD": "Kolla på DISBOARD",
+	"Please give me `Create Instant Invite` permission on this channel": "Ge mig tillstånd att `Skapa Inbjudan` på den här kanalen, tack!",
+	"And then send this command: `%s`": "Då skicka det här kommandot: `%s`",
+	"Send this command to create invite: `%s`": "Skicka det här kommandot för att skapa inbjudan: `%s`",
+	"Invite link has been changed": "Inbjudninglänken har ändrats",
+	"Invalid channel: %s": "Ogiltig kanal: %s",
+	"This command can only be executed by administrators": "Det här kommandot får bara administratörer utföra",
+	"Server ID": "Server ID",
+	"Shard ID": "Skärva ID",
+	"Default channel": "Standardkanal",
+	"Invite Link": "Inbjudningslänk",
+	"Main Language": "Huvudspråk",
+	"I'm handling your command": "Jag är mitt i att ta hand om ditt kommando",
+	"This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Den här servern är **privat**. \nSätt den till publik på dashboard:et (https://disboard.org/dashboard) för att bump:a servern",
+	"This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Den här servern har inte lagts in på DISBOARD än. \nLägg in den här servern från dashboard:et (https://disboard.org/dashboard)"
+}
