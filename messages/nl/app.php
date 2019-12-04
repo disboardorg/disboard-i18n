@@ -80,7 +80,7 @@ return [
     'Please check the checkbox below before joining "<strong>{serverName}</strong>"' => 'Schakel alsjeblieft het selectievakje hieronder in voordat je binnentreed in "<strong>{serverName}</strong>"',
     'Please enter no more than {tagLimit} tags.' => 'Voeg alsjeblieft niet meer dan {tagLimit} trefwoorden toe.',
     'Please select a server' => 'Selecteer alsjeblieft een server',
-    'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Wacht alsjeblieft nog {time, plural, =1{# minuut} other{# minuten}} totdat de server kan worden gebumpt',
+    'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Wacht alsjeblieft nog {0, plural, =1{# minuut} other{# minuten}} totdat de server kan worden gebumpt',
     'Popular Tags' => 'Populaire Trefwoorden',
     'Private' => 'Privé',
     'Public' => 'Openbaar',
