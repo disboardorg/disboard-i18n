@@ -13,6 +13,7 @@
 	"And then send this command: `%s`": "Y luego usa este comando: `%s`",
 	"Send this command to create invite: `%s`": "Usa este comando para crear una invitación: `%s`",
 	"Invite link has been changed": "See ha cambiado la invitación",
+	"Invite link has not been changed": "Invite link has not been changed",
 	"Invalid channel: %s": "Canal inválido: %s",
 	"This command can only be executed by administrators": "Este comando solo puede ser ejecutado por administradores",
 	"Server ID": "ID del servidor",

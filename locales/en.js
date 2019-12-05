@@ -13,6 +13,7 @@
 	"And then send this command: `%s`": "And then send this command: `%s`",
 	"Send this command to create invite: `%s`": "Send this command to update invite: `%s`",
 	"Invite link has been changed": "Invite link has been changed",
+	"Invite link has not been changed": "Invite link has not been changed",
 	"Invalid channel: %s": "Invalid channel: %s",
 	"This command can only be executed by administrators": "This command can only be executed by administrators",
 	"Server ID": "Server ID",

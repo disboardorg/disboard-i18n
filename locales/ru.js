@@ -13,6 +13,7 @@
 	"And then send this command: `%s`": "Затем используйте эту комманду: `%s`",
 	"Send this command to create invite: `%s`": "Отправьте эту команду для создания приглашения: `%s`",
 	"Invite link has been changed": "Пригласительная ссылка была изменена",
+	"Invite link has not been changed": "Invite link has not been changed",
 	"Invalid channel: %s": "IНеверный канал: %s",
 	"This command can only be executed by administrators": "Эта команда может быть исполнена только администраторами",
 	"Server ID": "ID Сервера",

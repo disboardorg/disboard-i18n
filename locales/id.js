@@ -13,6 +13,7 @@
 	"And then send this command: `%s`": "Dan kemudian kirim perintah ini: `%s`",
 	"Send this command to create invite: `%s`": "Kirim perintah ini untuk membuat undangan: `%s`",
 	"Invite link has been changed": "Jemput pautan telah ditukar",
+	"Invite link has not been changed": "Invite link has not been changed",
 	"Invalid channel: %s": "Saluran tidak valid: %s",
 	"This command can only be executed by administrators": "Perintah ini hanya dapat dieksekusi oleh administrator",
 	"Server ID": "Server ID",

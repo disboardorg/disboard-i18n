@@ -13,6 +13,7 @@
 	"And then send this command: `%s`": "そのあとこのコマンドを送信してください: `%s`",
 	"Send this command to create invite: `%s`": "このコマンドを送信して招待を作成してください: `%s`",
 	"Invite link has been changed": "招待リンクが変更されました",
+	"Invite link has not been changed": "招待リンクが変更されませんでした",
 	"Invalid channel: %s": "チャンネルが無効です: %s",
 	"This command can only be executed by administrators": "このコマンドは管理者のみ実行可能です",
 	"Server ID": "サーバーID",

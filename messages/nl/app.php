@@ -52,7 +52,7 @@ return [
     'Go Back' => 'Ga Terug',
     'Go Home' => 'Ga naar Startpagina',
     'Home' => 'Startpagina',
-    'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Als je de bot niet toevoegt kun je NIET bepaalde informatie zien over je server, een directe uitnodiging link maken of je server bumpen met commando''s.',
+    'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Als je de bot niet toevoegt kun je NIET bepaalde informatie zien over je server, een directe uitnodiging link maken of je server bumpen met commando\'s.',
     'If your server isn\'t in the above list or dropdown, sync with Discord manually' => 'Synchroniseer handmatig met Discord als je server niet boven of in de vervolgkeuzelijst te zien is.',
     'You can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'Je kan nu recensies schrijven en waardeering geven aan de servers die je toetreed.<br>Laten we je favoriete servers aanbevelen aan anderen!',
     'Invite Link' => 'Uitnodiging Link',

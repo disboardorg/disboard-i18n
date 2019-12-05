@@ -9,10 +9,11 @@
     "Admin only": "Sadece yonetici",
     "Bump done": "Patlatma tamamlandi",
     "Check it on DISBOARD": "DISBOARD uzerinden kontrol et",
-    "Please give me Create Instant Invite permission on this channel": "Lutfen bu kanal uzerinde 'Anlik Davet Olustur' yetkisi ver"
-    "And then send this command: %s": Ve ondan sonra bu komutu gonder: %s",
+    "Please give me Create Instant Invite permission on this channel": "Lutfen bu kanal uzerinde 'Anlik Davet Olustur' yetkisi ver",
+    "And then send this command: %s": "Ve ondan sonra bu komutu gonder: %s",
     "Send this command to create invite: %s": "Davet olusturmak icin bu komutu gonder: %s",
     "Invite link has been changed": "Davet linki degistirildi",
+  	"Invite link has not been changed": "Invite link has not been changed",
     "Invalid channel: %s": "Gecersiz kanal: %s",
     "This command can only be executed by administrators": "Bu komut sadece yoneticiler tarafindan kullanilabilir",
     "Server ID": "Sunucu Kimligi",

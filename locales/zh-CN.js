@@ -13,6 +13,7 @@
 	"And then send this command: `%s`": "然后输入 `%s`",
 	"Send this command to create invite: `%s`": "发送此命令以创建邀请: `%s`",
 	"Invite link has been changed": "邀请链接已更改",
+	"Invite link has not been changed": "Invite link has not been changed",
 	"Invalid channel: %s": "無效频道: %s",
 	"This command can only be executed by administrators": "只有管理员才能运行该命令",
 	"Server ID": "服务器 ID",

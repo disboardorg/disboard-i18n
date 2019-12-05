@@ -13,6 +13,7 @@
 	"And then send this command: `%s`": "그 다음 이 명령어를 전송해 주세요 : `!d refresh`",
 	"Send this command to create invite: `%s`": "초대: `%s` 을 생성하려면이 명령을 보내십시오",
 	"Invite link has been changed": "초대 링크가 변경되었어",
+	"Invite link has not been changed": "Invite link has not been changed",
 	"Invalid channel: %s": "잘못된 채널: %s",
 	"This command can only be executed by administrators": "이 명령어는 관리자만 사용할수 있어",
 	"Server ID": "서버 ID",

@@ -13,6 +13,7 @@
 	"And then send this command: `%s`": "En gebruik dan dit commando: `%s`",
 	"Send this command to create invite: `%s`": "Stuur dit commando om de uitnodiging te updaten: `%s`",
 	"Invite link has been changed": "Uitnodigingslink is veranderd",
+	"Invite link has not been changed": "Invite link has not been changed",
 	"Invalid channel: %s": "Ongeldig kanaal: %s",
 	"This command can only be executed by administrators": "Deze commando kan alleen worden uitgevoerd door administratoren",
 	"Server ID": "Server ID",

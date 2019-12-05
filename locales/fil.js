@@ -13,6 +13,7 @@
 	"And then send this command: `%s`": "Pagkatapos i-send ang utos na ito: `%s`",
 	"Send this command to create invite: `%s`": "Ipadala ang command na ito upang lumikha ng imbitasyon: `%s`",
 	"Invite link has been changed": "Ang invite link ay nag bago",
+	"Invite link has not been changed": "Invite link has not been changed",
 	"Invalid channel: %s": "Di-wastong channel: %s",
 	"This command can only be executed by administrators": "Ang utos na ito ay maaaring ipatupad lamang ng mga administrators！",
 	"Server ID": "Server ID",

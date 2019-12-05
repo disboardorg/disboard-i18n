@@ -1,5 +1,4 @@
 {
-  // Swedish translation, generally Sweden Swedish rather than Finland Swedish.
 	"DISBOARD: The Public Server List": "DISBOARD: Den Offentliga Serverlistan",
 	"Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Hej hej! Jag är bot på DISBOARD (<https://disboard.org/>)",
 	"COMMAND LIST": "LISTA ÖVER KOMMANDON",
@@ -14,6 +13,7 @@
 	"And then send this command: `%s`": "Och skicka sedan det här kommandot: `%s`",
 	"Send this command to create invite: `%s`": "Skicka det här kommandot för att skapa inbjudan: `%s`",
 	"Invite link has been changed": "Inbjudningslänken har ändrats",
+	"Invite link has not been changed": "Invite link has not been changed",
 	"Invalid channel: %s": "Ogiltig kanal: %s",
 	"This command can only be executed by administrators": "Det här kommandot kan endast exekveras av administratörer",
 	"Server ID": "Server ID",
