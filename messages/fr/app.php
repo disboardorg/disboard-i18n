@@ -155,7 +155,7 @@ return [
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD est crée pour tous de s\'amuser plus en Discord.<br>On vous espère de trouver des bons serveurs Discord et amis ici 😊.',
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Découvrir des serveurs <span class="discord-logo">Discord</span>',
-    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Nouc connectons les <strong>Serveurs Discord</strong> et les <b>personnes</b> ensemble',
+    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Nous connectons les <strong>Serveurs Discord</strong> et les <b>personnes</b> ensemble',
     'Public <span class="discord-logo">Discord</span> Servers' => 'Serveurs <span class="discord-logo">Discord</span> Publics',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> est l\'endroid où vous pouvez <strong>lister/trouver des serveurs Discord</strong>',
     'Find and join some awesome servers listed here.' => 'Trouvez et rejoignez des serveurs incroyables listés ici.',
