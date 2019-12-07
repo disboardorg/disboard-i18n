@@ -80,7 +80,7 @@ return [
     'Please check the checkbox below before joining "<strong>{serverName}</strong>"' => 'Kryssa för kryssrutan nedan innan du anslutar dig till "<strong>{serverName}</strong>"',
     'Please enter no more than {tagLimit} tags.' => 'Skriv maximalt {tagLimit} taggar.',
     'Please select a server' => 'Välj en server',
-    'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Vänta {time, plural, =1{# minut} other{# minuter}} till tills servern kan bli bump:ad',
+    'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Vänta {0, plural, =1{# minut} other{# minuter}} till tills servern kan bli bump:ad',
     'Popular Tags' => 'Populära taggar',
     'Private' => 'Privat',
     'Public' => 'Offentlig',
