@@ -138,7 +138,7 @@ return [
     'View' => 'Visa', // view server button on Dashboard
     'Want to be a partner?' => 'Vill du bli partner?',
     'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => 'Vill du recensera din favorit <span class="discord-logo">Discord</span>-server?',
-    'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => '<a href="{reviewUrl}">Vill du recensera<strong>{serverName}</strong></a>?',
+    'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => '<a href="{reviewUrl}">Vill du recensera <strong>{serverName}</strong></a>?',
     'You haven\'t added a server yet' => 'Du har inte lagt in en server än',
     'You seem like a robot' => 'Du verkar vara en robot',
     'Your servers' => 'Dina servrar',
