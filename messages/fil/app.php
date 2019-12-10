@@ -83,7 +83,6 @@ return [
     'Rating' => 'Marka',
     'Ratings & Reviews' => 'Marka at mga Pagsusuri',
     'Read more' => 'Magbasa ng higit pa',
-    'Recently deleted server cannot be bumped' => 'Recently deleted server cannot be bumped',
     'Recommended' => 'Inirekomenda',
     'Redirecting' => 'Redirecting',
     'Reply' => 'Sumagot',

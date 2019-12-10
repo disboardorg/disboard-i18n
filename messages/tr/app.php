@@ -94,7 +94,6 @@ return [
     'Rating' => 'Derecelendirme',
     'Ratings & Reviews' => 'Derecelendirme & Elestiri',
     'Read more' => 'Daha fazla oku',
-    'Recently deleted server cannot be bumped' => 'Suanlik silinen sunucu patlatilamaz',
     'Recommended' => 'Onerilen',
     'Redirecting' => 'Yonlendirme',
     'Reply' => 'Cevap',

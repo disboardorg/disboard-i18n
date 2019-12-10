@@ -116,7 +116,6 @@ return [
     'Ratings & Reviews' => '評価とレビュー',
     'Read more' => '続きを読む',
     'reCAPTCHA failed' => 'reCAPTCHAに失敗しました',
-    'Recently deleted server cannot be bumped' => '最近削除されたサーバーは表示順位を上げることができません',
     'Recommended' => '推奨',
     'Redirecting' => 'リダイレクト中',
     'Reply' => '返信',

@@ -88,7 +88,6 @@ return [
     'Public Discord Server List' => 'Lista de Servidores de Discord Públicos',
     'Rating' => 'Calificación',
     'Ratings & Reviews' => 'Calificaciones & Reseñas',
-    'Recently deleted server cannot be bumped' => 'Recently deleted server cannot be bumped',
     'Read more' => 'Leer más',
     'Recommended' => 'Recomendados',
     'Redirecting' => 'Redirecting',

@@ -88,7 +88,6 @@ return [
     'Public Discord Server List' => 'Offentlig Discord Serverlista',
     'Rating' => 'Betyg',
     'Ratings & Reviews' => 'Betyg och Recensioner',
-    'Recently deleted server cannot be bumped' => 'Nyligen borttagna servrar får inte bump:as',
     'Read more' => 'Läs mer',
     'Recommended' => 'Rekommenderad',
     'Redirecting' => 'Omdirigerar',

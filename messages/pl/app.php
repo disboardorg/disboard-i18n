@@ -98,7 +98,6 @@ return [
     'Ratings & Reviews' => 'Oceny i recenzje',
     'Read more' => 'Czytaj więcej',
     'reCAPTCHA failed' => 'reCAPTCHA nie powiodło się',
-    'Recently deleted server cannot be bumped' => 'Niedawno usunięty serwer nie może zostać podbity',
     'Recommended' => 'Rekomendowane',
     'Redirecting' => 'Przekierowanie',
     'Reply' => 'Odpowiedz',

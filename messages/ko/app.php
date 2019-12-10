@@ -105,7 +105,6 @@ return [
     'Rating' => '평가',
     'Ratings & Reviews' => '평가와 리뷰',
     'Read more' => '계속 읽기',
-    'Recently deleted server cannot be bumped' => 'Recently deleted server cannot be bumped',
     'Recommended' => '추천',
     'Redirecting' => 'Redirecting',
     'Reply' => '댓글',

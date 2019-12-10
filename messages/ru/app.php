@@ -75,7 +75,6 @@ return [
     'Rating' => 'Рейтинг',
     'Ratings & Reviews' => 'Рейтинги и Отзывы',
     'Read more' => 'Прочитать больше',
-    'Recently deleted server cannot be bumped' => 'Recently deleted server cannot be bumped',
     'Recommended' => 'Рекомендовано',
     'Redirecting' => 'Redirecting',
     'Reply' => 'Ответить',

@@ -88,7 +88,6 @@ return [
     'Public Discord Server List' => 'Openbare Discord Server Lijst',
     'Rating' => 'Beoordeling',
     'Ratings & Reviews' => 'Beoordelingen & Recensies',
-    'Recently deleted server cannot be bumped' => 'Recent verwijderde servers kunnen niet worden gebumpt',
     'Read more' => 'Lees meer',
     'Recommended' => 'Aanbevolen',
     'Redirecting' => 'Verwijzen',
