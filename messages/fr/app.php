@@ -159,7 +159,7 @@ return [
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> est l\'endroid où vous pouvez <strong>lister/trouver des serveurs Discord</strong>',
     'Find and join some awesome servers listed here.' => 'Trouvez et rejoignez des serveurs incroyables listés ici.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Ou <a href="{login-url}">connectez vous</a> et <strong>ajoutez votre serveur si vous êtes propriétaire d\'un serveur</strong> 😎',
-    'Add Your Server!' => 'Ajoutre Votre Serveur', // The large button
+    'Add Your Server!' => 'Ajouter Votre Serveur !', // The large button
     /* Categories */
     'Adventure Games' => 'jeux d\'aventure',
     'All Games' => 'Tous les Jeux',
