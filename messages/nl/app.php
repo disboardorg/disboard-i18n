@@ -58,7 +58,7 @@ return [
     'Invite Link' => 'Uitnodiging Link',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'Treed a <a href="{invite}">onze server</a> binnen en bekijk de voorwaarden in het <span class="tag is-light">#partners</span> kanaal',
     'Join this Server' => 'Treed deze Server binnen',
-    '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}">Treed deze server binnen</a> om de eerste recensent te zijn!',
+    'Join this server to be the first reviewer!' => 'Treed deze server binnen om de eerste recensent te zijn!',
     'Language' => 'Taal',
     'Login' => 'Meld aan',
     'Logout' => 'Meld uit',

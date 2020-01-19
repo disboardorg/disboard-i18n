@@ -51,7 +51,7 @@ return [
     'Invite Link' => 'Invite Link',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'Sumali sa aming server at e-check ang mga kinakailangan sa <span class="tag is-light">#partners</span> channel',
     'Join this Server' => 'Sumali Dito',
-    '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}"Sumali dito</a> para maging unang tagasuri!',
+    'Join this server to be the first reviewer!' => 'Sumali dito para maging unang tagasuri!',
     'Language' => 'Wika',
     'Login' => 'Mag login',
     'Logout' => 'Mag logout',

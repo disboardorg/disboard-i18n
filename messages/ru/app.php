@@ -48,7 +48,7 @@ return [
     'Invite Link' => 'Пригласительная ссылка',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'Присоединитесь к <a href="{invite}">нашему серверу</a> и прочитайте требования на <span class="tag is-light">#partners</span> канале',
     'Join this Server' => 'Вступить',
-    '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}">Присоединитесь к серверу</a>, чтобы стать первым, кто напишет отзыв!',
+    'Join this server to be the first reviewer!' => 'Присоединитесь к серверу, чтобы стать первым, кто напишет отзыв!',
     'Language' => 'Язык',
     'Login' => 'Логин',
     'Logout' => 'Выход',

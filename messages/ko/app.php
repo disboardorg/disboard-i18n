@@ -74,7 +74,7 @@ return [
     'Invite Link' => '초대 링크',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => '우리 서버에 들어와서 <span class="tag is-light">#partners</span> 채널에 있는 요건을 확인해 주세요.',
     'Join this Server' => '이 서버에 들어가기',
-    '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}">이 서버에 들어가서</a>첫 리뷰어가 되어봅시다!',
+    'Join this server to be the first reviewer!' => '이 서버에 들어가서첫 리뷰어가 되어봅시다!',
     'Language' => '언어',
     'Login' => '로그인',
     'Logout' => '로그아웃',

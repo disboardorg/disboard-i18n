@@ -57,7 +57,7 @@ return [
     'Invite Link' => 'Lien d\'invitation',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'Rejoignez <a href="{invite}">notre serveur</a> et vérifier les pré-requis dans le salon <span class="tag is-light">#partners</span>',
     'Join this Server' => 'Rejoindre ce serveur',
-    '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}">Rejoignez ce serveur</a> afin d\'être le premier à donner votre avis !',
+    'Join this server to be the first reviewer!' => 'Rejoignez ce serveur afin d\'être le premier à donner votre avis !',
     'Language' => 'Langue',
     'Login' => 'Connexion',
     'Logout' => 'Déconnexion',

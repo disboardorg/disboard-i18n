@@ -63,7 +63,7 @@ return [
     'Invite Link' => 'Davet Linki',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'Bizim sunucumuza <a href="{invite}">gir</a> ve gereksinimleri <span class="tag is-light">#partners</span> uzerinden kontrol et.',
     'Join this Server' => 'Sunucuya gir',
-    '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}">›lk elestirmen olmak icin</a> bu sunucuya gir!',
+    'Join this server to be the first reviewer!' => '›lk elestirmen olmak icin bu sunucuya gir!',
     'Language' => 'Dil',
     'Login' => 'Giris Yap',
     'Logout' => 'Cikis Yap',

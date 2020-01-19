@@ -58,7 +58,7 @@ return [
     'Invite Link' => 'Inbjudningslänk',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'Anslut till <a href="{invite}">vår server</a> och kolla på våra krav i kanalen <span class="tag is-light">#partners</span>',
     'Join this Server' => 'Anslut till den här servern',
-    '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}">Anslut till den här servern</a> och bli den första att bedöma den!',
+    'Join this server to be the first reviewer!' => 'Anslut till den här servern och bli den första att bedöma den!',
     'Language' => 'Språk',
     'Login' => 'Logga in',
     'Logout' => 'Logga ut',

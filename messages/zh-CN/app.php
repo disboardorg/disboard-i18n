@@ -55,7 +55,7 @@ return [
     'You can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => '您可以为您已加入的服务器撰写评论。<br>向他人推荐您喜爱的服务器吧！',
     'Invite Link' => '邀请链接',
     'Join this Server' => '加入该服务器',
-    '<a href="{invite}">Join this server</a> to be the first reviewer!' => '<a href="{invite}">加入该服务器</a>来抢先评论！',
+    'Join this server to be the first reviewer!' => '加入该服务器来抢先评论！',
     'Language' => '语言',
     'Login' => '登陆',
     'Logout' => '退出',
