@@ -17,12 +17,12 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Ascending' => '昇順',
-    'Add New Server' => 'サーバーを追加する',
-    'Add Your Server' => 'サーバーを追加する',
-    'Add Bot' => 'ボットを追加',
-    'Add a Tag' => 'タグを追加する',
-    'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => 'ディスボードのボットに <b>招待を作成</b> と <b>メッセージを送信</b> の権限を与えてください。',
+    'Ascending' => '昇序',
+    'Add New Server' => '添加新的伺服器',
+    'Add Your Server' => '添加您的伺服器',
+    'Add Bot' => '邀請機器人',
+    'Add a Tag' => '添加標籤',
+    'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => '請將<b>創建邀請鏈接</b>與<b>發送消息</b>的權限授予給Disboard機器人。',
     'Admin response' => '管理者の返信',
     'Admin servers' => '管理サーバー',
     'After that send this command: <span class="tag is-light">!d invite</span>' => 'その後、このコマンドを送信してください: <span class="tag is-light">!d invite</span>',
