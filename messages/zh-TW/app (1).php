@@ -4,18 +4,30 @@
  * im at austinhuang dot me
  */
 return [
-    'Ascending' => '顺序',
-    'Add New Server' => '添加新的服务器',
-    'Add Your Server' => '添加新的服务器',
-    'Add Bot' => '邀请机器人',
-    'Add a Tag' => '添加标签',
-    'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => '请将<b>创建邀请链接</b>和<b>发送消息</b>的权限授予给Disboard机器人。',
-    'Admin servers' => '您管理的服务器',
-    'After that send this command: <span class="tag is-light">!d invite</span>' => '之后，请在您的服务器中执行以下命令：<span class="tag is-light">!d invite</span>',
-    'Are you sure you want to delete {serverName}?' => '确定删除{serverName}？',
-    'Are you sure you want to delete this review?' => '确定删除该评论？',
-    'Bad Request' => '请求无效',
-    'Be positive, constructive and respectful' => '请发挥正能量，尊重他人并提供建设性的建议！',
+    'Ascending' => '昇序',
+    'Add New Server' => '添加新的伺服器',
+
+    'Add Your Server' => '添加您的伺服器',
+
+    'Add Bot' => '邀請機器人',
+
+    'Add a Tag' => '添加標籤',
+
+    'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => '請將<b>創建邀請鏈接</b>與<b>發送訊息</b>的權限授予給Disboard機器人。',
+
+    'Admin response' => '管理者回應',
+
+    'Admin servers' => '管理之伺服器',
+
+    'After that send this command: <span class="tag is-light">!d invite</span>' => '其後、請在您的伺服器中執行以下命令: <span class="tag is-light">!d invite</span>',
+
+    'Are you sure you want to delete {serverName}?' => '确定刪除{serverName}？',
+
+    'Are you sure you want to delete this review?' => '确定刪除該評論？',
+
+    'Bad Request' => '請求無效',
+
+    'Be positive, constructive and respectful' => '請發揮正能量，尊重他人並提供建設性的建議',
     'Bump' => '顶',
     'Bumped At' => '最先顶的顺序',
     'Bumped {time}' => '于{time}顶过',
