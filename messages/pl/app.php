@@ -107,6 +107,7 @@ return [
     'Report this server' => 'Zgłoś ten serwer',
     'Report Type' => 'Typ zgłoszenia',
     'Review' => 'Recenzja',
+    'Review should be personal feedback only. <br>Do not harm someone\'s reputation, whether it is fact or not.' => 'Recenzja powinna być wyłącznie osobistą opinią. <br>Nie naruszaj czyjejś reputacji.',
     'Reviews' => 'Recenzje',
     'Reviewed by' => 'Zrecenzjonowane przez',
     '{count, plural, =1{<b>#</b> review} other{<b>#</b> reviews}}' => '{count} recenzji',
