@@ -164,7 +164,7 @@ return [
     'Synced with Discord' => 'Synchronisation avec Discord',
     'Tags' => 'Étiquettes',
     'Tags similar to {tag}' => 'Étiquettes similaires à {tag}',
-    'Terms of service' => 'Conditions d\'utilisation',
+    'Terms of Service' => 'Conditions d\'utilisation',
     'The invite of this server is invalid or has expired.' => 'L\'invitation à ce serveur est invalide ou a expiré.',
     'The report has been sent' => 'Le signalement a bien été envoyé',
     'The server is set to private' => 'Ce serveur est définit sur privé',
