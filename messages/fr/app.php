@@ -191,7 +191,7 @@ return [
     'You haven\'t added a server yet' => 'Vous n\'avez pas ajouté de serveur pour l\'instant!',
     'You must be logged in to mute a server' => 'Vous devez être connecté pour masquer un serveur',
     'You must be a member of the server to review it' => 'Vous devez être un membre du serveur afin de lui donner un avis',
-    'Your need to be on the server for at least {duration} days to review' => 'Vous devez être sur le serveur depuis {duration} jours pour laisser un avis',
+    'You need to be in the server for at least {duration} days to review' => 'Vous devez être sur le serveur depuis {duration} jours pour laisser un avis',
     'You need to follow our <a href="{url}" target="_blank">Guidelines</a>' => 'Vous devez respecter notre <a href="{url}" target="_blank">charte d\'utilisation</a>',
     'You seem like a robot' => 'Vous avez l\'air d\'être un robot',
     'Your servers' => 'Vos serveurs',
