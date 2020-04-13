@@ -70,7 +70,7 @@ return [
     '<b>{number}</b> total' => '<b>{number}</b> 成員', // toal member count
     'More about {appName}' => '更多關於 {appName}',
     'Not Found' => '找不到頁面',
-    'No reviews and ratings yet' => '該服務器還沒有評論',
+    'No reviews and ratings yet' => '該伺服器還沒有評論',
     'No results found for <strong>{keyword}</strong>' => '搜索<strong>{keyword}</strong>沒有結果',
     'Official Discord Server' => '官方Discord服務器',
     'Owner servers' => '您所擁有的服務器',
@@ -98,7 +98,7 @@ return [
     'See all Discord servers' => '查看所有Discord服務器',
     'See More Discord Servers' => '查看更多Discord服務器',
     'Search' => '搜索',
-    'Search Discord Servers' => '搜索Discord服務器',
+    'Search Discord Servers' => '搜索Discord伺服器',
     'Search Options' => '搜索選項',
     'Search results for: {keyword}' => '{keyword}的搜索結果',
     'Select a Category' => '選擇分類',
@@ -129,7 +129,7 @@ return [
     'Users' => '用戶',
     'View' => '查看', // view server button on Dashboard
     'Unspecified' => '未選擇',
-    'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => '為何不去評價您喜愛的 <span class="discord-logo">Discord</span> 服務器？',
+    'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => '為何不去評價您喜愛的 <span class="discord-logo">Discord</span> 伺服器？',
     'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => '想評價 <a href="{reviewUrl}"><strong>{serverName}</strong> 嗎？',
     'You haven\'t added a server yet' => '您從未添加過伺服器',
     'Your servers' => '您的服務器',
@@ -152,7 +152,7 @@ return [
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong>是一個讓你 <strong>尋找及分享Discord服務器</strong>的地方。',
     'Find and join some awesome servers listed here.' => '加入那些有趣的服務器，',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => '或者<a href="/login">登陸</a>並且 <strong>添加自己擁有的服務器</strong> 😎',
-    'Add Your Server!' => '添加新的服務器!', // The large button
+    'Add Your Server!' => '添加新的伺服器!', // The large button
     /* Categories */
     'Adventure Games' => '冒險游戲',
     'All Games' => '游戲綜合',
