@@ -191,7 +191,7 @@ return [
     'You haven\'t added a server yet' => 'まだサーバーを追加していません',
     'You must be logged in to mute a server' => 'サーバーをミュートするにはログインしてください',
     'You must be a member of the server to review it' => 'サーバーをレビューするにはメンバーでなければいけません',
-    'Your need to be on the server for at least {duration} days to review' => 'サーバーをレビューするには少なくとも{duration}日間そのサーバーにいる必要があります',
+    'You need to be in the server for at least {duration} days to review' => 'サーバーをレビューするには少なくとも{duration}日間そのサーバーにいる必要があります',
     'You need to follow our <a href="{url}" target="_blank">Guidelines</a>' => '<a href="{url}" target="_blank">ガイドライン</a>に従う必要があります',
     'You seem like a robot' => 'ボットかな？',
     'Your servers' => 'あなたのサーバー',
