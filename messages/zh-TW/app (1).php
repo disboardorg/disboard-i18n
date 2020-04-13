@@ -6,29 +6,18 @@
 return [
     'Ascending' => '昇序',
     'Add New Server' => '添加新的伺服器',
-
     'Add Your Server' => '添加您的伺服器',
-
     'Add Bot' => '邀請機器人',
-
     'Add a Tag' => '添加標籤',
-
     'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => '請將<b>創建邀請鏈接</b>與<b>發送訊息</b>的權限授予給Disboard機器人。',
-
     'Admin response' => '管理者回應',
-
     'Admin servers' => '管理之伺服器',
-
     'After that send this command: <span class="tag is-light">!d invite</span>' => '其後、請在您的伺服器中執行以下命令: <span class="tag is-light">!d invite</span>',
-
     'Are you sure you want to delete {serverName}?' => '确定刪除{serverName}？',
-
     'Are you sure you want to delete this review?' => '确定刪除該評論？',
-
     'Bad Request' => '請求無效',
-
     'Be positive, constructive and respectful' => '請發揮正能量，尊重他人並提供建設性的建議',
-    'Bump' => '顶',
+    'Bump' => '頂',
     'Bumped At' => '最先顶的顺序',
     'Bumped {time}' => '于{time}顶过',
     'Bumped recently' => '最近顶过的服务器',
