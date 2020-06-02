@@ -14,7 +14,7 @@
   "And then send this command: `%s`": "Następnie wpisz tę komendę: `%s`",
   "Send this command to create invite: `%s`": "Wpisz tę komendę, aby utworzyć zaproszenie: `%s`",
   "Invite link has been changed": "Link z zaproszeniem został zmieniony",
-	"Invite link has not been changed": "Invite link has not been changed",
+  "Invite link has not been changed": "Invite link has not been changed",
   "Invalid channel: %s": "Nieprawidłowy kanał: %s",
   "This command can only be executed by administrators": "Tej komendy mogą używać tylko administratorzy",
   "Server ID": "ID serwera",
@@ -26,6 +26,6 @@
   "I'm handling your command": "Przetwarzam twoją komendę",
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Ten serwer został ustawiony jako **prywatny**.\nUdaj się na stronę DISBOARD -  Panel nawigacyjny (https://disboard.org/dashboard), ustaw serwer jako publiczny, inaczej nie podbijesz serwera.",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Ten serwer nie został jeszcze dodany na stronie DISBOARD.\nDodaj ten serwer z poziomu panelu nawigacyjnego (https://disboard.org/dashboard)",
-	"This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
-	"Create invite with `%s` command": "Create invite with `%s` command"
+  "This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
+  "Create invite with `%s` command": "Create invite with `%s` command"
 }
