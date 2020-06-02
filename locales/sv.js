@@ -10,6 +10,7 @@
 	"Bump done": "Bump genomförd",
 	"Check it on DISBOARD": "Kolla på DISBOARD",
 	"Please give me `Create Instant Invite` permission on this channel": "Ge mig tillstånd att `Skapa Inbjudan` på den här kanalen, tack!",
+	"Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Please give me `Manage Channels` permission on this channel in order to receive invite change event",
 	"And then send this command: `%s`": "Och skicka sedan det här kommandot: `%s`",
 	"Send this command to create invite: `%s`": "Skicka det här kommandot för att skapa inbjudan: `%s`",
 	"Invite link has been changed": "Inbjudningslänken har ändrats",
@@ -17,11 +18,14 @@
 	"Invalid channel: %s": "Ogiltig kanal: %s",
 	"This command can only be executed by administrators": "Det här kommandot kan endast exekveras av administratörer",
 	"Server ID": "Server ID",
+	"Cluster ID": "Cluster ID",
 	"Shard ID": "Shard ID",
 	"Default channel": "Standardkanal",
 	"Invite Link": "Inbjudningslänk",
 	"Main Language": "Huvudspråk",
 	"I'm handling your command": "Jag bearbetar ditt kommando",
 	"This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Den här servern är **privat**. \nSätt den till publik på dashboard:en (https://disboard.org/dashboard) för att bump:a servern",
-	"This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Den här servern har inte lagts till på DISBOARD än. \nLägg till den här servern från dashboard:en (https://disboard.org/dashboard)"
+	"This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Den här servern har inte lagts till på DISBOARD än. \nLägg till den här servern från dashboard:en (https://disboard.org/dashboard)",
+	"This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
+	"Create invite with `%s` command": "Create invite with `%s` command"
 }

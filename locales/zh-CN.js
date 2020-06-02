@@ -10,6 +10,7 @@
 	"Bump done": "服务器已顶",
 	"Check it on DISBOARD": "在 DISBOARD 上查看",
 	"Please give me `Create Instant Invite` permission on this channel": "请给我`建立即时邀请`的权限",
+	"Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Please give me `Manage Channels` permission on this channel in order to receive invite change event",
 	"And then send this command: `%s`": "然后输入 `%s`",
 	"Send this command to create invite: `%s`": "发送此命令以创建邀请: `%s`",
 	"Invite link has been changed": "邀请链接已更改",
@@ -17,11 +18,14 @@
 	"Invalid channel: %s": "無效频道: %s",
 	"This command can only be executed by administrators": "只有管理员才能运行该命令",
 	"Server ID": "服务器 ID",
+	"Cluster ID": "Cluster ID",
 	"Shard ID": "Shard ID",
 	"Default channel": "默认频道",
 	"Invite Link": "邀请链接",
 	"Main Language": "服务器语言",
 	"I'm handling your command": "我在处理你的命令",
 	"This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "此服务器设置为私有。\n从仪表板 (https://disboard.org/dashboard) 设置为公共以突破此服务器",
-	"This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "尚未在DISBOARD上添加此服务器。\n从仪表板添加此服务器（https://disboard.org/dashboard）"
+	"This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "尚未在DISBOARD上添加此服务器。\n从仪表板添加此服务器（https://disboard.org/dashboard）",
+	"This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
+	"Create invite with `%s` command": "Create invite with `%s` command"
 }

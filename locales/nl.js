@@ -10,6 +10,7 @@
 	"Bump done": "Bump klaar",
 	"Check it on DISBOARD": "Bekijk het op DISBOARD",
 	"Please give me `Create Instant Invite` permission on this channel": "Geef me alsjeblieft de `Uitnodiging creëren` permissie voor dit kanaal",
+	"Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Please give me `Manage Channels` permission on this channel in order to receive invite change event",
 	"And then send this command: `%s`": "En gebruik dan dit commando: `%s`",
 	"Send this command to create invite: `%s`": "Stuur dit commando om de uitnodiging te updaten: `%s`",
 	"Invite link has been changed": "Uitnodigingslink is veranderd",
@@ -17,11 +18,14 @@
 	"Invalid channel: %s": "Ongeldig kanaal: %s",
 	"This command can only be executed by administrators": "Deze commando kan alleen worden uitgevoerd door administratoren",
 	"Server ID": "Server-ID",
+	"Cluster ID": "Cluster-ID",
 	"Shard ID": "Shard-ID",
 	"Default channel": "Standaardkanaal",
 	"Invite Link": "Uitnodigingslink",
 	"Main Language": "Hoofdtaal",
 	"I'm handling your command": "Je commando is in behandeling",
 	"This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Deze server is op **privé** gezet.\nMaak hem openbaar via het controlepaneel (https://disboard.org/dashboard) om deze server te bumpen",
-	"This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Deze server is nog niet toegevoegd op DISBOARD.\nVoeg deze server toe via het controlepaneel (https://disboard.org/dashboard)"
+	"This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Deze server is nog niet toegevoegd op DISBOARD.\nVoeg deze server toe via het controlepaneel (https://disboard.org/dashboard)",
+	"This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
+	"Create invite with `%s` command": "Create invite with `%s` command"
 }
