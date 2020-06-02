@@ -5,7 +5,7 @@
   "This!": "La page d'aide que vous voyez en ce moment même !",
   "Bump this server": "Bumpe le serveur pour l'afficher en tête des recherches",
   "Get server page link": "Affiche le lien de la page du serveur",
-  "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Changer le lien d'invitation instantanée vers ce salon. Si un salon a été spécifié, une invitation sera créé sur celui-ci",
+  "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Modifie le lien d'invitation vers le salon [channel]. Si un salon a été spécifié, une invitation sera créé sur celui-ci",
   "Admin only": "Administrateur uniquement",
   "Bump done": "Bump effectué ! ",
   "Check it on DISBOARD": "Allez vérifier ça sur DISBOARD ",
