@@ -10,6 +10,7 @@
   "Bump done": "Bump erfolgreich",
   "Check it on DISBOARD": "Sieh es auf DISBOARD",
   "Please give me `Create Instant Invite` permission on this channel": "Bitte gib mir die Berechtigung, in diesem Kanal Einladungen zu erstellen.",
+  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Please give me `Manage Channels` permission on this channel in order to receive invite change event",
   "And then send this command: `%s`": "Nutze dann diesen Befehl: `%s`",
   "Send this command to create invite: `%s`": "Nutze diesen Befehl, um einen Einladungslink zu erstellen: `%s`",
   "Invite link has been changed": "Einladungslink wurde geändert",
