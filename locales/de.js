@@ -17,6 +17,7 @@
   "Invalid channel: %s": "Ungültiger Kanal: %s",
   "This command can only be executed by administrators": "Dieser Befehl kann nur von Administratoren ausgeführt werden.",
   "Server ID": "Server ID",
+  "Cluster ID": "Cluster ID",
   "Shard ID": "Shard ID",
   "Default channel": "Standardkanal",
   "Invite Link": "Einladungslink",
