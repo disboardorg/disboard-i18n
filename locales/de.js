@@ -24,4 +24,6 @@
 	"I'm handling your command": "Ich verarbeite deinen Befehl",
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Dieser Server ist auf **Privat** gestellt. \nStelle den Server über des Dashboard(https://disboard.org/dashboard) auf Öffentlich um, damit du ihn bumpen kannst.",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Dieser Server wurde noch nicht zu DISBOARD hinzugefügt. \nFüge ihn über das Dashboard (https://disboard.org/dashboard) hinzu"
+  "This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
+  "Create invite with `%s` command": "Create invite with `%s` command"
 }
