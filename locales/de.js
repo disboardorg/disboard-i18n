@@ -10,7 +10,7 @@
   "Bump done": "Bump erfolgreich",
   "Check it on DISBOARD": "Sieh es auf DISBOARD",
   "Please give me `Create Instant Invite` permission on this channel": "Bitte gib mir die Berechtigung, in diesem Kanal Einladungen zu erstellen.",
-  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Please give me `Manage Channels` permission on this channel in order to receive invite change event",
+  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Bitte gib mir die `Kanäle verwalten` Berechtigung, um benachrichtigt zu werden, wenn die Einladung geändert wird",
   "And then send this command: `%s`": "Nutze dann diesen Befehl: `%s`",
   "Send this command to create invite: `%s`": "Nutze diesen Befehl, um einen Einladungslink zu erstellen: `%s`",
   "Invite link has been changed": "Einladungslink wurde geändert",
@@ -26,6 +26,6 @@
   "I'm handling your command": "Ich verarbeite deinen Befehl",
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Dieser Server ist auf **Privat** gestellt. \nStelle den Server über des Dashboard(https://disboard.org/dashboard) auf Öffentlich um, damit du ihn bumpen kannst.",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Dieser Server wurde noch nicht zu DISBOARD hinzugefügt. \nFüge ihn über das Dashboard (https://disboard.org/dashboard) hinzu"
-  "This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
-  "Create invite with `%s` command": "Create invite with `%s` command"
+  "This server is not listed because the invite has been deleted": "Dieser Server ist nicht gelistet, da die Einladung gelöscht worden ist",
+  "Create invite with `%s` command": "Erstelle eine Einladung mit dem Befehl `%s`"
 }
