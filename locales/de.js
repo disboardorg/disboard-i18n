@@ -28,6 +28,6 @@
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Dieser Server wurde noch nicht zu DISBOARD hinzugefügt. \nFüge ihn über das Dashboard (https://disboard.org/dashboard) hinzu",
   "This server is not listed because the invite has been deleted": "Dieser Server ist nicht gelistet, da die Einladung gelöscht worden ist",
   "Create invite with `%s` command": "Erstelle eine Einladung mit dem Befehl `%s`",
-  "Command failed": "Der Command war erfolglos",
+  "Command failed": "Der Befehl war erfolglos",
   "DISBOARD API server seems to be down": "Der DISBOARD API Server scheint außer Betrieb zu sein"
 }
