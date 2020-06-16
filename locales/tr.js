@@ -10,7 +10,7 @@
   "Bump done": "Patlatma tamamlandı",
   "Check it on DISBOARD": "DISBOARD üzerinden kontrol et",
   "Please give me Create Instant Invite permission on this channel": "Lütfen bu kanal üzerinde 'Anlık Davet Oluştur' yetkisi ver",
-  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Please give me `Manage Channels` permission on this channel in order to receive invite change event",
+  "Please give me `Manage Channels` permission in order to receive invite change event": "Please give me `Manage Channels` permission in order to receive invite change event",
   "And then send this command: %s": "Ve ondan sonra bu komutu gönder: %s",
   "Send this command to create invite: %s": "Davet oluşturmak için bu komutu gönder: %s",
   "Invite link has been changed": "Davet linki degiştirildi",
@@ -27,5 +27,7 @@
   "This server is set to private. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Bu sunucu **özel** olarak ayarlanmıştir. \nKontrol panelinden (https://disboard.org/dashboard) sunucu patlatmak için herkese açık hale getirin.",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Bu sunucu DISBOARD'a henüz eklenmedi. Kontrol panelinden bu sunucuyu ekle.",
   "This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
-  "Create invite with `%s` command": "Create invite with `%s` command"
+  "Create invite with `%s` command": "Create invite with `%s` command",
+  "Command failed": "Command failed",
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down"
 }

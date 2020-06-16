@@ -10,7 +10,7 @@
   "Bump done": "Bump done",
   "Check it on DISBOARD": "Check it on DISBOARD",
   "Please give me `Create Instant Invite` permission on this channel": "Please give me `Create Instant Invite` permission on this channel",
-  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Please give me `Manage Channels` permission on this channel in order to receive invite change event",
+  "Please give me `Manage Channels` permission in order to receive invite change event": "Please give me `Manage Channels` permission in order to receive invite change event",
   "And then send this command: `%s`": "And then send this command: `%s`",
   "Send this command to create invite: `%s`": "Send this command to update invite: `%s`",
   "Invite link has been changed": "Invite link has been changed",
@@ -27,5 +27,7 @@
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)",
   "This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
-  "Create invite with `%s` command": "Create invite with `%s` command"
+  "Create invite with `%s` command": "Create invite with `%s` command",
+  "Command failed": "Command failed",
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down"
 }

@@ -10,7 +10,7 @@
   "Bump done": "Bump effectué ! ",
   "Check it on DISBOARD": "Allez vérifier ça sur DISBOARD ",
   "Please give me `Create Instant Invite` permission on this channel": "Veuillez me donner la permission `Créer une invitation` dans ce salon",
-  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Veuillez me donner la permission `Gérer le salon` dans ce salon pour que je puisse modifier l'invitation via la commande appropriée",
+  "Please give me `Manage Channels` permission in order to receive invite change event": "Please give me `Manage Channels` permission in order to receive invite change event",
   "And then send this command: `%s`": "Ensuite, envoyez cette commande : `%s`",
   "Send this command to create invite: `%s`": "Envoyez cette commande pour créer une invitation : `%s`",
   "Invite link has been changed": "Le lien d'invitation a bien été modifié",
@@ -27,5 +27,7 @@
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Ce serveur est défini sur **privé**. \nDéfinissez-le sur public depuis le tableau de bord (https://disboard.org/dashboard) pour bumper ce serveur",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Ce serveur n'a pas encore été ajouté sur DISBOARD. \nAjoutez-le via le tableau de bord (https://disboard.org/dashboard)",
   "This server is not listed because the invite has been deleted": "Ce serveur n'a pas été listé car l'invitation a été supprimée",
-  "Create invite with `%s` command": "Générez une invitation avec la commande suivante : `%s`"
+  "Create invite with `%s` command": "Générez une invitation avec la commande suivante : `%s`",
+  "Command failed": "Command failed",
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down"
 }

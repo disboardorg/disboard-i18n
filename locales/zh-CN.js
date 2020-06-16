@@ -10,7 +10,7 @@
   "Bump done": "服务器已顶",
   "Check it on DISBOARD": "在 DISBOARD 上查看",
   "Please give me `Create Instant Invite` permission on this channel": "请给我`建立即时邀请`的权限",
-  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "为保证邀请码正确，请给我`管理频道`的权限",
+  "Please give me `Manage Channels` permission in order to receive invite change event": "Please give me `Manage Channels` permission in order to receive invite change event",
   "And then send this command: `%s`": "然后输入 `%s`",
   "Send this command to create invite: `%s`": "发送此命令以创建邀请: `%s`",
   "Invite link has been changed": "邀请链接已更改",
@@ -27,5 +27,7 @@
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "此服务器设置为私有。\n从仪表板 (https://disboard.org/dashboard) 设置为公开来顶此服务器",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "尚未在DISBOARD上添加此服务器。\n从仪表板添加此服务器（https://disboard.org/dashboard）",
   "This server is not listed because the invite has been deleted": "因邀请已失效，本服务器在网站上处于非公开状态",
-  "Create invite with `%s` command": "请使用 `%s` 命令来创建邀请"
+  "Create invite with `%s` command": "请使用 `%s` 命令来创建邀请",
+  "Command failed": "Command failed",
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down"
 }

@@ -10,7 +10,7 @@
   "Bump done": "Bump genomförd",
   "Check it on DISBOARD": "Kolla på DISBOARD",
   "Please give me `Create Instant Invite` permission on this channel": "Ge mig tillstånd att `Skapa inbjudan` på den här kanalen, tack!",
-  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Ge mig tillstånd att `Hantera kanaler` på den här kanalen för att kunna byta inbjudan, tack!",
+  "Please give me `Manage Channels` permission in order to receive invite change event": "Please give me `Manage Channels` permission in order to receive invite change event",
   "And then send this command: `%s`": "Och skicka sedan det här kommandot: `%s`",
   "Send this command to create invite: `%s`": "Skicka det här kommandot för att skapa inbjudan: `%s`",
   "Invite link has been changed": "Inbjudningslänken har ändrats",
@@ -27,5 +27,7 @@
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Den här servern är **privat**. \nSätt den till publik på dashboarden (https://disboard.org/dashboard) för att bumpa servern",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Den här servern har inte lagts till på DISBOARD än. \nLägg till den här servern från dashboarden (https://disboard.org/dashboard)",
   "This server is not listed because the invite has been deleted": "Den här server är inte listad därför att inbjudan har blivit borttagen",
-  "Create invite with `%s` command": "Skapa inbjudan med `%s`-kommandot"
+  "Create invite with `%s` command": "Skapa inbjudan med `%s`-kommandot",
+  "Command failed": "Command failed",
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down"
 }

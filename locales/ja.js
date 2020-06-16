@@ -10,7 +10,7 @@
   "Bump done": "表示順をアップしたよ",
   "Check it on DISBOARD": "ディスボードで確認してね",
   "Please give me `Create Instant Invite` permission on this channel": "このチャンネルに対して `招待を作成` の権限をください",
-  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "招待変更イベントを受け取るために `チャンネルの管理` の権限をください",
+  "Please give me `Manage Channels` permission in order to receive invite change event": "招待の更新イベントを受け取るために `チャンネルの管理` 権限をください",
   "And then send this command: `%s`": "そのあとこのコマンドを送信してください: `%s`",
   "Send this command to create invite: `%s`": "このコマンドを送信して招待を作成してください: `%s`",
   "Invite link has been changed": "招待リンクが変更されました",
@@ -27,5 +27,7 @@
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "このサーバーは**非公開**に設定されています。\nBumpコマンドを使用するためには、ダッシュボード (https://disboard.org/dashboard) から公開に設定してください。",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "このサーバーはまだディスボードに追加されていません。 \nダッシュボードから追加してください (https://disboard.org/dashboard)",
   "This server is not listed because the invite has been deleted": "招待が削除されたのでこのサーバーはサイトに掲載されません",
-  "Create invite with `%s` command": "`%s` コマンドで招待を作成してください"
+  "Create invite with `%s` command": "`%s` コマンドで招待を作成してください",
+  "Command failed": "コマンドが失敗しちゃいました",
+  "DISBOARD API server seems to be down": "ディスボードのAPIサーバーが落ちてるみたい"
 }

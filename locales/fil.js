@@ -10,7 +10,7 @@
   "Bump done": "Bump done",
   "Check it on DISBOARD": "Tingnan sa DISBOARD",
   "Please give me `Create Instant Invite` permission on this channel": "Paki bigyan ako ng pahintulot na Gumawa ng `Create Instant Invite`",
-  "Please give me `Manage Channels` permission on this channel in order to receive invite change event": "Please give me `Manage Channels` permission on this channel in order to receive invite change event",
+  "Please give me `Manage Channels` permission in order to receive invite change event": "Please give me `Manage Channels` permission in order to receive invite change event",
   "And then send this command: `%s`": "Pagkatapos i-send ang utos na ito: `%s`",
   "Send this command to create invite: `%s`": "Ipadala ang command na ito upang lumikha ng imbitasyon: `%s`",
   "Invite link has been changed": "Ang invite link ay nag bago",
@@ -27,5 +27,7 @@
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Ang server na ito ay naka-set sa pribado. \nItakda sa pampublikong mula sa dashboard (https://disboard.org/dashboard) upang maubos ang server na ito",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Ang server na ito ay hindi naidagdag sa DISBOARD. \nIdagdag ang server na ito mula sa dashboard (https://disboard.org/dashboard)",
   "This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
-  "Create invite with `%s` command": "Create invite with `%s` command"
+  "Create invite with `%s` command": "Create invite with `%s` command",
+  "Command failed": "Command failed",
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down"
 }
