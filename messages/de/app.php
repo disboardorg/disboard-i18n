@@ -124,7 +124,7 @@ return [
     'Select a Category' => 'Wähle eine Kategorie aus',
     'Select Language' => 'Wähle eine Sprache aus',
     'Select a Server' => 'Wähle einen Server aus',
-    'Select a server to add to the public server list on DISBOARD' => 'Wähle einen Server aus, um ihn zur öffentlichen Liste auf DISBOARD hinzuzufügen',
+    'Select a server to add to the public server list on DISBOARD' => 'Wähle einen Server aus, um ihn zur öffentlichen Serverliste auf DISBOARD hinzuzufügen',
     'Select a server to review' => 'Wähle einen Server, um eine Rezension zu schreiben',
     'Separate by space' => 'Trenne durch Leerzeichen',
     'Settings' => 'Einstellungen',
@@ -156,8 +156,8 @@ return [
     'Users' => 'Benutzer',
     'View' => 'Ansehen', // view server button on Dashboard
     'Want to be a partner?' => 'Du möchtest Partner werden?',
-    'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => 'Wieso bewertest du nicht deinen Lieblings <span class="discord-logo">Discord</span> Server?',
-    'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => 'Wieso <a href="{reviewUrl}">bewertest du nicht <strong>{serverName}</strong></a>?',
+    'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => 'Warum bewertest du nicht deinen Lieblings <span class="discord-logo">Discord</span> Server?',
+    'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => 'Warum <a href="{reviewUrl}">bewertest du nicht <strong>{serverName}</strong></a>?',
     'You have already muted {serverName}' => 'Du hast {serverName} bereits stummgeschaltet',
     'You haven\'t added a server yet' => 'Du hast noch keinen Server hinzugefügt!',
     'You must be logged in to mute a server' => 'Du musst angemeldet sein, um einen Server stummzuschalten',
@@ -187,7 +187,7 @@ return [
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Wir bringen <strong>Discord-Server</strong> und <b>Personen</b> zusammen',
     'Public <span class="discord-logo">Discord</span> Servers' => 'Öffentliche <span class="discord-logo">Discord</span> Server',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> ist der Ort, an dem du <strong>list/Discord Server finden</strong> kannst.',
-    'Find and join some awesome servers listed here.' => 'Finde und trete tollen Servern bei, die hier gelistet sind',
+    'Find and join some awesome servers listed here.' => 'Finde und trete tollen Servern bei, die hier gelistet sind.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Oder <a href="{login-url}">melde dich an</a> und <strong>füge deinen Server hinzu, wenn du ein Serverbesitzer bist</strong> 😎',
     'Add Your Server!' => 'Füge deinen Server hinzu', // The large button
     /* Categories */
