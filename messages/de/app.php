@@ -82,7 +82,7 @@ return [
     'NSFW server' => 'FSK 18 Server',
     'Official Discord Server' => 'Offizieller Discord Server',
     'Official verified partners' => 'Offiziell verifizierte Partner',
-    'Owner servers' => 'Deine Server',
+    'Owner servers' => 'Server in Besitz',
     'Partners' => 'Partner',
     'Please check the checkbox below before joining "<strong>{serverName}</strong>"' => 'Bitte bestätige das untenstehende Kontrollkästchen, bevor du "<strong>{serverName}</strong>" beitrittst',
     'Please enter no more than {tagLimit} tags.' => 'Bitte füge nicht mehr als {tagLimit} Stichworte hinzu',
