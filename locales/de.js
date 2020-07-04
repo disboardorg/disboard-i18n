@@ -27,7 +27,7 @@
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Dieser Server ist auf **Privat** gestellt. \nStelle den Server über das Dashboard(https://disboard.org/dashboard) auf Öffentlich um, damit du ihn bumpen kannst.",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Dieser Server wurde noch nicht zu DISBOARD hinzugefügt. \nFüge ihn über das Dashboard (https://disboard.org/dashboard) hinzu",
   "This server is not listed because the invite has been deleted": "Dieser Server ist nicht gelistet, da die Einladung gelöscht worden ist",
-  "Create invite with `%s` command": "Erstelle eine Einladung mit dem Befehl `%s`",
+  "Create invite with `%s` command": "Erstelle mit dem Befehl `%s` eine Einladung",
   "Command failed": "Der Befehl ist fehlgeschlagen",
   "DISBOARD API server seems to be down": "Der DISBOARD API Server scheint außer Betrieb zu sein"
 }
