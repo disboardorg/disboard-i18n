@@ -8,7 +8,7 @@ return [
     'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => 'Gebe dem DISBOARD Bot die <b>Einladung erstellen</b> und <b>Nachrichten senden</b> Berechtigungen.',
     'Admin response' => 'Antwort eines Administrators',
     'Admin servers' => 'Administrierte Server',
-    'After that send this command: <span class="tag is-light">!d invite</span>' => 'Sende danach diesen Befehl: <span class="tag is-light">!d invite</span>',
+    'After that send this command: <span class="tag is-light">!d invite</span>' => 'Nutze dann den Befehl: <span class="tag is-light">!d invite</span>',
     'All shards are operational!' => 'Alle Shards funktionieren!',
     'Are you sure you want to delete {serverName}?' => 'Bist du dir sicher, dass du {serverName} löschen möchtest?',
     'Are you sure you want to delete this review?' => 'Bist du dir sicher, dass du diese Rezension löschen möchtest?',
