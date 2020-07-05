@@ -57,7 +57,7 @@ return [
     'Go Home' => 'Zur Startseite',
     'Guidelines' => 'Richtlinien',
     'Home' => 'Startseite',
-    'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Falls du den Bot nicht hinzufügst, können verschiedene Informationen über deinen Server nichr dargestellt werden und mit einem Befehl ein Einladungslink generiert oder dein Server gebumpt werden.',
+    'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Wenn du den Bot nicht zu deinem Server hinzufügst, können verschiedene Informationen auf der Serverseite nicht angezeigt, Einladungslinks nicht erstellt oder Bump-Befehle nicht verwendet werden',
     'If your server isn\'t in the above list or dropdown, sync with Discord manually' => 'Falls dein Server nicht in der obigen Liste oder im Dropdown vorhanden ist, synchronisiere manuell mit Discord',
     'Invite is not set' => 'Einladungslink ist nicht festgelegt',
     'You can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'Du kannst nun zu Servern, denen du betrittst, Rezensionen schreiben und Bewertungen hinzufügen. Empfehle anderen Menschen deine Lieblingsserver!',
