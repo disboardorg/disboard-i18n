@@ -64,7 +64,7 @@ return [
     'Invite Link' => 'Einladungslink',
     'Invalid Invite' => 'Ungültiger Einladungslink',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'Tritt <a href="{invite}">unserem Server</a> bei und schaue die Anforderung im <span class="tag is-light">#partners</span> Kanal an',
-    'Join this Server' => 'Diesen Server beitreten',
+    'Join this Server' => 'Diesem Server beitreten',
     'Join this server to be the first reviewer!' => 'Tritt diesem Server bei und werde der Erste, der eine Rezension schreibt.',
     'Language' => 'Sprache',
     'Login' => 'Anmelden',
