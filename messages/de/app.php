@@ -79,7 +79,7 @@ return [
     'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => 'Maximale Anzahl von stummgeschalteten Servern erreicht. Um einen Server stummzuschalten, gehe in die Einstellungen und deaktiviere die Stummschaltung eines anderen Servers.',
     'More about {appName}' => 'Mehr über {appName}',
     'Mute this server' => 'Diesen Server stummschalten',
-    'Muted servers' => 'Stummgeschaltene Server',
+    'Muted servers' => 'Stummgeschaltete Server',
     'Muted {serverName}' => '{serverName} stummgeschaltet',
     'Not Found' => 'Nicht gefunden',
     'No reviews and ratings yet' => 'Noch keine Rezensionen und Bewertungen',
