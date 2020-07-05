@@ -127,7 +127,7 @@ return [
     'See More Discord Servers' => 'Mehr Discord Server anzeigen',
     'Search' => 'Suchen',
     'Search Discord Servers' => 'Discord Server suchen',
-    'Search Options' => 'Optionen suchen',
+    'Search Options' => 'Sucheinstellungen',
     'Search results for: {keyword}' => 'Suchresultate für: {keyword}',
     'Select a Category' => 'Kategorie auswählen',
     'Select Language' => 'Sprache auswählen',
