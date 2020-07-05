@@ -60,7 +60,7 @@ return [
     'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Falls du den Bot nicht hinzufügst, können verschiedene Informationen über deinen Server nichr dargestellt werden und mit einem Befehl ein Einladungslink generiert oder dein Server gebumpt werden.',
     'If your server isn\'t in the above list or dropdown, sync with Discord manually' => 'Falls dein Server nicht in der obigen Liste oder im Dropdown vorhanden ist, synchronisiere manuell mit Discord',
     'Invite is not set' => 'Einladungslink ist nicht festgelegt',
-    'You can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'Du kannst nun Rezensionen schreiben und Bewertungen zu Servern dene du beitrittst hinzufügen.',
+    'You can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'Du kannst nun zu Servern, denen du betrittst, Rezensionen schreiben und Bewertungen hinzufügen. Empfehle anderen Menschen deine Lieblingsserver!',
     'Invite Link' => 'Einladungslink',
     'Invalid Invite' => 'Ungültiger Einladungslink',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'Tritt <a href="{invite}">unserem Server</a> bei und schaue die Anforderung im <span class="tag is-light">#partners</span> Kanal an',
