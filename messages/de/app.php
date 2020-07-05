@@ -9,7 +9,7 @@ return [
     'Admin response' => 'Antwort eines Administrators',
     'Admin servers' => 'Administrierte Server',
     'After that send this command: <span class="tag is-light">!d invite</span>' => 'Nutze dann den Befehl: <span class="tag is-light">!d invite</span>',
-    'All shards are operational!' => 'Alle Shards funktionieren!',
+    'All shards are operational!' => 'Alle Shards sind in Betrieb!',
     'Are you sure you want to delete {serverName}?' => 'Bist du dir sicher, dass du {serverName} löschen möchtest?',
     'Are you sure you want to delete this review?' => 'Bist du dir sicher, dass du diese Rezension löschen möchtest?',
     'Bad Request' => 'Ungültige Anfrage',
