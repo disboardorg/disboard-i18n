@@ -157,7 +157,7 @@ return [
     'This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.' => 'Diese Seite ist von reCAPTCHA geschützt und die Google <a href="https://policies.google.com/privacy">Datenschutzrechtlinien</a> und <a href="https://policies.google.com/terms">Nutzungsbedingungen</a> werden angewendet.',
     'This will add this server to our public server list' => 'Fügt den Server zu unseren öffentlichen Serverliste hinzu',
     'Title' => 'Titel',
-    '{tag1} and {tag2}(nsfw) tags cannot be set together' => '`{tag1}` und {tag2}(FSK18) können nicht zusammen genutzt werden.',
+    '{tag1} and {tag2}(nsfw) tags cannot be set together' => '{tag1} und {tag2}(FSK18) können nicht zusammen genutzt werden.',
     '<b>{total}</b> servers in total' => '<b>{total}</b> Server insgesamt',
     '<b>{total}</b> reviews in total' => '<b>{total}</b> Rezensionen insgesamt',
     'Unmute' => 'Stummschaltung aufheben',
@@ -193,7 +193,7 @@ return [
     '{0, plural, =1{# second} other{# seconds}} ago' => 'Vor {0, plural, =1{# Sekunde} other {# Sekunden}}',
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD wurde gemacht, um Discord für alle besser zu machen.<br>Wir hoffen, du findest tolle Discord Server und Freunde hier 😊.',
     /* Rules, ToS */
-    'Name or description contains insult or swear words' => 'Name oder Beschreibung enthält Beleidigende- oder Fluchwörter',
+    'Name or description contains insult or swear words' => 'Der Name oder die Beschreibung enthalten Beleidigungen oder Flüche',
     'Spam / fake server' => 'Spam/Fake Server',
     'Invite is invalid or expired' => 'Einladung ist ungültig oder abgelaufen',
     /* Welcome Messages on home page */
@@ -215,7 +215,7 @@ return [
     'MOBA Games' => 'MOBA-Spiele',
     'Movies' => 'Filme',
     'Music' => 'Musik',
-    'Other' => 'Sontiges',
+    'Other' => 'Sonstiges',
     'Party Games' => 'Party-Spiele',
     'Programming' => 'Programmieren',
     'Puzzle Games' => 'Puzzle-Spiele',
