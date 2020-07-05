@@ -191,7 +191,7 @@ return [
     '{0, plural, =1{# hour} other{# hours}} ago' => 'Vor {0, plural, =1{# Stunde} other{# Stunden}}',
     '{0, plural, =1{# minute} other{# minutes}} ago' => 'Vor {0, plural, =1{# Minute} other{# Minuten}}',
     '{0, plural, =1{# second} other{# seconds}} ago' => 'Vor {0, plural, =1{# Sekunde} other {# Sekunden}}',
-    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD wurde gemacht, um Discord für alle besser zu machen.<br>Wir hoffen, du findest tolle Discord Server und Freunde hier 😊.',
+    'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD ist gemacht worden, damit alle Discord mehr genießen können.<br>Wir hoffen, du findest tolle Discord Server und Freunde hier 😊.',
     /* Rules, ToS */
     'Name or description contains insult or swear words' => 'Der Name oder die Beschreibung enthalten Beleidigungen oder Flüche',
     'Spam / fake server' => 'Spam/Fake Server',
