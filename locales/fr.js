@@ -29,5 +29,6 @@
   "This server is not listed because the invite has been deleted": "Ce serveur n'a pas été listé car l'invitation a été supprimée",
   "Create invite with `%s` command": "Générez une invitation avec la commande suivante : `%s`",
   "Command failed": "La commande n'a pas fonctionné",
-  "DISBOARD API server seems to be down": "Le serveur API de Disboard semble hors-ligne"
+  "DISBOARD API server seems to be down": "Le serveur API de Disboard semble hors-ligne",
+  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds"
 }

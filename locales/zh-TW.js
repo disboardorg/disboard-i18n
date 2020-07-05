@@ -29,5 +29,6 @@
   "This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
   "Create invite with `%s` command": "Create invite with `%s` command",
   "Command failed": "Command failed",
-  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down"
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down",
+  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds"
 }
