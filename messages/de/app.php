@@ -36,7 +36,7 @@ return [
     'Delete review' => 'Rezension löschen',
     'DISBOARD bot API server is offline' => 'DISBOARD Bot API Server ist offline',
     'DISBOARD bot must be in the server to review' => 'DISBOARD Bot muss im Server sein, um eine Rezension zu schreiben',
-    'Discord servers partnered with <span class="brand">DISBOARD</span>' => 'Gepartnerte Discord Server mit <span class="brand">DISBOARD</span>',
+    'Discord servers partnered with <span class="brand">DISBOARD</span>' => '<span class="brand">DISBOARD</span> Partner',
     'Discord Server List' => 'Discord Serverliste',
     'Discord Server Reviews' => 'Discord Server Rezensionen',
     'Discord Servers Bumped Recently' => 'Kürzlich Gebumpte Discord Server',
