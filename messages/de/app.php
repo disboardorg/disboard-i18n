@@ -72,7 +72,7 @@ return [
     'Main Language' => 'Hauptsprache',
     'Member Count' => 'Mitgliederanzahl',
     '<b>{number}</b> online' => '<b>{number}</b> gesamt', // online member count
-    '<b>{number}</b> total' => '<b>{number}</b> Mitglieder', // toal member count
+    '<b>{number}</b> total' => '<b>{number}</b> Mitglieder', // total member count
     '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# Minute} other {# Minuten}}',
     'New!' => 'Neu!',
     'New Review' => 'Neue Rezension',
@@ -83,7 +83,7 @@ return [
     'Muted {serverName}' => '{serverName} stummgeschaltet',
     'Not Found' => 'Nicht gefunden',
     'No reviews and ratings yet' => 'Noch keine Rezensionen und Bewertungen',
-    'No results found for <strong>{keyword}</strong>' => 'Keine Resultate für <strong>{keyword}</strong>',
+    'No results found for <strong>{keyword}</strong>' => 'Keine Ergebnisse für <strong>{keyword}</strong>',
     'NSFW' => 'FSK 18',
     'NSFW server' => 'FSK 18 Server',
     'Official Discord Server' => 'Offizieller Discord Server',
