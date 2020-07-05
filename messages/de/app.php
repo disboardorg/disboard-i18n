@@ -39,7 +39,7 @@ return [
     'Discord servers partnered with <span class="brand">DISBOARD</span>' => '<span class="brand">DISBOARD</span> Partner',
     'Discord Server List' => 'Discord Serverliste',
     'Discord Server Reviews' => 'Discord Server Rezensionen',
-    'Discord Servers Bumped Recently' => 'Kürzlich Gebumpte Discord Server',
+    'Discord Servers Bumped Recently' => 'Kürzlich gebumpte Discord Server',
     'Discord servers categorized as <strong>{category}</strong>' => 'Discord Server kategorisiert unter <strong>{category}</strong>',
     'Discord servers tagged with {tag}' => 'Liste der Discord Server mit dem Stichwort {tag}',
     '<span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> Server',
