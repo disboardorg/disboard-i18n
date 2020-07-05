@@ -231,6 +231,6 @@ return [
     'Fighting Games' => 'Kampfspiele',
     /* Meta Descriptions */
     'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD ist eine öffentliche Discord Serverliste. Du kannst Discord Server nach deinen Interessen suchen, wie Gaming, Anime, Musik, etc. Finde und trete tollen Server bei, die hier gelistet sind!',
-    'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Suchresultate für: {keyword}. Es gibt {count, plural, =1{# Server, der} other{# Server, die}} darauf warten dass du beitrittst!',
+    'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Suchergebnisse für: {keyword}. Es gibt {count, plural, =1{# Server, der} other{# Server, die}} darauf warten dass du beitrittst!',
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Liste von Discord Servern mit dem Stichwort {tag}. Finde und trete tollen Servern bei, welche hier gelistet sind!',
 ];
