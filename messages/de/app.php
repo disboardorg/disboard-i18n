@@ -43,7 +43,7 @@ return [
     'Discord servers categorized as <strong>{category}</strong>' => 'Discord Server aus der Kategorie <strong>{category}</strong>',
     'Discord servers tagged with {tag}' => 'Liste der Discord Server mit dem Stichwort {tag}',
     '<span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> Server',
-    'Discord servers tagged with <strong>{tag}</strong>' => 'Discord Server mit dem Stichwort <strong>{tag}<strong>',
+    'Discord servers tagged with <strong>{tag}</strong>' => 'Discord Server mit dem Stichwort <strong>{tag}</strong>',
     'Don\'t forget to check "Set this link to never expire"' => 'Vergiss nicht, die Einladung auf "Niemals ablaufen" zu setzen',
     'Edit' => 'Bearbeiten',
     'Edit Server' => 'Server bearbeiten',
