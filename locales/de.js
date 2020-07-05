@@ -30,5 +30,5 @@
   "Create invite with `%s` command": "Erstelle eine Einladung mit dem Befehl `%s`",
   "Command failed": "Der Befehl war erfolglos",
   "DISBOARD API server seems to be down": "Der DISBOARD API Server scheint außer Betrieb zu sein",
-  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds"
+  "You are rate limited. Please wait %s seconds": "Deine Anfragen werden begrenzt. Bitte warte %s Sekunden"
 }
