@@ -40,7 +40,7 @@ return [
     'Discord Server List' => 'Discord Serverliste',
     'Discord Server Reviews' => 'Discord Server Rezensionen',
     'Discord Servers Bumped Recently' => 'Kürzlich gebumpte Discord Server',
-    'Discord servers categorized as <strong>{category}</strong>' => 'Discord Server kategorisiert unter <strong>{category}</strong>',
+    'Discord servers categorized as <strong>{category}</strong>' => 'Discord Server aus der Kategorie <strong>{category}</strong>',
     'Discord servers tagged with {tag}' => 'Liste der Discord Server mit dem Stichwort {tag}',
     '<span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> Server',
     'Discord servers tagged with <strong>{tag}</strong>' => 'Discord Server mit dem Stichwort <strong>{tag}<strong>',
@@ -57,9 +57,9 @@ return [
     'Go Home' => 'Zur Startseite',
     'Guidelines' => 'Richtlinien',
     'Home' => 'Startseite',
-    'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Falls du den Bot nicht hinzufügst, können verschiedene Informationen über deine. Server nichr dargestellt werden und mit einem Befehl ein Einladungslink generiert oder dein Server gebumpt werden.',
+    'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'Falls du den Bot nicht hinzufügst, können verschiedene Informationen über deinen Server nichr dargestellt werden und mit einem Befehl ein Einladungslink generiert oder dein Server gebumpt werden.',
     'If your server isn\'t in the above list or dropdown, sync with Discord manually' => 'Falls dein Server nicht in der obigen Liste oder im Dropdown vorhanden ist, synchronisiere manuell mit Discord',
-    'Invite is not set' => 'Einladungslink ist nicht gesetzt',
+    'Invite is not set' => 'Einladungslink ist nicht festgelegt',
     'You can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'Du kannst nun Rezensionen schreiben und Bewertungen zu Servern dene du beitrittst hinzufügen.',
     'Invite Link' => 'Einladungslink',
     'Invalid Invite' => 'Ungültiger Einladungslink',
@@ -71,9 +71,9 @@ return [
     'Logout' => 'Abmelden',
     'Main Language' => 'Hauptsprache',
     'Member Count' => 'Mitgliederanzahl',
-    '<b>{number}</b> online' => '<b>{number}</b> online', // online member count
-    '<b>{number}</b> total' => '<b>{number}</b> total', // toal member count
-    '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# Minute} other {# minutes}}',
+    '<b>{number}</b> online' => '<b>{number}</b> gesamt', // online member count
+    '<b>{number}</b> total' => '<b>{number}</b> Mitglieder', // toal member count
+    '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# Minute} other {# Minuten}}',
     'New!' => 'Neu!',
     'New Review' => 'Neue Rezension',
     'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => 'Maximale Anzahl von stummgeschalteten Servern erreicht. Um einen Server stummzuschalten, gehe in die Einstellungen und deaktiviere die Stummschaltung eines anderen Servers.',
