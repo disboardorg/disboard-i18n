@@ -11,7 +11,7 @@ Primary translator (The user with the most contribution in each language) is bol
 * Italian: **froggit#0001** ([@frogggit](https://github.com/frogggit)), Bryce#5439
 * Dutch: **🌸 Thana ✨#2212 ([@zThana](https://github.com/zThana))**, [@QkeleQ10](https://github.com/QkeleQ10), Ardere#9578\* ([@ArdentLemon](https://github.com/ArdentLemon))
 * Polish: **Lego#8486 ([@Lego8486](https://github.com/Lego8486))**
-* Portuguese (Portugal): **Phaze#0388\* ([@ItsPhaze](https://github.com/ItsPhaze))**
+* Portuguese (Portugal): **Lucks#6960 ([@ItsPhaze](https://github.com/ItsPhaze))**
 * Swedish: **wewritethestory#2772 ([@hongjes1](https://github.com/hongjes1))**
 * Turkish: **Admisor#0135**\*, worgy#6180\* ([@halissen](https://github.com/halissen)), Rauf ⋆ShadowQinq⋆#8920 ([@ShadowQinq](https://github.com/ShadowQinq))
 * Russian: **[@Juneccino](https://github.com/Juneccino)**
