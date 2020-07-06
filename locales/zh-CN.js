@@ -29,5 +29,6 @@
   "This server is not listed because the invite has been deleted": "因邀请已失效，本服务器在网站上处于非公开状态",
   "Create invite with `%s` command": "请使用 `%s` 命令来创建邀请",
   "Command failed": "Command failed",
-  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down"
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down",
+  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds"
 }

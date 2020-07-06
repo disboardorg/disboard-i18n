@@ -29,5 +29,6 @@
   "This server is not listed because the invite has been deleted": "Den här server är inte listad därför att inbjudan har blivit borttagen",
   "Create invite with `%s` command": "Skapa inbjudan med `%s`-kommandot",
   "Command failed": "Command failed",
-  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down"
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down",
+  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds"
 }
