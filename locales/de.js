@@ -8,7 +8,7 @@
   "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Ändert den Einladungslink zum angegebenen Channel",
   "Admin only": "Nur für Administratoren",
   "Bump done": "Bump erfolgreich",
-  "Check it on DISBOARD": "Sieh es auf DISBOARD",
+  "Check it on DISBOARD": "Schau es auf DISBOARD an",
   "Please give me `Create Instant Invite` permission on this channel": "Bitte gib mir die `Einladung erstellen` Berechtigung in diesem Kanal",
   "Please give me `Manage Channels` permission in order to receive invite change event": "Bitte gib mir die `Kanäle verwalten` Berechtigung, um benachrichtigt zu werden, wenn der Einladungslink geändert wird",
   "And then send this command: `%s`": "Nutze dann diesen Befehl: `%s`",
@@ -30,5 +30,5 @@
   "Create invite with `%s` command": "Erstelle mit dem Befehl `%s` eine Einladung",
   "Command failed": "Der Befehl ist fehlgeschlagen",
   "DISBOARD API server seems to be down": "Der DISBOARD API Server scheint außer Betrieb zu sein",
-  "You are rate limited. Please wait %s seconds": "Deine Anfragen werden begrenzt. Bitte warte %s Sekunden"
+  "You are rate limited. Please wait %s seconds": "Deine Aktionsrate wird limitiert. Bitte warte %s Sekunden"
 }
