@@ -29,5 +29,6 @@
   "This server is not listed because the invite has been deleted": "招待が削除されたのでこのサーバーはサイトに掲載されません",
   "Create invite with `%s` command": "`%s` コマンドで招待を作成してください",
   "Command failed": "コマンドが失敗しちゃいました",
-  "DISBOARD API server seems to be down": "ディスボードのAPIサーバーが落ちてるみたい"
+  "DISBOARD API server seems to be down": "ディスボードのAPIサーバーが落ちてるみたい",
+  "You are rate limited. Please wait %s seconds": "レート制限にかかっちゃいました。 あと %s 秒待ってね"
 }
