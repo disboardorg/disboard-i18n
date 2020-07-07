@@ -5,7 +5,7 @@
   "This!": "Das hier!",
   "Bump this server": "Bumpt diesen Server",
   "Get server page link": "Sendet die URL der Serverseite auf DISBOARD",
-  "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Ändert den Einladungslink zum angegebenen Channel",
+  "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Ändert den Einladungslink zu diesem Kanal. Falls [channel] angegeben ist, wird ein Einladungslink für ihn generiert.",
   "Admin only": "Nur für Administratoren",
   "Bump done": "Bump erfolgreich",
   "Check it on DISBOARD": "Schau es auf DISBOARD an",
