@@ -8,7 +8,7 @@
   "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Ändert den Einladungslink zu diesem Kanal. Falls [channel] angegeben ist, wird ein Einladungslink für ihn generiert.",
   "Admin only": "Nur für Administratoren",
   "Bump done": "Bump erfolgreich",
-  "Check it on DISBOARD": "Schau es dir  DISBOARD an",
+  "Check it on DISBOARD": "Schau es dir auf DISBOARD an",
   "Please give me `Create Instant Invite` permission on this channel": "Bitte gib mir die `Einladung erstellen` Berechtigung in diesem Kanal",
   "Please give me `Manage Channels` permission in order to receive invite change event": "Bitte gib mir die `Kanäle verwalten` Berechtigung, um benachrichtigt zu werden, wenn der Einladungslink geändert wird",
   "And then send this command: `%s`": "Nutze dann diesen Befehl: `%s`",
