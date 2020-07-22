@@ -140,7 +140,7 @@ return [
     'Servers' => 'Server',
     'Server admin?' => 'Server Admin?',
     '{num, plural, =1{# shard is dead} other{# shards are dead}}' => '{num, plural, =1{# Shard ist außer Betrieb} other{# Shards sind außer Betrieb}}',
-    'Showing <b>{from}</b> - <b>{to}</b> of <strong>{total} servers</strong>' => '<b>{from}<b> - <b>{to}</b> von insgesamt<strong>{total} Servern</strong>',
+    'Showing <b>{from}</b> - <b>{to}</b> of <strong>{total} servers</strong>' => '<b>{from}</b> - <b>{to}</b> von insgesamt<strong>{total} Servern</strong>',
     'Showing <b>{from}</b> - <b>{to}</b> of <strong>{total} reviews</strong>' => '<b>{from}</b> - <b>{to}</b> von insgesamt <strong>{total} Bewertungen</strong>',
     'Sort by' => 'Sortieren nach',
     'Submit' => 'Abschicken',
