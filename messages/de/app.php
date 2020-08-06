@@ -71,7 +71,7 @@ return [
     'Logout' => 'Abmelden',
     'Main Language' => 'Hauptsprache',
     'Member Count' => 'Mitgliederanzahl',
-    '<b>{number}</b> online' => '<b>{number}</b> gesamt', // online member count
+    '<b>{number}</b> online' => '<b>{number}</b> online', // online member count
     '<b>{number}</b> total' => '<b>{number}</b> Mitglieder', // total member count
     '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# Minute} other {# Minuten}}',
     'New!' => 'Neu!',
