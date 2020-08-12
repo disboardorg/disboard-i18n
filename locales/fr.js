@@ -10,7 +10,7 @@
   "Bump done": "Bump effectué ! ",
   "Check it on DISBOARD": "Allez vérifier ça sur DISBOARD ",
   "Please give me `Create Instant Invite` permission on this channel": "Veuillez me donner la permission `Créer une invitation` dans ce salon",
-  "Please give me `Manage Channels` permission in order to receive invite change event": "Veuillez me donner la permission `Gérer les salons` afin que je puisse gérer le changement d'invitation",
+  "Please give me `Manage Channels` permission in order to receive invite change event": "Veuillez me donner la permission `Gérer les salons` pour que je puisse modifier l'invitation via la commande appropriée",
   "And then send this command: `%s`": "Ensuite, envoyez cette commande : `%s`",
   "Send this command to create invite: `%s`": "Envoyez cette commande pour créer une invitation : `%s`",
   "Invite link has been changed": "Le lien d'invitation a bien été modifié",
@@ -30,5 +30,7 @@
   "Create invite with `%s` command": "Générez une invitation avec la commande suivante : `%s`",
   "Command failed": "La commande n'a pas fonctionné",
   "DISBOARD API server seems to be down": "Le serveur API de Disboard semble hors-ligne",
-  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds"
+  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.",
+  "Support server: <%s>": "Support server: <%s>"
 }

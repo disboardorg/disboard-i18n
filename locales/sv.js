@@ -30,5 +30,7 @@
   "Create invite with `%s` command": "Skapa inbjudan med `%s`-kommandot",
   "Command failed": "Command failed",
   "DISBOARD API server seems to be down": "DISBOARD API server seems to be down",
-  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds"
+  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.",
+  "Support server: <%s>": "Support server: <%s>"
 }

@@ -30,5 +30,7 @@
   "Create invite with `%s` command": "`%s` コマンドで招待を作成してください",
   "Command failed": "コマンドが失敗しちゃいました",
   "DISBOARD API server seems to be down": "ディスボードのAPIサーバーが落ちてるみたい",
-  "You are rate limited. Please wait %s seconds": "レート制限にかかっちゃいました。 あと %s 秒待ってね"
+  "You are rate limited. Please wait %s seconds": "レート制限にかかっちゃいました。 あと %s 秒待ってね",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**どうやってサーバーをディスボードに載せるの？**\n\n 1. ディスボードにログイン\n 2. ダッシュボードへ移動\n 3. \"新しいサーバーを追加\" ボタンをクリック\nサーバー情報を記入して保存するとDiscordのボット追加認証画面に移動します。もし移動しなかったらサーバー編集画面にある\"ボット追加\"ボタンを押してね。",
+  "Support server: <%s>": "サポートサーバー: <%s>"
 }

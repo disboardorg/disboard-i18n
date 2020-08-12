@@ -26,10 +26,11 @@
   "I'm handling your command": "Estou a processar o seu comando",
   "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Este servidor está definido como **privado**. \nConfigure para público no painel de controlo (https://disboard.org/dashboard) para fazer bump a este servidor",
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Este servidor ainda não foi adicionado ao DISBOARD. \nAdicione este servidor no painel de controlo (https://disboard.org/dashboard)",
-
-  "This server is not listed because the invite has been deleted": "Este servidor não é listado porque o convite foi eliminado",
-  "Create invite with `%s` command": "Crie um convite com o comando `%s`",
-  "Command failed": "O comando falhou",
-  "DISBOARD API server seems to be down": "O servidor do DISBOARD API parece estar em baixo",
-  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds"
+  "This server is not listed because the invite has been deleted": "This server is not listed because the invite has been deleted",
+  "Create invite with `%s` command": "Create invite with `%s` command",
+  "Command failed": "Command failed",
+  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down",
+  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.",
+  "Support server: <%s>": "Support server: <%s>"
 }

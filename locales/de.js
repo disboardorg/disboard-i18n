@@ -30,5 +30,7 @@
   "Create invite with `%s` command": "Erstelle mit dem Befehl `%s` eine Einladung",
   "Command failed": "Der Befehl ist fehlgeschlagen",
   "DISBOARD API server seems to be down": "Der DISBOARD API Server scheint außer Betrieb zu sein",
-  "You are rate limited. Please wait %s seconds": "Deine Aktionsrate wird limitiert. Bitte warte %s Sekunden"
+  "You are rate limited. Please wait %s seconds": "Deine Aktionsrate wird limitiert. Bitte warte %s Sekunden",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.",
+  "Support server: <%s>": "Support server: <%s>"
 }
