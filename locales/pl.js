@@ -28,9 +28,9 @@
   "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Ten serwer nie został jeszcze dodany na stronie DISBOARD.\nDodaj ten serwer z poziomu panelu nawigacyjnego (https://disboard.org/dashboard)",
   "This server is not listed because the invite has been deleted": "Tego serwera nie ma na liście, ponieważ zaproszenie zostało usunięte",
   "Create invite with `%s` command": "Utwórz zaproszenie za pomocą komendy `%s`",
-  "Command failed": "Command failed",
-  "DISBOARD API server seems to be down": "DISBOARD API server seems to be down",
-  "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds",
-  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.",
-  "Support server: <%s>": "Support server: <%s>"
+  "Command failed": "Błąd komendy",
+  "DISBOARD API server seems to be down": "Wygląda na to, że serwer DISBOARD API nie działa",
+  "You are rate limited. Please wait %s seconds": "Twoje tempo zostało ograniczone. Poczekaj %s sekund.",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Jak dodać serwer na DISBOARD?**\n\n 1. Zaloguj się na stronie DISBOARD\n 2. Przejdź do panelu nawigacyjnego\n 3. Kliknij \"Dodaj nowy serwer\"\nWypełnij dane serwera i zapisz je. Zostaniesz przekierowany do ekranu autoryzacji Discord. Jeśli nie, kliknij przycisk \"Dodaj bota\" na stronie edycji serwera.",
+  "Support server: <%s>": "Serwer wsparcia: <%s>"
 }
