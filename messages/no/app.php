@@ -188,8 +188,7 @@ return [
     'Tabletop Games' => 'Bordsspel',
     'Fighting Games' => 'Slåssespill',
     /* Meta Descriptions */
-    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' =>
-    'DISBOARD er det offentlige Discord-serveroppføringssamfunnet. Du kan finne Discord-servere etter din interesse som spilling, anime, musikk og mer. Finn og bli med i noen fantastiske servere som er oppført her!',
+    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD er det offentlige Discord-serveroppføringssamfunnet. Du kan finne Discord-servere etter din interesse som spilling, anime, musikk og mer. Finn og bli med i noen fantastiske servere som er oppført her!',
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Søkeresultater for: {keyword}. Det finnes {count, plural, =1{# server} other{# servere}} som venter på at du blir med!',
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Liste over servere merka med {tag}. Finn og bli med på noen fantastiske servere som er oppført her!',
     /* New strings */
