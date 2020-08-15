@@ -13,8 +13,8 @@
   "Please give me `Manage Channels` permission in order to receive invite change event": "Vennligst gi meg `Manage Channels`-tillatelsen for å motta invitasjonsendringshendelse.",
   "And then send this command: `%s`": "Og send deretter denne kommandoen: `%s`",
   "Send this command to create invite: `%s`": "Send denne kommandoen for å opprette invitasjon: `%s`",
-  "Invite link has been changed": "Invitasjonslinken er endra",
-  "Invite link has not been changed": "Invitasjonslinken er ikke endra",
+  "Invite link has been changed": "Invitasjonslenka er endra",
+  "Invite link has not been changed": "Invitasjonslenka er ikke endra",
   "Invalid channel: %s": "Ugyldig kanal: %s",
   "This command can only be executed by administrators": "Denne kommandoen kan bare utføres av administratorer",
   "Server ID": "Server-ID",
@@ -31,6 +31,6 @@
   "Command failed": "Kommando mislykka",
   "DISBOARD API server seems to be down": "DISBOARD API ser ut til å være nede",
   "You are rate limited. Please wait %s seconds": "Du er takstbegrensa. Vennligst vent %s sekunder",
-  **How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Hvordan legger jeg til serveren min i DISBOARD?**\n\n 1. Logg inn på DISBOARD-nettstedet\n 2. Gå til instrumentpanelet\n 3. Klikk \"Legg til ny server\"\nFyll inn serverinformasjonen din og lagre. Du blir omdirigert til Discord sin autorisasjonsskjerm. Hvis ikke, klikk på \"Legg til bot\"-knappen på serverens redigeringsside.",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Hvordan legger jeg til serveren min i DISBOARD?**\n\n 1. Logg inn på DISBOARD-nettstedet\n 2. Gå til instrumentpanelet\n 3. Klikk \"Legg til ny server\"\nFyll inn serverinformasjonen din og lagre. Du blir omdirigert til Discord sin autorisasjonsskjerm. Hvis ikke, klikk på \"Legg til bot\"-knappen på serverens redigeringsside.",
   "Support server: <%s>": "Støtteserver: <%s>"
 }
