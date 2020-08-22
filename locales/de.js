@@ -31,6 +31,6 @@
   "Command failed": "Der Befehl ist fehlgeschlagen",
   "DISBOARD API server seems to be down": "Der DISBOARD API Server scheint außer Betrieb zu sein",
   "You are rate limited. Please wait %s seconds": "Deine Aktionsrate wird limitiert. Bitte warte %s Sekunden",
-  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.",
-  "Support server: <%s>": "Support server: <%s>"
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Wie füge ich meinen Server auf DISBOARD hinzu?**\n\n 1. Logge dich auf der DISBOARD Webseite ein\n 2. Gehe zum Dashboard\n 3. Klicke auf \"Neuen Server hinzufügen\"\nFülle die Informationen über deinen Server aus und speichere sie. Du wirst zur Discord Authentifikationsseite weitergeleitet. Falls nicht, klicke auf den \"Bot hinzufügen\" Knopf auf der Server Bearbeiten Seite.",
+  "Support server: <%s>": "Support Server: <%s>"
 }
