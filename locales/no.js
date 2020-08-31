@@ -24,13 +24,13 @@
   "Invite Link": "Invitasjonslenke",
   "Main Language": "Hovedspråk",
   "I'm handling your command": "Jeg håndterer kommandoen din",
-  "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Denne serveren oppført som **privat**. \Bytt til offentlig via instrumentpanelet (https://disboard.org/dashboard) for å bumpe serveren",
-  "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Denne serveren er ikke lagt til i DISBOARD ennå. \nLegg til denne serveren via instrumentpanelet (https://disboard.org/dashboard)",
+  "This server is set to **private**. \nSet to public from the dashboard (https://disboard.org/dashboard) to bump this server": "Denne serveren oppført som **privat**. \Bytt til offentlig via kontrollpanelet (https://disboard.org/dashboard) for å bumpe serveren",
+  "This server has not been added to DISBOARD yet. \nAdd this server from the dashboard (https://disboard.org/dashboard)": "Denne serveren er ikke lagt til i DISBOARD ennå. \nLegg til denne serveren via kontrollpanelet (https://disboard.org/dashboard)",
   "This server is not listed because the invite has been deleted": "Denne serveren er ikke oppført fordi invitasjonen er sletta",
   "Create invite with `%s` command": "Lag invitasjon med `%s`-kommandoen",
   "Command failed": "Kommando mislykka",
   "DISBOARD API server seems to be down": "DISBOARD API ser ut til å være nede",
   "You are rate limited. Please wait %s seconds": "Handlingsraten din er begrensa. Vennligst vent %s sekunder",
-  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Hvordan legger jeg til serveren min i DISBOARD?**\n\n 1. Logg inn på DISBOARD-nettstedet\n 2. Gå til instrumentpanelet\n 3. Klikk \"Legg til ny server\"\nFyll inn serverinformasjonen din og lagre. Du blir omdirigert til Discord sin autorisasjonsskjerm. Hvis ikke, klikk på \"Legg til bot\"-knappen på redigeringssida til serveren.",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Hvordan legger jeg til serveren min i DISBOARD?**\n\n 1. Logg inn på DISBOARD-nettstedet\n 2. Gå til kontrollpanelet\n 3. Klikk \"Legg til ny server\"\nFyll inn serverinformasjonen din og lagre. Du blir omdirigert til Discord sin autorisasjonsskjerm. Hvis ikke, klikk på \"Legg til bot\"-knappen på redigeringssida til serveren.",
   "Support server: <%s>": "Støtteserver: <%s>"
 }
