@@ -1,3 +1,4 @@
+<?php
 /**
  * https://austinhuang.me
  * im at austinhuang dot me
@@ -12,6 +13,8 @@ return [
     'Admin response' => '管理者回應',
     'Admin servers' => '管理之伺服器',
     'After that send this command: <span class="tag is-light">!d invite</span>' => '其後、請在您的伺服器中執行以下命令: <span class="tag is-light">!d invite</span>',
+    'All Discord reviews' => '所有Discord評論',
+    'All Discord servers' => '所有Discord伺服器',
     'Are you sure you want to delete {serverName}?' => '確定刪除{serverName}？',
     'Are you sure you want to delete this review?' => '確定刪除該評論？',
     'Bad Request' => '請求無效',
@@ -93,9 +96,6 @@ return [
     'Reviews of {serverName}' => '“{serverName}”的評價',
     'Save' => '保存',
     'See: <a href="{url}" target="_blank">screen capture</a>' => '參考<a href="{url}" target="_blank">截圖</a>',
-    'See all Discord reviews' => '查看所有Discord評論',
-    'See all Discord servers' => '查看所有Discord伺服器',
-    'See More Discord Servers' => '查看更多Discord伺服器',
     'Search' => '搜尋',
     'Search Discord Servers' => '搜尋Discord伺服器',
     'Search Options' => '搜尋選項',
