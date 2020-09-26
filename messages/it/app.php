@@ -1,6 +1,6 @@
 <?php
 return [
-    /* Froggit was here */
+    /* froggit was here */
     'Ascending' => 'Ascendendo',
     'Add New Server' => 'Aggiungi Un Server',
     'Add Your Server' => 'Aggiungi Il Tuo Server',
@@ -8,7 +8,7 @@ return [
     'Add a Tag' => 'Aggiungi Un Etichetta',
     'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => 'Aggiungi i permessi <b>CREA_INVITO_INSTANTANEO</b> e <b>INVIA_MESSAGGI</b> al bot di DISBOARD.',
     'Admin response' => 'Risposta di Admin',
-    'Admin servers' => 'Server di Admin',
+    'Admin servers' => 'Server di cui Admin',
     'After that send this command: <span class="tag is-light">!d refresh</span>' => 'Dopo aver usato questo comando: <span class="tag is-light">!d refresh</span>',
     'Are you sure you want to delete {serverName}?' => 'Vuoi eliminare {serverName}?',
     'Are you sure you want to delete this review?' => 'Vuoi eliminare questa recensione?',
@@ -77,7 +77,7 @@ return [
     'No results found for <strong>{keyword}</strong>' => 'Nessun risultato per <strong>{keyword}</strong>',
     'Official Discord Server' => 'Server Discord Ufficiale',
     'Official verified partners' => 'Partner verificati Ufficiali',
-    'Owner servers' => 'Server di Propietà',
+    'Owner servers' => 'Server Tuoi',
     'Partners' => 'Partner',
     'Please check the checkbox below before joining "<strong>{serverName}</strong>"' => 'Per Favore seleziona il quadrato sotto prima di unirti a "<strong>{serverName}</strong>"',
     'Please enter no more than {tagLimit} tags.' => 'Massimo di {tagLimit} etichette.',
@@ -144,22 +144,22 @@ return [
     'Your server has been bumped' => 'Il tuo server è stato bumpato',
     'Your server has been deleted' => 'Il tuo server è stato eliminato',
     'Your server has been saved successfully' => 'Il tuo server è stato salvato',
-    'Your reply has been deleted' => 'La tua risposta è stat eliminata',
+    'Your reply has been deleted' => 'La tua risposta è stata eliminata',
     'Your reply has been saved successfully' => 'La tua risposta è stata salvata',
     'Your review has been deleted' => 'La tua recensione è stata eliminata',
     'Your review has been saved successfully' => 'La tua recensione è stata salvata',
-    'just now' => 'appena adesso',
-    '{0, plural, =1{# day} other{# days}} ago' => '{0, plural, =1{# giorno} other{# giorni}} fà',
+    'just now' => 'adesso',
+    '{0, plural, =1{# day} other{# days}} ago' => '{0, plural, =1{# giorno} other{# giorni}} fa',
     '{0, plural, =1{# hour} other{# hours}} ago' => '{0, plural, =1{# ora} other{# ore}} fa',
-    '{0, plural, =1{# minute} other{# minutes}} ago' => '{0, plural, =1{# minuto} other{# minuti}} fà',
-    '{0, plural, =1{# second} other{# seconds}} ago' => 'hace {0, plural, =1{# secondo} other{# secondi}} fà',
+    '{0, plural, =1{# minute} other{# minutes}} ago' => '{0, plural, =1{# minuto} other{# minuti}} fa',
+    '{0, plural, =1{# second} other{# seconds}} ago' => 'hace {0, plural, =1{# secondo} other{# secondi}} fa',
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD è stato screato per migliorare l\'esperienza di tutti con Discord.<br>Speriamo troverai fantastici server discord e amici qui 😊.',
     /* Welcome Messages on home page */
-    'Discover <span class="discord-logo">Discord</span> Servers' => 'Scopri Seerver <span class="discord-logo">Discord</span>',
-    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Colleghiamo <strong>Server Discord</strong> e <b>persone</b> insieme',
+    'Discover <span class="discord-logo">Discord</span> Servers' => 'Scopri Server <span class="discord-logo">Discord</span>',
+    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Uniamo <b>persone</b> e <strong>Server Discord</strong>!',
     'Public <span class="discord-logo">Discord</span> Servers' => 'Server <span class="discord-logo">Discord</span> Pubblici',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> è il sito dove puoi <strong>pubblicare/unirti a Server Discord</strong>.',
-    'Find and join some awesome servers listed here.' => 'Cerca e Unisciti ad alcuni server fantastici trovati qui.',
+    'Find and join some awesome servers listed here.' => 'Cerca e Unisciti ad alcuni server fantastici qua!',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'O <a href="{login-url}">fai il login</a> e <strong>aggiungi il tuo server se ne sei il propietario</strong> 😎',
     'Add Your Server!' => 'Aggiungi il tuo Server!', // The large button
     /* Categories */
@@ -188,9 +188,9 @@ return [
     'Tabletop Games' => 'Giochi da Tavolo',
     'Fighting Games' => 'Giochi di Combattimento',
     /* Meta Descriptions */
-    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD è la lista di Server Disord Pubblici. Puoi cercare server attraverso interessi, come Gaming, Anime, Musica, etc. Trova e unisciti a fantastici server qui!',
-    'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Resultados para: {keyword}. Hay {count, plural, =1{# servidor} other{# servidores}} esperando a que te unas!',
-    'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Lista de servidores de Discord etiquetados con {tag}. ¡Únete a un servidor que te guste de esta lista!',
+    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD è la lista di Server Disord Pubblici. Puoi cercare server attraverso interessi, come Gaming, Anime, Musica, etc. Trova e unisciti a fantastici server!',
+    'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Risultati per: {keyword}.  {count, plural, =1{# C\'è un server che ti aspetta!} other{# Ci sono server che ti aspettano!}}',
+    'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Lista di <<<<server Discord etichettati con {tag}. Unisciti a un server che ti piace!',
     /* New strings */
     'Separate by <b>space</b>' => 'Separa con <b>spazi</b>',
     'Settings' => 'Impostazioni',
