@@ -1,5 +1,7 @@
 # disboard-i18n
-Translation files for [DISBOARD](https://disboard.org). `locales` folder is for the bot, while `messages` folder is for the website. This repository is placed under my management as permitted by Taki ([@takeaki](https://github.com/takeaki)), the owner of Disboard. Just follow the **Japanese file** (`ja`) and do a PR to contribute. You will get a Translator role in the server upon approval. Have fun translating!
+Translation files for [DISBOARD](https://disboard.org). `locales` folder is for the bot, while `messages` folder is for the website.
+
+Just follow the **Japanese file** (`ja`) and do a PR to contribute. You will get a Translator role in the server upon approval. Have fun translating!
 
 ## Current translators
 Primary translator (The user with the most contribution in each language) is bolded. An asterisk means they're not in the support server. Languages are in the order as displayed on the website.
@@ -8,7 +10,7 @@ Primary translator (The user with the most contribution in each language) is bol
 * Spanish: **Aimarekin#3872 ([@Aimarekin](https://github.com/Aimarekin))**
 * Filipino: **aeris#0018 ([@aeristhy](https://github.com/aeristhy))**
 * French: **SmokyBird#6804 ([@SmokyBird](https://github.com/SmokyBird))**, **Tailer#0001\* ([@tai1er](https://github.com/tai1er))**
-* Italian: **froggit#0001** ([@frogggit](https://github.com/frogggit)), Bryce#5439
+* Italian: **froggit#0001 ([@gattaa](https://github.com/gattaa))**, Bryce#5439
 * Dutch: **🌸 Thana ✨#2212 ([@zThana](https://github.com/zThana))**, [@QkeleQ10](https://github.com/QkeleQ10), Ardere#9578\* ([@ArdentLemon](https://github.com/ArdentLemon))
 * Norweigian: **Forman#1861 ([@voormann](https://github.com/voormann))**
 * Polish: **Lego#8486 ([@Lego8486](https://github.com/Lego8486))**
