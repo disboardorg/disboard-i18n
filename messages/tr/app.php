@@ -160,7 +160,6 @@ return [
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> Sunucularini Kesfet',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Biz <strong>Discord Sunuculari</strong> ve <b>insanlarla</b> birlikte baglanti kuruyoruz',
-    'Public <span class="discord-logo">Discord</span> Servers' => 'Herkese Acik <span class="discord-logo">Discord</span> Sunuculari',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> <strong>Discord sunucularini listeleyip bulacaginiz</strong> yerdir.',
     'Find and join some awesome servers listed here.' => 'Listelenen harika sunuculari bul ve bazilarina gir.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Yada <a href="{login-url}">giris yap</a> ve <strong>eger bir sunucu kurucusuysan sunucunu ekle</strong> 😎',

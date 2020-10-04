@@ -147,7 +147,6 @@ return [
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => '發現 <span class="discord-logo">Discord</span> 伺服器',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => '我們將<strong>Discord 伺服器</strong>和<b>玩家們</b>聯繫在一起',
-    'Public <span class="discord-logo">Discord</span> Servers' => '公共 <span class="discord-logo">Discord</span> 伺服器',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong>是一個讓您 <strong>尋找及分享Discord伺服器</strong>的地方。',
     'Find and join some awesome servers listed here.' => '加入那些有趣的伺服器，',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => '或者<a href="/login">登入</a>並且 <strong>添加自己擁有的伺服器</strong> 😎',

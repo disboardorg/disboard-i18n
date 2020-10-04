@@ -217,7 +217,6 @@ return [
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> サーバー掲示板で見つけよう',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => '<b>DISBOARD</b>は<strong>ディスコードサーバー</strong>と<b>みんな</b>を繋げます',
-    'Public <span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span><span>サーバー掲示板へ</span><span>ようこそ！</span>',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD（ディスボード）</strong>は <strong>Discord（ディスコード）のサーバーを募集/検索できる掲示板</strong>です。',
     'Find and join some awesome servers listed here.' => 'ここであなたにぴったりのサーバーとめぐり逢おう！',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => '<strong>サーバーの管理者 😎 であれば</strong>、<a href="/login">ログイン</a>して<strong>あなたのサーバーを掲載</strong>してみよう！',
