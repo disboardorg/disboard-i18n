@@ -21,7 +21,7 @@ $this->title = Yii::t('app', 'Richtlinien');
         Du darfst keine Gesetze oder Vorschriften in deinem Aufenthaltsland verletzen oder deren Verletzung fördern.
     </li>
     <li>
-        Server, die gegen die <a href="https://discordapp.com/guidelines" target="_blank">Discord Community Richtlinien</a> verletzen, sind nicht erlaubt.
+        Server, die gegen die <a href="https://discord.com/guidelines" target="_blank">Discord Community Richtlinien</a> verletzen, sind nicht erlaubt.
     </li>
     <li>
         Die Verwendung von Bots oder anderen Skripten zur automatischen Ausführung von Aktionen auf DISBOARD, wie z.B. das Bumpen eines Servers ("auto-bump") ist nicht erlaubt. Bumpen, schreiben von Rezensionen usw. muss manuell getan werden.
