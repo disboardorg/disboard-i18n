@@ -203,7 +203,6 @@ return [
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Mag tuklas ng <span class="discord-logo">Discord</span> Servers',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Kumokonekta kami ng mga <strong>Discord servers</strong> at mga taong magsama-sama',
-    'Public <span class="discord-logo">Discord</span> Servers' => 'Pampublikong <span class="discord-logo">Discord</span> Server',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> ay ang lugar kung saan maaari mong <strong> ilista/mahanap ang mga server ng Discord </strong>.',
     'Find and join some awesome servers listed here.' => 'Mag hanap at sumali ng mga kahanga-hangang servers na naka lista dito.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'O <a href="{login-url}"> pag-login </a> at <strong> idagdag ang iyong server kung ikaw ay may-ari ng server</strong> 😎',

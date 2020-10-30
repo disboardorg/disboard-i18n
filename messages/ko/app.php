@@ -26,6 +26,8 @@ return [
     'Admin response' => '관리자 응답',
     'Admin servers' => '관리 서버',
     'After that send this command: <span class="tag is-light">!d refresh</span>' => '그 후에 이 명령어를 입력해 주세요: <span class="tag is-light">!d refresh</span>',
+    'All Discord reviews' => '모든 Discord 리뷰',
+    'All Discord servers' => '모든 Discord 서버',
     'Are you sure you want to delete {serverName}?' => '정말로 {serverName} (을)를 삭제합니까？',
     'Are you sure you want to delete this review?' => '정말로 이 리뷰를 삭제합니까？',
     'Bad Request' => '잘못된 요청',
@@ -117,8 +119,6 @@ return [
     'Reviews of {serverName}' => '{serverName} 의 리뷰',
     'Save' => '저장하기',
     'See: <a href="{url}" target="_blank">screen capture</a>' => '<a href="{url}" target="_blank">스크린 캡처</a>를 참고',
-    'All Discord reviews' => '모든 리뷰 보기',
-    'All Discord servers' => '모든 서버 보기',
     'See More Discord Servers' => '서버 더 보기',
     'Search' => '검색',
     'Search Discord Servers' => 'Discord 서버 검색',
@@ -173,8 +173,8 @@ return [
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD는 모두가 Discord를 좀더 즐길수 있게 하기 위해 만들어졌습니다.<br>이곳에서 Discord의 재밌는 서버를 찾거나 친구를 사귀셨으면 좋겠습니다. 😊',
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> 서버 게시판에서 찾기',
-    'We connect <strong>Discord servers</strong> and <b>people</b> together' => '<b>DISBOARD</b>は<strong>디스코드 서버</strong>와<b>여러분</b>을 연결합니다.',
-    'Public <span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span><span>서버게시판へ</span><span>어서오세요！</span>',
+    'We connect <strong>Discord servers</strong> and <b>people</b> together' => '<b>DISBOARD</b><strong>디스코드 서버</strong>와<b>여러분</b>을 연결합니다.',
+    'Public <span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span><span>서버게시판</span><span>어서오세요！</span>',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD(디스보드)</strong>는 <strong>Discord(디스코드)의 서버 모집/검색이 가능한 게시판</strong>입니다.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => '<strong>서버 관리자 😎 라면</strong>、<a href="/login">로그인</a>해<strong>당신의 서버를 게시</strong>해 봅시다！',
     'Add Your Server!' => '서버를 게시하기!', // The large button

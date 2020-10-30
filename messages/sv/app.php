@@ -216,7 +216,6 @@ return [ /* wewritethestory#2772 here */
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Upptäck <span class="discord-logo">Discord</span>-servrar',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Vi sammankopplar <strong>Discord-servrar</strong> och <b>människor</b>',
-    'Public <span class="discord-logo">Discord</span> Servers' => 'Offentliga <span class="discord-logo">Discord</span>-servrar',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> är stället där man kan <strong>lista/hitta Discord-servrar</strong>.',
     'Find and join some awesome servers listed here.' => 'Hitta och anslut till en del fantastiska servar som listas här.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Annars <a href="{login-url}">logga in</a> och <strong>lägg till din server om du är serverägare</strong> 😎',

@@ -193,7 +193,6 @@ return [
     /* Wiadomość powitalna na stronie */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Odkryj serwery <span class="discord-logo">Discord</span>',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Łączymy <strong>serwery</strong> oraz <b>ludzi</b>',
-    'Public <span class="discord-logo">Discord</span> Servers' => 'Publiczne serwery <span class="discord-logo">Discord</span>',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> jest miejscem w którym możesz <strong>znaleźć oraz wyświetlić</strong> serwery Discord.',
     'Find and join some awesome servers listed here.' => 'Znajdź i dołącz do niesamowitych serwerów dostępnych na naszej stronie.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => '<a href="{login-url}">Zaloguj się</a> oraz <strong>dodaj serwer, którego jesteś właścicielem</strong> 😎',

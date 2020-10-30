@@ -198,7 +198,6 @@ return [
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Entdecke <span class="discord-logo">Discord</span> Server',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Wir verbinden <strong>Discord Server</strong> und <b>Personen</b>',
-    'Public <span class="discord-logo">Discord</span> Servers' => 'Öffentliche <span class="discord-logo">Discord</span> Server',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> ist der Ort, an dem du <strong>Discord Server listen/finden</strong> kannst.',
     'Find and join some awesome servers listed here.' => 'Finde und trete ein paar tollen Servern bei, die hier gelistet sind.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Oder <a href="{login-url}">melde dich an</a> und <strong>füge deinen Server hinzu, falls du der Besitzer bist</strong> 😎',
