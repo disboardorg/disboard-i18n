@@ -20,4 +20,4 @@ Primary translator (The user with the most contribution in each language) is bol
 * Russian: **[@Juneccino](https://github.com/Juneccino)**
 * Chinese (Simplified, Mainland): **The Double-Eyed Bus#6889 ([@austinhuang0131](https://github.com/austinhuang0131))**
 * Chinese (Traditional, Taiwan): **[@koenfoo](https://github.com/koenfoo)**
-* Korean: **oota#3077**, **Athletisme.#4885**([GitHub](https://github.com/NoNameStudent04))
+* Korean: **oota#3077**, Athletisme.#4885 ([@NoNameStudent04](https://github.com/NoNameStudent04))
