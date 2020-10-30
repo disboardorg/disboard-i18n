@@ -174,7 +174,7 @@ return [
     'You must be logged in to mute a server' => 'Du musst eingeloggt sein, um einen Server hinzuzufügen.',
     'You must be a member of the server to review it' => 'Du musst Mitglied des Servers sein, um ihn zu rezensieren',
     'You need to be in the server for at least {duration} days to review' => 'Du musst für mindestens {duration} Tage im Server sein, um ihn zu rezensieren',
-    'You need to follow our <a href="{url}" target="_blank">Guidelines</a>' => 'Du musst unseren<a href="{url}" target="_blank">Richtlinien</a> folgen',
+    'You need to follow our <a href="{url}" target="_blank">Guidelines</a>' => 'Du musst unseren <a href="{url}" target="_blank">Richtlinien</a> folgen',
     'You seem like a robot' => 'Du scheinst ein Roboter zu sein',
     'Your servers' => 'Deine Server',
     'Your reviews' => 'Deine Rezensionen',
