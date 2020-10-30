@@ -155,7 +155,7 @@ return [
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD ble lagd for at alle skal få mer glede av Discord.<br>Vi håper du finner fantastiske Discord-servere og venner her 😊.',
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Oppdag <span class="discord-logo">Discord</span>-servere',
-    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Vi kopler <strong>Discord-servere</strong> og <b>mennesker</b>',
+    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Vi kopler <strong>Discord-servere</strong> og <b>mennesker</b> sammen',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> er stedet man kan <strong>liste/finne Discord-servere</strong>.',
     'Find and join some awesome servers listed here.' => 'Finn og bli med i noen av de kjempekule serverne her.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Eller <a href="{login-url}">logg inn</a> og <strong>legg til serveren din hvis du eier en.</strong> 😎',
