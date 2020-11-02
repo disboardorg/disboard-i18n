@@ -249,6 +249,6 @@ return [
     'Fighting Games' => 'Bojové hry',
     /* Meta Descriptions */
     'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD je veřejná komunita obsahující seznam Discord serverů. Discord servery můžeš vyhledávat pomocí tvých zájmů jako Hraní her, Anime, Hudba a další. Najdi zde nějaké skvělé servery a připoj se k nim!',
-    #'Výsledkek hledáni pro: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => '！',
+    'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Výsledky hledání pro: {keyword}！ {count, plural, =1{Je tu # server čekající} =2{Jsou tu # servery čekající} =3{Jsou tu # servery čekající} =4{Jsou tu # servery čekající}  other{Je tu # serverů čekajících}} na tvé připojení.',
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Seznam Disboard serverů označené {tag}. Najdi zde nějaké skvělé servery a připoj se k nim!',
 ];
