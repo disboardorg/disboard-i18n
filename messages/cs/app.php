@@ -205,7 +205,7 @@ return [
     'Your review has been deleted' => 'Tvá recenze byla smazána',
     'Your review has been saved successfully' => 'Tvá recenze byla úspěnšně uložena',
     'just now' => 'právě teď',
-    '{0, plural, =1{# den} other{# days}} ago' => 'před {0, plural, =1{# dnem} other{# dny}}'
+    '{0, plural, =1{# den} other{# days}} ago' => 'před {0, plural, =1{# dnem} other{# dny}}',
     '{0, plural, =1{# hodina} other{# hours}} ago' => 'před {0, plural, =1{# hodinou} other{# hodinami}}',
     '{0, plural, =1{# minut} other{# minutes}} ago' => 'před {0, plural, =1{# minutou} other{# minutami}}',
     '{0, plural, =1{# second} other{# seconds}} ago' => 'před {0, plural, =1{# vteřinou} other{# vteřinami}}',
@@ -220,7 +220,7 @@ return [
     'Public <span class="discord-logo">Discord</span> Servers' => 'Veřejné <span class="discord-logo">Discord</span> Servery',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> je místo kde můžeš <strong>propagovat/najít Discord servery</strong>.',
     'Find and join some awesome servers listed here.' => 'Najdi zde nějaké skvělé servery a připoj se k nim!',
-    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Nebo <a href="{login-url}">se přihlaš</a> a <strong>přidej svůj server, pokud jsi jeho vlastník</strong> 😎', 
+    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Nebo <a href="{login-url}">se přihlaš</a> a <strong>přidej svůj server, pokud jsi jeho vlastník</strong> 😎',
     'Add Your Server!' => 'Přidej Svůj Server!', // The large button
     /* Categories */
     'Adventure Games' => 'Dobrodružné hry',
