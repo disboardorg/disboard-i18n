@@ -1,5 +1,5 @@
 {
-  "DISBOARD: The Public Server List": "",
+  "DISBOARD: The Public Server List": "منصة ديسبورد: واجهة السيرفرات العامة",
   "Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "أهلا! انا روبوت الاوامر الخاص  بالديسبورد (<https://disboard.org/>)",
   "COMMAND LIST": "واجهة الاوامر",
   "This!": "هذه القائمة!",
