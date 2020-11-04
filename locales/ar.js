@@ -3,7 +3,7 @@
   "Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "أهلا! انا روبوت الاوامر الخاص  بالديسبورد (<https://disboard.org/>)",
   "COMMAND LIST": "واجهة الاوامر",
   "This!": "هذه القائمة!",
-  "Bump this server": "تحديث خذا السيرفر!",
+  "Bump this server": "تحديث هذا السيرفر!",
   "Get server page link": "الحصول على رابط السيرفر",
   "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "غير الدعوة الفورية لهذه القناة. إذا تم التحديد [channel] ،فقم بإنشاء دعوة فورية لهذه القناة",
   "Admin only": "للمسؤولين فقط",
