@@ -34,7 +34,7 @@ $this->title = Yii::t('app', 'Pokyny');
         V DISBOARDU nesmíte odměňovat ani nutit uživatele k provádění akcí. Například nesmíte odměňovat své uživatele za zveřejnění pěkné recenze o serveru nebo je nutit, aby server bumpnuli.
     </li>
     <li>
-        Není povoleno vytváření více Discord účtů za účelem zveřejnění vícero recenzí. Zveřejňuj prosím jen jednu recenzi na osobu.
+        Není povoleno vytváření více Discord účtů za účelem zveřejnění vícero recenzí. Zveřejňujte prosím jen jednu recenzi na osobu.
     </li>
     <li>
         Všechny servery, které jsou založeny hlavně na NSFW (sexuální obsah podle našeho uvážení), musí být v DISBOARDU označeny jako „NSFW“.
