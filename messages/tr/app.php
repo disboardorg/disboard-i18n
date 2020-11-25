@@ -23,7 +23,7 @@ return [
     'Be positive, constructive and respectful' => 'Pozitif, yaratici ve saygili ol',
     'Bump' => 'Patlatmak',
     'Bumped At' => 'Patladi',
-    'Bumped {time}' => '{time} da patladi',
+    'Bumped {time}' => '{time} patladi',
     'Bumped recently' => 'Gecenlerde patladi',
     'Cancel' => 'Iptal et',
     'Categorize your server by keywords (e.g. game title)' => 'Sunucunu anahtar kelimelerle kategorize et (e.g. titre d\'un jeu)',
