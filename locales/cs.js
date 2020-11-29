@@ -1,10 +1,10 @@
 {
-  "DISBOARD: The Public Server List": "DISBOARD Veřejný Server List",
+  "DISBOARD: The Public Server List": "DISBOARD Veřejný seznam serverů",
   "Hi! I am a bot for DISBOARD (<https://disboard.org/>)": "Ahoj! Já jsem DISBOARD bot (<https://disboard.org/>)",
   "COMMAND LIST": "LIST PŘÍKAZŮ",
   "This!": "Tohle!",
-  "Bump this server": "Bumpni tento server",
-  "Get server page link": "Pošle webový odkaz na tvůj server",
+  "Bump this server": "Bumpne tento server.",
+  "Get server page link": "Zašle webový odkaz na tvůj server.",
   "Change Instant Invite to this channel. If [channel] is specified, create Instant Invite for that channel": "Změní pozvánku na tento kanál. Pokud [channel] je použit, vytvoří pozvánku do daného kanálu.",
   "Admin only": "jen Admin",
   "Bump done": "Úspěšný bump",
@@ -31,6 +31,6 @@
   "Command failed": "Příkaz selhal",
   "DISBOARD API server seems to be down": "Vypadá to, že DISBOARD API server neni v provozu",
   "You are rate limited. Please wait %s seconds": "Jsi limitován. Prosím počkej %s vteřin.",
-  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Jak přidám můj server na DISBOARD?**\n\n 1. Přihlas se na webové stránce DISBOARD.\n 2. Jdi do řídícího panelu.\n 3. Klikni na \"Přidej nový server\"\nVyplň informace o serveru a ulož to. Budeš přesměrován na autorizační stránku Discordu. Pokud ne, klikni na tlačítko \"Přidej Bota\" který najdeš na stránce v nastavení serveru.",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Jak přidám můj server na DISBOARD?**\n\n 1. Přihlas se na webové stránce DISBOARD.\n 2. Jdi do řídícího panelu.\n 3. Klikni na \"Přidej nový server\"\nVyplň informace o serveru a ulož to. Budeš přesměrován na autorizační stránku Discordu. Pokud ne, klikni na tlačítko \"Přidej Bota\" které najdeš na stránce v nastavení serveru.",
   "Support server: <%s>": "Server podpory: <%s>"
 }
