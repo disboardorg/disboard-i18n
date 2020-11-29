@@ -96,7 +96,7 @@ return [
     'Please check the checkbox below before joining "<strong>{serverName}</strong>"' => 'Bitte kreuze das Kästchen an, bevor du "<strong>{serverName}</strong>" beitrittst',
     'Please enter no more than {tagLimit} tags.' => 'Bitte gib nicht mehr als {tagLimit} Stichworte an.',
     'Please select a server' => 'Bitte wähle einen Server aus',
-    'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Bitte warte noch {0, plural, =1{# Minute} other {# Minuten}} bis der Server erneute gebumpt werden kann',
+    'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Bitte warte noch {0, plural, =1{# Minute} other {# Minuten}} bis der Server erneut gebumpt werden kann',
     'Please wait another {0, plural, =1{# minute} other{# minutes}} until you can bump' => 'Bitte warte noch {0, plural, =1{# Minute} other {# Minuten}} bis du wieder bumpen kannst',
     'Popular Tags' => 'Populäre Stichworte',
     'Private' => 'Privat',
