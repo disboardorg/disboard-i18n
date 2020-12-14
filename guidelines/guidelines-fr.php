@@ -15,19 +15,19 @@ $this->title = Yii::t('app', 'Guidelines');
 </p>
 <ul>
     <li>
-        L'utilisations d'insultes ou de contenus NSFW (contenu sexuel) discrètement dans une méta-donnée (titre, description ou image), une critique ou tout autre contenu visible par les utilisateurs de DISBOARD est interdit. En cas de non respect, le contenu pourra être retiré jusqu'à ce que celui-ci soit en accord avec la charte d'utilisation    
+        L'utilisation d'insultes ou de contenus NSFW (contenu sexuel) discrètement dans une méta-donnée (titre, description ou image), une critique ou tout autre contenu visible par les utilisateurs de DISBOARD est interdit. En cas de non-respect, le contenu pourra être retiré jusqu'à ce que celui-ci soit en accord avec la charte d'utilisation    
     </li>
     <li>
         Vous ne devez pas enfreindre les lois de votre pays ou inciter à leurs violations
     </li>
     <li>
-        Les serveurs violants <a href="https://discordapp.com/guidelines" target="_blank">les règles communautaires de Discord</a> est interdit.
+        Les serveurs violents les<a href="https://discordapp.com/guidelines" target="_blank">règles communautaires de Discord</a> sont interdits.
     </li>
     <li>
         L'utilisation d'automates (bots, scripts etc..) pour automatiser une action sur DISBOARD ("bump" un serveur, mettre un avis) est interdit. Les dites actions doivent être faites manuellement
     </li>
     <li>
-        Vous ne devez pas ajouter/faire apparaitre de serveurs ayant pour seul but de faire la pub pour, rediriger vers un autre serveur ou n'ayant aucun contenue (à notre appréciation)
+        Vous ne devez pas ajouter/faire apparaître de serveurs ayant pour seul but de faire la publicité, pour rediriger vers un autre serveur ou n'ayant aucun contenue (à notre appréciation)
     </li>
     <li>
         Vous ne devez pas forcer un utilisateur à faire une action sur DISBOARD (un avis positif, un bump)      
@@ -36,7 +36,7 @@ $this->title = Yii::t('app', 'Guidelines');
        Vous ne devez pas créer/vous servir de plusieurs comptes discord pour mettre plusieurs avis. La limite est de 1 avis par personne
     </li>
     <li>
-        Tout les serveurs NSFW (contenus sexuels, à notre appréciation) doivent se déclarent comme tel dans DISBOARD (cocher la case NSFW dans le serveur sur DISBOARD)  
+        Tous les serveurs NSFW (contenus sexuels, à notre appréciation) doivent se déclarent comme tel dans DISBOARD (cocher la case NSFW dans le serveur sur DISBOARD)  
     </li>
 </ul>
 
