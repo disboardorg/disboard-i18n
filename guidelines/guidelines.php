@@ -7,39 +7,39 @@ $this->title = Yii::t('app', 'Guidelines');
     <?= $this->title ?>
 </h1>
 <p class="has-text-right is-italic">
-    Dernière modification: 10 avril 2020
+    Last Modified: 2020-04-10
 </p>
 <p>
-    Afin de garder une communauté saine, vous devrez suivre quelques règles <br>
-    En utilisant DISBOARD, vous acceptez les règles suivantes:
+    In order to keep a safe community, there are some guidelines which need to be followed by you <br>
+    By using DISBOARD, you agree to the following guidelines:
 </p>
 <ul>
     <li>
-        L'utilisations d'insultes ou de contenus NSFW (contenu sexuel) discrètement dans une méta-donnée (titre, description ou image), une critique ou tout autre contenu visible par les utilisateurs de DISBOARD est interdit. En cas de non respect, le contenu pourra être retiré jusqu'à ce que celui-ci soit en accord avec la charte d'utilisation    
+        The use of swear words, dirty words or NSFW (sexual content) to our discretion in a server's meta (title, description and picture), review or other content that may be seen by other users in DISBOARD is not allowed. This will lead to the removal of the content, however, you'll be able to repost the content with a proper language.
     </li>
     <li>
-        Vous ne devez pas enfreindre les lois de votre pays ou inciter à leurs violations
+        You may not violate any laws or regulations in your country of residence or promote the violation of them.
     </li>
     <li>
-        Les serveurs violants <a href="https://discordapp.com/guidelines" target="_blank">les règles communautaires de Discord</a> est interdit.
+        Servers violating <a href="https://discordapp.com/guidelines" target="_blank">Discord Community Guidelines</a> are not allowed.
     </li>
     <li>
-        L'utilisation d'automates (bots, scripts etc..) pour automatiser une action sur DISBOARD ("bump" un serveur, mettre un avis) est interdit. Les dites actions doivent être faites manuellement
+        The use of bots or other scripts to automatically do actions in DISBOARD such as bumping a server ("auto-bump") is not allowed. Bumping, creating reviews and etc. must be done manually.
     </li>
     <li>
-        Vous ne devez pas ajouter/faire apparaitre de serveurs ayant pour seul but de faire la pub pour, rediriger vers un autre serveur ou n'ayant aucun contenue (à notre appréciation)
+        You may not list servers which serve for the sole purpose of redirecting or advertising other servers or have no content (To our discretion).
     </li>
     <li>
-        Vous ne devez pas forcer un utilisateur à faire une action sur DISBOARD (un avis positif, un bump)      
+        You may not reward or force users to do actions in DISBOARD. For instance, you may not reward your users for posting a nice review on a server or force them to bump a server.
     </li>
     <li>
-       Vous ne devez pas créer/vous servir de plusieurs comptes discord pour mettre plusieurs avis. La limite est de 1 avis par personne
+        You may not create multiple Discord accounts to submit multiple reviews. Please just post 1 review per person.
     </li>
     <li>
-        Tout les serveurs NSFW (contenus sexuels, à notre appréciation) doivent se déclarent comme tel dans DISBOARD (cocher la case NSFW dans le serveur sur DISBOARD)  
+        All servers which are mainly based on NSFW (sexual content to our discretion) must be marked as "NSFW" in DISBOARD.
     </li>
 </ul>
 
 <p>
-    Consulter aussi nos <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Term of Services'); ?></a>
+    See also our <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Term of Services'); ?></a>
 </p>
