@@ -21,7 +21,7 @@ $this->title = Yii::t('app', 'Guidelines');
         Vous ne devez pas enfreindre les lois de votre pays ou inciter à leurs violations
     </li>
     <li>
-        Les serveurs violents la<a href="https://discordapp.com/guidelines" target="_blank">Charte d'utilisation de la communauté Discord</a> sont interdits.
+        Les serveurs enfreignants la <a href="https://discordapp.com/guidelines" target="_blank"> Charte d'utilisation de la communauté Discord</a> sont interdits.
     </li>
     <li>
         L'utilisation d'automates (bots, scripts etc..) pour automatiser une action sur DISBOARD ("bump" un serveur, mettre un avis) est interdite. Les dites actions doivent être faites manuellement
