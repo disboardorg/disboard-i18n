@@ -153,6 +153,7 @@ return [
     'The report has been sent' => 'Die Meldung wurde abgeschickt.',
     'The server is set to private' => 'Der Server ist auf privat gestellt.',
     'This server is private. Only the owner (you) can view it.' => 'Dieser Server ist privat. Nur der Besitzer (du) kann ihn sehen.',
+    'This server has been removed due to breaking our guidelines' => 'Dieser Server wurde aufgrund eines Verstoßes gegen unsere Richtlinien entfernt',
     'This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.' => 'Diese Seite ist von reCAPTCHA geschützt und die Google <a href="https://policies.google.com/privacy">Datenschutzrechtlinien</a> und <a href="https://policies.google.com/terms">Nutzungsbedingungen</a> werden angewendet.',
     'This will add this server to our public server list' => 'Fügt den Server zu unseren öffentlichen Serverliste hinzu',
     'Title' => 'Titel',
