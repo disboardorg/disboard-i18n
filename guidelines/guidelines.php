@@ -30,7 +30,15 @@ $this->title = Yii::t('app', 'Guidelines');
         You may not list servers which serve for the sole purpose of redirecting or advertising other servers or have no content (To our discretion).
     </li>
     <li>
-        You may not reward, harass or force users to interact with our service (e.g. bumping or reviewing a server).
+        You may not reward, harass or force users to interact with our service (e.g. bumping or reviewing a server). Provided below as a courtesy is a non-exhaustive list of examples of rewards that are not permitted:
+        <ul>
+            <li>XP (or other forms of virtual payment)</li>
+            <li>Any form of non-virtual payment</li>
+            <li>Leaderboards (or other forms of explicit tracking of users' actions on our service)</li>
+            <li>Roles (or other benefits over users not interacting with our service)</li>
+            <li>Gifts (e.g. Nitro)</li>
+            <li>Incentives (e.g. entry into a raffle)</li>
+        </ul>
     </li>
     <li>
         You may not use multiple Discord accounts to submit multiple reviews on a server.
