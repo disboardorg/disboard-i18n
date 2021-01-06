@@ -30,7 +30,7 @@ $this->title = Yii::t('app', 'Guidelines');
         You may not list servers which serve for the sole purpose of redirecting or advertising other servers or have no content (To our discretion).
     </li>
     <li>
-        You may not reward, harass or force users to interact with our service (e.g. bumping or reviewing a server). Provided below as a courtesy is a non-exhaustive list of examples of rewards that are not permitted:
+        You may not reward, harass or force users to interact with our service (e.g. bumping or reviewing a server), including but not limited to:
         <ul>
             <li>XP (or other forms of virtual payment)</li>
             <li>Any form of non-virtual payment</li>
