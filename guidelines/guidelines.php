@@ -7,7 +7,7 @@ $this->title = Yii::t('app', 'Guidelines');
     <?= $this->title ?>
 </h1>
 <p class="has-text-right is-italic">
-    Last Modified: 2021-01-06
+    Last Modified: 6th of January, 2021
 </p>
 <p>
     In order to keep a safe community, there are some guidelines which need to be followed by you <br>
