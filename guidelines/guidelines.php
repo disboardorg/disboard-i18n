@@ -10,7 +10,7 @@ $this->title = Yii::t('app', 'Guidelines');
     Last Modified: 2020-04-10
 </p>
 <p>
-    In order to keep a safe community, there are some guidelines which need to be followed by you <br>
+    In order to maintain a safe community on DISBOARD, we have defined a set of guidelines which you must follow.<br>
     By using DISBOARD, you agree to the following guidelines:
 </p>
 <ul>
