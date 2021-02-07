@@ -143,7 +143,7 @@ return [
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">डिस्कॉर्ड</span> सर्वर खोजिए',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'हम <strong>डिस्कॉर्ड सर्वर</strong> और <b>लोगों</b> को साथ जोड़ते हैं',
-    '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong>是一個讓您 <strong>尋找及分享Discord伺服器</strong>的地方。',
+    '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> वह जगह है जहाँ आप <strong>डिस्कॉर्ड सर्वर ढूँढ/सूचित</strong> कर सकते हैं।',
     'Find and join some awesome servers listed here.' => 'यहाँ से कुछ मज़ेदार डिस्कॉर्ड सर्वरों में शामिल होइए।',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'या <a href="/login">लॉगइन कर</a>के <strong>अपने सर्वर को जोड़िए अगर आप एक प्रबंधक हैं तो</strong> 😎',
     'Add Your Server!' => 'अपने सर्वर को जोड़िए!', // The large button
