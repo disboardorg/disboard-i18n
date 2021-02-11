@@ -38,7 +38,7 @@ $this->title = Yii::t('app', 'Guidelines');
     <ul>
         <li>You may not list servers which serve the sole purpose of redirecting or advertising other servers, or that have no content within them (to our discretion).</li>
         <li>You may not violate the <a href="https://discord.com/guidelines" target="_blank">Discord Community Guidelines</a>.</li>
-        <li>You may not list servers which are designed to mislead users, or that do not contain content relevant to the listing.</li>
+        <li>You may not list servers which are designed to mislead users, or that contains meta (title, description, icon, tags or other content on your listing) that is irrelevant to the server itself.</li>
         <li>All servers which are mainly based on NSFW content (to our discretion) must be marked as "NSFW" on the DISBOARD site.</li>
     </ul>
 </div>
