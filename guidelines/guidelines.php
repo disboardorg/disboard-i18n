@@ -20,7 +20,7 @@ $this->title = Yii::t('app', 'Guidelines');
     <ul>
         <li>You may not violate any laws or regulations in your country of residence or promote the violation of them.</li>
         <li>You may not automate any form of actions on our service</li>
-        <li>You may not use foul and/or sexual language on our service (to our discretion), in meta (content posted by users)</li>
+        <li>You may not use foul and/or sexual language on our service (to our discretion), in user generated content (content posted by users)</li>
         <li>
             You may not reward, harass or force users to interact with our service (e.g. bumping or reviewing a server), including but not limited to:
             <ul>
@@ -38,7 +38,7 @@ $this->title = Yii::t('app', 'Guidelines');
     <ul>
         <li>You may not list servers which serve the sole purpose of redirecting or advertising other servers, or that have no content within them (to our discretion).</li>
         <li>You may not violate the <a href="https://discord.com/guidelines" target="_blank">Discord Community Guidelines</a>.</li>
-        <li>You may not list servers which are designed to mislead users, or that contains meta (title, description, icon, tags or other content on your listing) that is irrelevant to the server itself.</li>
+        <li>You may not list servers which are designed to mislead users, or that contains user generated content (title, description, icon, tags or other content on your listing) that is irrelevant to the server itself.</li>
         <li>All servers which are mainly based on NSFW content (to our discretion) must be marked as "NSFW" on the DISBOARD site.</li>
     </ul>
 </div>
