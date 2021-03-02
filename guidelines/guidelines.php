@@ -19,15 +19,15 @@ $this->title = Yii::t('app', 'Guidelines');
     <p>Below are a set of guidelines that applies to the entirety of our service.</p>
     <ul>
         <li>You may not violate any laws or regulations in your country of residence or promote the violation of them.</li>
-        <li>You may not automate any form of actions on our service</li>
-        <li>You may not use foul and/or sexual language on our service (to our discretion), in user generated content (content posted by users)</li>
+        <li>You may not automate any form of actions on our service.</li>
+        <li>You may not use foul and/or sexual language on our service (to our discretion), in user generated content (content posted by users).</li>
         <li>
             You may not reward, harass or force users to interact with our service (e.g. bumping or reviewing a server), including but not limited to:
             <ul>
                 <li>Any form of virtual or non-virtual payment.</li>
-                <li>Leaderboards (or other forms of explicit tracking of users' actions on our service)</li>
-                <li>Roles (or other benefits over users not interacting with our service)</li>
-                <li>Incentives (promises for a future event)</li>
+                <li>Leaderboards (or other forms of explicit tracking of users' actions on our service).</li>
+                <li>Roles (or other benefits over users not interacting with our service).</li>
+                <li>Incentives (promises for a future event).</li>
             </ul>
         </li>
     </ul>
