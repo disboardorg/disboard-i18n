@@ -47,7 +47,7 @@ $this->title = Yii::t('app', 'Guidelines');
     <p>Below are a set of guidelines that applies to reviews posted of listings on our service.</p>
     <ul>
         <li>You may not utilise multiple Discord accounts to submit multiple reviews on a listing.</li>
-        <li>You may not post reviews that are harmful or defame a user or server's reputation.</li>
+        <li>You may not post reviews that are harmful or defame a user or server's reputation (to our discretion).</li>
     </ul>
 </div>
 
