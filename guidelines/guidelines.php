@@ -47,6 +47,13 @@ $this->title = Yii::t('app', 'Guidelines');
     <p>Below are a set of guidelines that applies to reviews posted of listings on our service.</p>
     <ul>
         <li>You may not utilise multiple Discord accounts to submit multiple reviews on a listing.</li>
+        <li>
+            You may not review servers that you have been banned from, including but not limited to:
+            <ul>
+                <li>Using alternate accounts to bybass bans.</li>
+                <li>Requesting users to review on your behalf.</li>
+            </ul>
+        </li>
         <li>You may not post reviews that are harmful or defame a user or server's reputation (to our discretion).</li>
     </ul>
 </div>
