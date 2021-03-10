@@ -31,4 +31,6 @@
   "Command failed": "فشل الأمر",
   "DISBOARD API server seems to be down": "يبدو أن واجهة الديسبورد توقفت عن العمل",
   "You are rate limited. Please wait %s seconds": " يرجى الانتظار %s ثاني. لأنك تجاوزت حدود كم الاوامر",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": **كيف اضف سرفري الى ديسبورد؟**\n\n  1. سجل الدخول على موقع ديسبورد\n 2. اذهب الى لوحة القيادة\n 3. انقر \"اضف سيرفر جديد"\"\nادخل معلومات سيرفرك و احفظها. سوف يتم اعادة توجيهك الى شاشة تفويض دسكورد.ان لم يحدث, اضغط على \"اضافة البوت"\ على شاشة تعديل السيرفر.
+  "<Support server: <%s>": "سيرفر المساعدة: <%s>"
 }
