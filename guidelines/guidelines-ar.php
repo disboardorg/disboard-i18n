@@ -1,7 +1,7 @@
 <?php
 use yii\helpers\Url;
 
-$this->title = Yii::t('app', 'Guidelines');
+$this->title = Yii::t('app', 'القواعد الارشادية');
 ?>
 <h1>
     <?= $this->title ?>
