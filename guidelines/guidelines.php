@@ -25,7 +25,8 @@ $this->title = Yii::t('app', 'Guidelines');
             You may not reward, harass or force users to interact with our service (e.g. bumping or reviewing a server), including but not limited to:
             <ul>
                 <li>Any form of virtual or non-virtual payment.</li>
-                <li>Leaderboards (or other forms of explicit tracking of users' actions on our service).</li>
+                <li>Leaderboards.</li>
+                <li>Counters.</li>
                 <li>Roles (or other benefits over users not interacting with our service).</li>
                 <li>Incentives (promises for a future event).</li>
             </ul>
