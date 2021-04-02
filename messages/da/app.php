@@ -138,8 +138,8 @@ return [
     'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => 'Hvorfor anmelder du ikke <a href="{reviewUrl}"><strong>{serverName}</strong></a>?',
     'You haven\'t added a server yet' => 'Du har ikke tilføjet en server endnu',
     'You seem like a robot' => 'Du virker som en robot',
-    'Your servers' => 'Dine serverne',
-    'Your reviews' => 'Dine anmeldelsene',
+    'Your servers' => 'Dine servere',
+    'Your reviews' => 'Dine anmeldelser',
     'Your server has been bumped' => 'Din server er blevet bumped',
     'Your server has been deleted' => 'Din server er blevet slettet',
     'Your server has been saved successfully' => 'Din server er blevet gemt',
@@ -155,7 +155,7 @@ return [
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD blev lavet for at alle skulle få mere glæde af Discord.<br>Vi håber du finder fantastiske Discord-servere og venner her 😊.',
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Opdag <span class="discord-logo">Discord</span>-servere',
-    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Vi kopler <strong>Discord-servere</strong> og <b>mennesker</b> sammen',
+    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Vi kobler <strong>Discord-servere</strong> og <b>mennesker</b> sammen',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> er stedet man kan <strong>liste/finde Discord-servere</strong>.',
     'Find and join some awesome servers listed here.' => 'Find og bliv medlem af nogle af de fantastiske servere her.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Eller <a href="{login-url}">log ind</a> og <strong>tilføj din server, hvis du ejer en.</strong> 😎',
@@ -191,6 +191,6 @@ return [
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Liste over servere markerede med {tag}. Find og bliv med i nogle fantastiske servere som er listed her!',
     /* New strings */
     'Separate by <b>space</b>' => 'Del op med <b>mellemrum</b>',
-    'Settings' => 'Innstillinger',
+    'Settings' => 'Indstillinger',
     'Servers' => 'Servere',
 ];
