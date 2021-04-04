@@ -51,7 +51,7 @@ $this->title = Yii::t('app', 'Guidelines');
         <li>
             You may not review servers that you have been banned from, including but not limited to:
             <ul>
-                <li>Using alternate accounts to bybass bans.</li>
+                <li>Using alternate accounts to bypass bans.</li>
                 <li>Requesting users to review on your behalf.</li>
             </ul>
         </li>
