@@ -14,7 +14,7 @@ $this->title = Yii::t('app', 'Guidelines');
     In order to maintain a safe community on DISBOARD, we have defined a set of guidelines which you must follow.<br>
     By using DISBOARD, you agree to the following guidelines:
 </p>
-<div>
+<div id="general-guidelines">
     <h2>General Guidelines</h2>
     <p>Below are a set of guidelines that applies to the entirety of our service.</p>
     <ul>
@@ -33,9 +33,9 @@ $this->title = Yii::t('app', 'Guidelines');
         </li>
     </ul>
 </div>
-<div>
+<div id="server-guidelines">
     <h2>For Servers</h2>
-    <p>Below are a set of guidelines that applies to servers listed on our service.</p>
+    <p>Below are a set of guidelines that applies to servers listed on our service and serve as an extension of the <a href="#general-guidelines">General Guidelines</a>.</p>
     <ul>
         <li>You may not list servers which serve the sole purpose of redirecting or advertising other servers, or that have no content within them (to our discretion).</li>
         <li>You may not violate the <a href="https://discord.com/guidelines" target="_blank">Discord Community Guidelines</a>.</li>
@@ -43,9 +43,9 @@ $this->title = Yii::t('app', 'Guidelines');
         <li>All servers which are mainly based on NSFW content (to our discretion) must be marked as "NSFW" on the DISBOARD site.</li>
     </ul>
 </div>
-<div>
+<div id="review-guidelines">
     <h2>For Reviews</h2>
-    <p>Below are a set of guidelines that applies to reviews posted of listings on our service.</p>
+    <p>Below are a set of guidelines that applies to reviews posted of listings on our service and serve as an extension of the <a href="#general-guidelines">General Guidelines</a>.</p>
     <ul>
         <li>You may not utilise multiple Discord accounts to submit multiple reviews on a listing.</li>
         <li>
