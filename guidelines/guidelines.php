@@ -55,7 +55,13 @@ $this->title = Yii::t('app', 'Guidelines');
                 <li>Requesting users to review on your behalf.</li>
             </ul>
         </li>
-        <li>You may not post reviews that are harmful or defame a user or server's reputation (to our discretion).</li>
+        <li>
+            You may not post reviews that are harmful or defame a user or server's reputation (to our discretion), including but not limited to:
+            <ul>
+                <li>Accusations of violations of any Terms of Service or similar legal agreement.</li>
+                <li>Accusations of violations of the law or other regulations.</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
