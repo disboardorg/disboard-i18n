@@ -156,7 +156,7 @@ return [
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Opdag <span class="discord-logo">Discord</span>-servere',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Vi kopler <strong>Discord-servere</strong> og <b>mennesker</b> sammen',
-    '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> er stedet man kan <strong>liste/finde Discord-servere</strong>.',
+    '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> er stedet, hvor man kan <strong>liste/finde Discord-servere</strong>.',
     'Find and join some awesome servers listed here.' => 'Find og bliv medlem af nogle af de fantastiske servere her.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Eller <a href="{login-url}">log ind</a> og <strong>tilføj din server, hvis du ejer en.</strong> 😎',
     'Add Your Server!' => 'Tilføj din server!', // The large button
