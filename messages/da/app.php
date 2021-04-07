@@ -138,8 +138,8 @@ return [
     'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => 'Hvorfor anmelder du ikke <a href="{reviewUrl}"><strong>{serverName}</strong></a>?',
     'You haven\'t added a server yet' => 'Du har ikke tilføjet en server endnu',
     'You seem like a robot' => 'Du virker som en robot',
-    'Your servers' => 'Dine serverne',
-    'Your reviews' => 'Dine anmeldelsene',
+    'Your servers' => 'Dine servere',
+    'Your reviews' => 'Dine anmeldelser',
     'Your server has been bumped' => 'Din server er blevet bumped',
     'Your server has been deleted' => 'Din server er blevet slettet',
     'Your server has been saved successfully' => 'Din server er blevet gemt',
@@ -191,6 +191,6 @@ return [
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Liste over servere markerede med {tag}. Find og bliv med i nogle fantastiske servere som er listed her!',
     /* New strings */
     'Separate by <b>space</b>' => 'Del op med <b>mellemrum</b>',
-    'Settings' => 'Innstillinger',
+    'Settings' => 'Indstillinger',
     'Servers' => 'Servere',
 ];
