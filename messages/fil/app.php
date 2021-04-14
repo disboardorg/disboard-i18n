@@ -51,7 +51,7 @@ return [
     '<span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> Servers',
     'Discord servers tagged with <strong>{tag}</strong>' => 'Discord servers na naka-tag sa <strong>{tag}</strong>',
     'Don\'t forget to check "Set this link to never expire"' => 'Wag kalimutan e check "Set this link to never expire"',
-    'Edit' => 'Edit',
+    'Edit' => 'I-edit',
     'Edit Server' => 'I-edit ang Server',
     'Enter keyword(s)' => 'Ipasok ang keyword(s)',
     'Failed to Sync' => 'Nabigo na ma i-sync',
