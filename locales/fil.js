@@ -31,6 +31,6 @@
   "Command failed": "Command failed",
   "DISBOARD API server seems to be down": "DISBOARD API server seems to be down",
   "You are rate limited. Please wait %s seconds": "You are rate limited. Please wait %s seconds",
-  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Add new server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Pano ko ma iadd ang server ko sa DISBOARD?**\n\n 1. Login ka sa DISBOARD website\n 2. Pumunta ka Dashboard\n 3. iClick \"Add Bot\"\nPunan ang impormasyon ng iyong server at i-save ito. Ire-redirect ka sa Discord's authorization screen. Kung hindi, i-click ang \"Add Bot\" buton sa pahina ng pag-edit ng server.",
+  "**How do I add my server to DISBOARD?**\n\n 1. Login on DISBOARD website\n 2. Go to Dashboard\n 3. Click \"Maglagay ng Bagong Server\"\nFill out your server info and save it. You will be redirected to Discord's authorization screen. If not, click the \"Add Bot\" button on the server edit page.": "**Pano ko ma iadd ang server ko sa DISBOARD?**\n\n 1. Login ka sa DISBOARD website\n 2. Pumunta ka Dashboard\n 3. iClick \"Add Bot\"\nPunan ang impormasyon ng iyong server at i-save ito. Ire-redirect ka sa Discord's authorization screen. Kung hindi, i-click ang \"Add Bot\" buton sa pahina ng pag-edit ng server.",
   "Support server: <%s>": "Support server: <%s>"
 }
