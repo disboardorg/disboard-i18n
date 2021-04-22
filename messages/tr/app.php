@@ -31,7 +31,7 @@ return [
     'Categorize your server by keywords (e.g. game title)' => 'Sunucunu anahtar kelimelerle kategorize et (meselâ oyun ismi)',
     'Category' => 'Kategori',
     '<b>Categories</b> and <b>Popular tags</b>' =>  '<b>Kategoriler</b> ve <b>Popüler etiketler</b>',
-    'Copied the URL' => 'Link kopyalandi',
+    'Copied the URL' => 'Link kopyalandı',
     'Could not bump the server because the invite link is invalid (expired?)' => 'Davet linki geçersiz (süresi geçmiş?) olduğu icin, bu sunucu patlatılamadı',
     'Could not delete the server' => 'Bu sunucu silinemedi',
     'Could not delete the review' => 'Bu eleştiri silinemedi',
