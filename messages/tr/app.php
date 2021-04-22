@@ -132,7 +132,7 @@ return [
     'Search' => 'Ara',
     'Search Discord Servers' => 'Discord sunucular ara',
     'Search Options' => 'Arama seçenekleri',
-    'Search results for: {keyword}' => '{keyword} için sonuclar ara',
+    'Search results for: {keyword}' => '{keyword} için arama sonucları',
     'Select a Category' => 'Bir kategori seç',
     'Select Language' => 'Bir dil seç',
     'Select a Server' => 'Bir sunucu seç',
