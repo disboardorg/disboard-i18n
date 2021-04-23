@@ -18,11 +18,11 @@ $this->title = Yii::t('app', 'Guidelines');
     <h2>General Guidelines</h2>
     <p>Below are a set of guidelines that applies to the entirety of our service.</p>
     <ul>
-        <li>You may not violate any laws or regulations in your country of residence or promote the violation of them.</li>
+        <li>You may not violate any laws or regulations in your country of residence, or promote the violation of them.</li>
         <li>You may not automate any form of actions on our service.</li>
         <li>You may not use foul and/or sexual language on our service (to our discretion), in user generated content (content posted by users).</li>
         <li>
-            You may not reward, harass or force users to interact with our service (e.g. bumping or reviewing a server), including but not limited to:
+            You may not reward, harass, or force users to interact with our service (e.g. bumping or reviewing a server), including but not limited to:
             <ul>
                 <li>Any form of virtual or non-virtual payment.</li>
                 <li>Leaderboards.</li>
@@ -56,10 +56,10 @@ $this->title = Yii::t('app', 'Guidelines');
             </ul>
         </li>
         <li>
-            You may not post reviews that are harmful or defame a user or server's reputation (to our discretion), including but not limited to:
+            You may not post reviews that are harmful, or defame a user or server's reputation (to our discretion), including but not limited to:
             <ul>
-                <li>Accusations of violations of any Terms of Service or similar legal agreement.</li>
-                <li>Accusations of violations of the law or other regulations.</li>
+                <li>Accusations of violations of any Terms of Service, or similar legal agreement.</li>
+                <li>Accusations of violations of the law, or other regulations.</li>
             </ul>
         </li>
     </ul>
