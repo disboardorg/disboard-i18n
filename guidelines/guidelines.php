@@ -20,7 +20,7 @@ $this->title = Yii::t('app', 'Guidelines');
     <ul>
         <li>You may not violate any laws or regulations in your country of residence, or promote the violation of them.</li>
         <li>You may not automate any form of actions on our service.</li>
-        <li>You may not use foul and/or sexual language on our service (to our discretion), in user generated content (content posted by users).</li>
+        <li>You may not use foul and/or sexual language on our service (to our discretion) in user generated content (content posted by users).</li>
         <li>
             You may not reward, harass, or force users to interact with our service (e.g. bumping or reviewing a server), including but not limited to:
             <ul>
