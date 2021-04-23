@@ -37,9 +37,9 @@ $this->title = Yii::t('app', 'Guidelines');
     <h2>For Servers</h2>
     <p>Below are a set of guidelines that apply to servers listed on our service and serve as an extension of the <a href="#general-guidelines">General Guidelines</a>.</p>
     <ul>
-        <li>You may not list servers which serve the sole purpose of redirecting or advertising other servers, or that have no content within them (to our discretion).</li>
+        <li>You may not list servers which serve the sole purpose of redirecting or advertising other servers, or which have no content within them (to our discretion).</li>
         <li>You may not violate the <a href="https://discord.com/guidelines" target="_blank">Discord Community Guidelines</a>.</li>
-        <li>You may not list servers which are designed to mislead users, or that contains user generated content (title, description, icon, tags or other content on your listing) that is irrelevant to the server itself.</li>
+        <li>You may not list servers which are designed to mislead users, or which contains user generated content (title, description, icon, tags, or other content on your listing) which is irrelevant to the server itself.</li>
         <li>All servers which are mainly based on NSFW content (to our discretion) must be marked as "NSFW" on the DISBOARD site.</li>
     </ul>
 </div>
