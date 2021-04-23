@@ -49,14 +49,14 @@ $this->title = Yii::t('app', 'Guidelines');
     <ul>
         <li>You may not utilise multiple Discord accounts to submit multiple reviews on a listing.</li>
         <li>
-            You may not review servers that you have been banned from, including but not limited to:
+            You may not review servers in which you have been banned from, including but not limited to:
             <ul>
                 <li>Using alternate accounts to bypass bans.</li>
                 <li>Requesting users to review on your behalf.</li>
             </ul>
         </li>
         <li>
-            You may not post reviews that are harmful, or defame a user or server's reputation (to our discretion), including but not limited to:
+            You may not post reviews which are harmful, or which defame a user or server's reputation (to our discretion), including but not limited to:
             <ul>
                 <li>Accusations of violations of any Terms of Service, or similar legal agreements.</li>
                 <li>Accusations of violations of the law, or other regulations.</li>
