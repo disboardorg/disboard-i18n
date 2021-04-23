@@ -58,7 +58,7 @@ $this->title = Yii::t('app', 'Guidelines');
         <li>
             You may not post reviews that are harmful, or defame a user or server's reputation (to our discretion), including but not limited to:
             <ul>
-                <li>Accusations of violations of any Terms of Service, or similar legal agreement.</li>
+                <li>Accusations of violations of any Terms of Service, or similar legal agreements.</li>
                 <li>Accusations of violations of the law, or other regulations.</li>
             </ul>
         </li>
