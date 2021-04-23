@@ -35,7 +35,7 @@ $this->title = Yii::t('app', 'Guidelines');
 </div>
 <div id="server-guidelines">
     <h2>For Servers</h2>
-    <p>Below are a set of guidelines that applies to servers listed on our service and serve as an extension of the <a href="#general-guidelines">General Guidelines</a>.</p>
+    <p>Below are a set of guidelines that apply to servers listed on our service and serve as an extension of the <a href="#general-guidelines">General Guidelines</a>.</p>
     <ul>
         <li>You may not list servers which serve the sole purpose of redirecting or advertising other servers, or that have no content within them (to our discretion).</li>
         <li>You may not violate the <a href="https://discord.com/guidelines" target="_blank">Discord Community Guidelines</a>.</li>
@@ -45,7 +45,7 @@ $this->title = Yii::t('app', 'Guidelines');
 </div>
 <div id="review-guidelines">
     <h2>For Reviews</h2>
-    <p>Below are a set of guidelines that applies to reviews posted of listings on our service and serve as an extension of the <a href="#general-guidelines">General Guidelines</a>.</p>
+    <p>Below are a set of guidelines that apply to reviews posted of listings on our service and serve as an extension of the <a href="#general-guidelines">General Guidelines</a>.</p>
     <ul>
         <li>You may not utilise multiple Discord accounts to submit multiple reviews on a listing.</li>
         <li>
