@@ -16,7 +16,7 @@ $this->title = Yii::t('app', 'Guidelines');
 </p>
 <div id="general-guidelines">
     <h2>General Guidelines</h2>
-    <p>Below are a set of guidelines that applies to the entirety of our service.</p>
+    <p>Below are a set of guidelines that apply to the entirety of our service.</p>
     <ul>
         <li>You may not violate any laws or regulations in your country of residence, or promote the violation of them.</li>
         <li>You may not automate any form of actions on our service.</li>
