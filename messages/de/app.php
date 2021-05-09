@@ -229,7 +229,7 @@ return [
     'Tabletop Games' => 'Tabletop-Spiele',
     'Fighting Games' => 'Kampfspiele',
     /* Meta Descriptions */
-    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD ist eine öffentliche Discord Serverliste. Du kannst Discord Server nach deinen Interessen suchen, wie Gaming, Anime, Musik, etc. Finde tolle Server, die hier gelistet sind und tritt ihnen bei!!',
+    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD ist eine öffentliche Discord Serverliste. Du kannst Discord Server nach deinen Interessen suchen, wie Gaming, Anime, Musik etc. Finde tolle Server, die hier gelistet sind und tritt ihnen bei!',
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Suchergebnisse für: {keyword}. Es gibt {count, plural, =1{# Server, der} other{# Server, die}} darauf warten, dass du beitrittst!',
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Liste von Discord Servern mit dem Stichwort {tag}. Finde tolle Server, die hier gelistet sind und tritt ihnen bei!',
 ];
