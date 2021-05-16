@@ -64,7 +64,9 @@ $this->title = Yii::t('app', 'Guidelines');
         </li>
     </ul>
 </div>
-
+<hr />
 <p>
-    See also our <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Terms of Service'); ?></a>
+    We reserve rights to interpret these rules at our sole discretion.
+    <br />
+    See also our <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Terms of Service'); ?></a>.
 </p>
