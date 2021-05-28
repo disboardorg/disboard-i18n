@@ -66,7 +66,7 @@ $this->title = Yii::t('app', 'Guidelines');
 </div>
 <hr />
 <p>
-    We reserve rights to interpret these rules at our sole discretion.
+    We reserve the right to interpret these guidelines at our sole discretion.
     <br />
     See also our <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Terms of Service'); ?></a>.
 </p>
