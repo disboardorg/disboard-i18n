@@ -1,3 +1,4 @@
+<?php
 /**
  * https://austinhuang.me
  * im at austinhuang dot me
@@ -12,6 +13,8 @@ return [
     'Admin response' => '管理者回應',
     'Admin servers' => '管理之伺服器',
     'After that send this command: <span class="tag is-light">!d invite</span>' => '其後、請在您的伺服器中執行以下命令: <span class="tag is-light">!d invite</span>',
+    'All Discord reviews' => '所有Discord評論',
+    'All Discord servers' => '所有Discord伺服器',
     'Are you sure you want to delete {serverName}?' => '確定刪除{serverName}？',
     'Are you sure you want to delete this review?' => '確定刪除該評論？',
     'Bad Request' => '請求無效',
@@ -93,9 +96,6 @@ return [
     'Reviews of {serverName}' => '“{serverName}”的評價',
     'Save' => '保存',
     'See: <a href="{url}" target="_blank">screen capture</a>' => '參考<a href="{url}" target="_blank">截圖</a>',
-    'See all Discord reviews' => '查看所有Discord評論',
-    'See all Discord servers' => '查看所有Discord伺服器',
-    'See More Discord Servers' => '查看更多Discord伺服器',
     'Search' => '搜尋',
     'Search Discord Servers' => '搜尋Discord伺服器',
     'Search Options' => '搜尋選項',
@@ -147,7 +147,6 @@ return [
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => '發現 <span class="discord-logo">Discord</span> 伺服器',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => '我們將<strong>Discord 伺服器</strong>和<b>玩家們</b>聯繫在一起',
-    'Public <span class="discord-logo">Discord</span> Servers' => '公共 <span class="discord-logo">Discord</span> 伺服器',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong>是一個讓您 <strong>尋找及分享Discord伺服器</strong>的地方。',
     'Find and join some awesome servers listed here.' => '加入那些有趣的伺服器，',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => '或者<a href="/login">登入</a>並且 <strong>添加自己擁有的伺服器</strong> 😎',
