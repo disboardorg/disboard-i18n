@@ -19,8 +19,9 @@ Primary translator (The user with the most contribution in each language) is bol
 * Portuguese (Portugal): **Lucks#6960 ([@ItsPhaze](https://github.com/ItsPhaze))**
 * Swedish: **wewritethestory#2772 ([@hongjes1](https://github.com/hongjes1))**
 * Arabic: **Dr. Magic#6969 ([@DrMagic707](https://github.com/DrMagic707))**
-* Turkish: **Admisor#0135**\*, worgy#6180\* ([@halissen](https://github.com/halissen)), Rauf ⋆ShadowQinq⋆#8920 ([@ShadowQinq](https://github.com/ShadowQinq))
+* Turkish: **synarvis#4228 ([@synarvis](https://github.com/synarvis))**, Admisor#0135\*, worgy#6180\* ([@halissen](https://github.com/halissen)), Rauf ⋆ShadowQinq⋆#8920 ([@ShadowQinq](https://github.com/ShadowQinq))
 * Russian: **[@Juneccino](https://github.com/Juneccino)**
 * Chinese (Simplified, Mainland): **The Double-Eyed Bus#6889 ([@austinhuang0131](https://github.com/austinhuang0131))**
 * Chinese (Traditional, Taiwan): **[@koenfoo](https://github.com/koenfoo)**
 * Korean: **oota#3077**, Athletisme.#4885 ([@NoNameStudent04](https://github.com/NoNameStudent04))
+* Azerbaijani: **tengri#7983 ([@godtengri](https://github.com/godtengri))**

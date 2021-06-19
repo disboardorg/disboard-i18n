@@ -19,7 +19,7 @@ return [
     'Bot Status' => 'Bot Status',
     'Bump' => 'Bump',
     'Bumped At' => 'Gebumpt am',
-    'Bumped {time}' => 'Gebumpt um {time}',
+    'Bumped {time}' => 'Gebumpt vor {time}',
     'Bumped recently' => 'Kürzlich gebumpt',
     'Cancel' => 'Abbrechen',
     'Categorize your server by keywords (e.g. game title)' => 'Kategorisiere deinen Server mit Stichworten (z.B. Spieletitel)',
@@ -187,10 +187,10 @@ return [
     'Your review has been deleted' => 'Deine Rezension wurde gelöscht',
     'Your review has been saved successfully' => 'Deine Rezension wurde erfolgreich gespeichert',
     'just now' => 'gerade eben',
-    '{0, plural, =1{# day} other{# days}} ago' => 'Vor {0, plural, =1{# Tag} other{# Tagen}}',
-    '{0, plural, =1{# hour} other{# hours}} ago' => 'Vor {0, plural, =1{# Stunde} other{# Stunden}}',
-    '{0, plural, =1{# minute} other{# minutes}} ago' => 'Vor {0, plural, =1{# Minute} other{# Minuten}}',
-    '{0, plural, =1{# second} other{# seconds}} ago' => 'Vor {0, plural, =1{# Sekunde} other {# Sekunden}}',
+    '{0, plural, =1{# day} other{# days}} ago' => '{0, plural, =1{# Tag} other{# Tagen}}',
+    '{0, plural, =1{# hour} other{# hours}} ago' => '{0, plural, =1{# Stunde} other{# Stunden}}',
+    '{0, plural, =1{# minute} other{# minutes}} ago' => '{0, plural, =1{# Minute} other{# Minuten}}',
+    '{0, plural, =1{# second} other{# seconds}} ago' => '{0, plural, =1{# Sekunde} other {# Sekunden}}',
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'DISBOARD ist gemacht worden, damit alle Discord mehr genießen können.<br>Wir hoffen, du findest tolle Discord Server und Freunde hier 😊.',
     /* Rules, ToS */
     'Name or description contains insult or swear words' => 'Der Name oder die Beschreibung enthalten Beleidigungen oder Flüche',
@@ -201,7 +201,7 @@ return [
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Wir verbinden <strong>Discord Server</strong> und <b>Personen</b>',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> ist der Ort, an dem du <strong>Discord Server listen/finden</strong> kannst.',
     'Find and join some awesome servers listed here.' => 'Finde und trete ein paar tollen Servern bei, die hier gelistet sind.',
-    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Oder <a href="{login-url}">melde dich an</a> und <strong>füge deinen Server hinzu, falls du der Besitzer bist</strong> 😎',
+    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Oder <a href="{login-url}">melde dich an</a> und <strong>füge deinen eigenen Server hinzu</strong> 😎',
     'Add Your Server!' => 'Füge deinen Server hinzu!', // The large button
     /* Categories */
     'Adventure Games' => 'Abenteuerspiele',
@@ -229,7 +229,7 @@ return [
     'Tabletop Games' => 'Tabletop-Spiele',
     'Fighting Games' => 'Kampfspiele',
     /* Meta Descriptions */
-    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD ist eine öffentliche Discord Serverliste. Du kannst Discord Server nach deinen Interessen suchen, wie Gaming, Anime, Musik, etc. Finde und trete tollen Server bei, die hier gelistet sind!',
-    'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Suchergebnisse für: {keyword}. Es gibt {count, plural, =1{# Server, der} other{# Server, die}} darauf warten dass du beitrittst!',
-    'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Liste von Discord Servern mit dem Stichwort {tag}. Finde und trete tollen Servern bei, welche hier gelistet sind!',
+    'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD ist eine öffentliche Discord Serverliste. Du kannst Discord Server nach deinen Interessen suchen, wie Gaming, Anime, Musik etc. Finde tolle Server, die hier gelistet sind und tritt ihnen bei!',
+    'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Suchergebnisse für: {keyword}. Es gibt {count, plural, =1{# Server, der} other{# Server, die}} darauf warten, dass du beitrittst!',
+    'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Liste von Discord Servern mit dem Stichwort {tag}. Finde tolle Server, die hier gelistet sind und tritt ihnen bei!',
 ];
