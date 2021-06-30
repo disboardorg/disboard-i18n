@@ -63,7 +63,8 @@ return [
     'Join this Server' => 'Unirse al Servidor',
     'Join this server to be the first reviewer!' => '¡Únete a este servidor y escribe la primera reseña!',
     'Language' => 'Idioma',
-    'Login' => 'Inciar sesión',
+    'Login' => 'Iniciar sesión',
+    /* FerrusCor was here */
     'Logout' => 'Cerrar sesión',
     'Main Language' => 'Idioma principal',
     'Member Count' => 'Miembros',
