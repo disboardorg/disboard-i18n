@@ -26,3 +26,4 @@ Primary translator (The user with the most contribution in each language) is bol
 * Korean: **oota#3077**, Athletisme.#4885 ([@NoNameStudent04](https://github.com/NoNameStudent04))
 * Azerbaijani: **tengri#7983 ([@godtengri](https://github.com/godtengri))**
 * Vietnamese: **Inubashiri Momiji#1802 ([@MTGaming4325](https://github.com/MTGaming4325))**
+* Lithuanian: **royal#3362 ([@royalascrown](https://github.com/royalascrown))**
