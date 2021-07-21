@@ -16,7 +16,7 @@ Primary translator (The user with the most contribution in each language) is bol
 * Dutch: **🌸 Thana ✨#2212 ([@zThana](https://github.com/zThana))**, [@QkeleQ10](https://github.com/QkeleQ10), Ardere#9578\* ([@ArdentLemon](https://github.com/ArdentLemon))
 * Norweigian: **Forman#1861 ([@voormann](https://github.com/voormann))**
 * Polish: **Lego#8486 ([@Lego8486](https://github.com/Lego8486))**
-* Portuguese (Portugal): **Lucks#6960 ([@ItsPhaze](https://github.com/ItsPhaze))**
+* Portuguese (Portugal): **Lucks#6960 ([@luckspt](https://github.com/luckspt))**
 * Swedish: **wewritethestory#2772 ([@hongjes1](https://github.com/hongjes1))**
 * Arabic: **Dr. Magic#6969 ([@DrMagic707](https://github.com/DrMagic707))**
 * Turkish: **synarvis#4228 ([@synarvis](https://github.com/synarvis))**, Admisor#0135\*, worgy#6180\* ([@halissen](https://github.com/halissen)), Rauf ⋆ShadowQinq⋆#8920 ([@ShadowQinq](https://github.com/ShadowQinq))
@@ -26,3 +26,4 @@ Primary translator (The user with the most contribution in each language) is bol
 * Korean: **oota#3077**, Athletisme.#4885 ([@NoNameStudent04](https://github.com/NoNameStudent04))
 * Azerbaijani: **tengri#7983 ([@godtengri](https://github.com/godtengri))**
 * Vietnamese: **Inubashiri Momiji#1802 ([@MTGaming4325](https://github.com/MTGaming4325))**
+* Lithuanian: **royal#3362 ([@royalascrown](https://github.com/royalascrown))**
