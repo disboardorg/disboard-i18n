@@ -26,63 +26,65 @@ return [
     'Admin response' => 'رد الادمن',
     'Admin servers' => 'سيفرات الأدمن',
     'After that send this command: <span class="tag is-light">!d invite</span>' => 'من ثم إرسل هذا الأمر: <span class="tag is-light">!d invite</span>',
-    'All shards are operational!' => '!جميع الأجزاء تعمل',
-    'Are you sure you want to delete {serverName}?' => '؟{serverName}هل أنت متأكد بأنك تريد حذف',
-    'Are you sure you want to delete this review?' => 'هل أنت متأكد بأنّك تريد حذف الرأي؟',
-    'Bad Request' => 'غير مقبول',
+    'All Discord reviews' => 'جميع تقييمات الديسكورد',
+    'All Discord servers' => 'جميع سيرفرات الديسكورد',
+	'All shards are operational!' => 'جميع الشاردات تعمل!',
+    'Are you sure you want to delete {serverName}?' => 'هل أنت متأكد بأنك تريد حذف {serverName}؟',
+    'Are you sure you want to delete this review?' => 'هل أنت متأكد بأنّك تريد حذف هذا التقييم؟',
+    'Bad Request' => 'طلب سيئ',
     'Be positive, constructive and respectful' => 'كن إيجابياً، محفزّاً وخلوقاً',
     'Bot Status' => 'حالة البوت',
     'Bump' => 'رفع',
     'Bumped At' => 'تم رفعه بـ',
-    'Bumped {time}' => '{time}رُفع',
+    'Bumped {time}' => 'رُفع{time}',
     'Bumped recently' => 'رُفع مؤخراً',
     'Cancel' => 'إلغاء',
     'Categorize your server by keywords (e.g. game title)' => 'صنّف سيرفرك بكلمات مفتاحية مثل: اسم لعبة',
     'Category' => 'تصنيف',
     '<b>Categories</b> and <b>Popular tags</b>' =>  '<b>تاغات مشهورة</b> و <b>تصنيفات</b>',
-    'Copied the URL' => 'URLتم نسخ الـ',
-    'Could not bump the server because the invite link is invalid (expired?)' => 'لم يتم رفع السيرفر بنجاح لأن رابط الدعوة غير صالح ',
+    'Copied the URL' => 'تم نسخ الـرابط',
+    'Could not bump the server because the invite link is invalid (expired?)' => 'لم يتم رفع السيرفر بنجاح لأن رابط الدعوة غير صالح',
     'Could not delete the server' => 'لم يتم حذف السيرفر',
-    'Could not delete the review' => 'لم يتم حذف التعليق',
-    'Created at {datetime}' => '{datetime} تم إنشاؤه بـ',
+    'Could not delete the review' => 'لم يتم حذف التقييم',
+    'Created at {datetime}' => 'تم إنشاؤه بـ{datetime}',
     'Dashboard' => 'لوحة الإعدادات',
     'Descending' => 'تنازلي',
     'Description' => 'وصف',
     'Delete server' => 'حذف السيرفر',
     'Delete reply' => 'حذف الرد',
-    'Delete review' => 'حذف الرأي',
-    'DISBOARD bot API server is offline' => 'ديسبورد غير متاح الآن',
-    'DISBOARD bot must be in the server to review' => 'ديسبورد بوت يجب أن يكون في السيرفر لعمل التعليق',
+    'Delete review' => 'حذف التقييم',
+    'DISBOARD bot API server is offline' => 'ديسبورد غير متاح حالياً',
+    'DISBOARD bot must be in the server to review' => 'بوت الديسبورد يجب أن يكون في السيرفر للتقييم',
     'Discord servers partnered with <span class="brand">DISBOARD</span>' => 'سيرفرات ديسكورد مشتركة مع <span class="brand">ديسبورد</span> ',
     'Discord Server List' => 'قائمة سيرفرات الديسكورد',
     'Discord Server Reviews' => 'تقييمات السيرفر',
     'Discord Servers Bumped Recently' => 'تم رفع السيرفر مؤخراً',
     'Discord servers categorized as <strong>{category}</strong>' => '<strong>{category}</strong> تصنف سيرفرات الديسكورد لـ',
-    'Discord servers tagged with {tag}' => '「{tag}」سيرفرات بهاشتاغ',
+    'Discord servers tagged with {tag}' => 'لسيرفرات بتاغ{tag}',
     '<span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> سيرفرات',
-    'Discord servers tagged with <strong>{tag}</strong>' => '「<strong>{tag}</strong>」سيرفرات بهاشتاغ',
+    'Discord servers tagged with <strong>{tag}</strong>' => '「<strong>{tag}</strong>لسيرفرات بهاشتاغ',
     'Don\'t forget to check "Set this link to never expire"' => '「لا تنسَ جعل رابط الدعوة غير منتهي الصلاحية',
     'Edit' => 'تعديل',
     'Edit Server' => 'تعديل السيرفر',
     'Enter keyword(s)' => 'كلمات مفتاحية',
     'Failed to Sync' => 'فشل في التزامن',
     'Games' => 'ألعاب',
-    'Gaming' => 'الألعاب',
+    'Gaming' => 'العب',
     'Get link' => 'احصل على الرابط',
     'Go to Dashboard' => 'الذهاب للوحة الإعدادات',
     'Go Back' => 'الرجوع',
-    'Go Home' => 'الرئيسية',
+    'Go Home' => 'اذهب الى القائمةالرئيسية',
     'Guidelines' => 'التعليمات',
     'Home' => 'القائمةالرئيسية',
-    'If you don\'t add a bot, you can NOT present various informations about your server, create an invitation link or bump up your servers with commands' => 'إذا لم تقم بإضافة البوت ، فلا يمكنك تقديم معلومات متنوعة حول السيرفر الخاص بك ، أو إنشاء رابط دعوة أو رفع الأوامر إلى السيرفرات الخاصة بك',
+    'If you don\'t add the bot, you can NOT present information about your server, create an invitation link or bump up your servers with commands' => 'إذا لم تقم بإضافة البوت ، فلا يمكنك تقديم معلومات حول السيرفر الخاص بك ، أو إنشاء رابط دعوة أو رفع الأوامر إلى السيرفرات الخاصة بك',
     'If your server isn\'t in the above list or dropdown, sync with Discord manually' => 'إذا لم يكن السيرفر الخاص بك في القائمة أعلاه أو القائمة المنسدلة ، فقم بالمزامنة مع ديسكورد يدويًا',
     'Invite is not set' => 'لم يتم تعيين الدعوة',
-    'You can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'يمكنك الآن كتابة مراجعات وإضافة تصنيفات للسيرفرات التي تنضم إليها.<br>دعنا نوصي السيرفرات المفضلة لديك لأشخاص آخرين!',
+    'You can now write reviews and add ratings for servers you are joining.<br>Let\'s recommend your favorite servers to other people!' => 'يمكنك الآن كتابة تقييمات وإضافة تصنيفات للسيرفرات التي تنضم إليها.<br>دعنا نوصي السيرفرات المفضلة لديك لأشخاص آخرين!',
     'Invite Link' => 'رابط الدعوة',
     'Invalid Invite' => 'رابط غير صحيح',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'ادخل <a href="{invite}">سيرفرنا</a> وانظر الى المتطلبات على قناة <span class="tag is-light">#partners</span>',
     'Join this Server' => 'انضم إلى هذا السيرفر',
-    'Join this server to be the first reviewer!' => 'إنضم إلى السيرفر لتكون أول واضعي الرأي',
+    'Join this server to be the first reviewer!' => 'إنضم إلى السيرفر لتكون أول مقيم!',
     'Language' => 'لغة',
     'Login' => 'تسجيل الدخول',
     'Logout' => 'تسجيل الخروج',
@@ -92,7 +94,7 @@ return [
     '<b>{number}</b> total' => '<b>{number}</b> الكلي', // toal member count
     '{time, plural, =1{# minute} other{# minutes}}' => '{time} 分',
     'New!' => '!جديد',
-    'New Review' => 'إضافة رأي',
+    'New Review' => 'إضافة تقييم',
     'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => 'تم تجاوز الحد الأقصى لعدد السيرفرات التي تم كتم صوتها. لكتم صوت سيرفر ، انتقل إلى "الإعدادات" وألغِ كتم صوت سيرفر آخر.',
     'More about {appName}' => '{appName} المزيد عن',
     'Mute this server' => 'كتم السيرفر',
@@ -125,23 +127,20 @@ return [
     'Recommended' => 'موصى به',
     'Redirecting' => 'إعادة توجيه',
     'Reply' => 'كتابة رد',
-    'Reply to Review' => 'الرد على التعليق',
+    'Reply to Review' => 'الرد على التقييم',
     'Report Description' => 'وصف البلاغ',
     'Report Server' => 'أبلغ عن السيرفر',
     'Report this server' => 'أبلغ عن هذا السيرفر',
     'Report Type' => 'نوع البلاغ',
-    'Review' => 'تعليق',
-    'Review should be personal feedback only. <br>Do not harm someone\'s reputation, whether it is fact or not.' => 'الرأي يجب ان يكون ملاحظات شخصية فقط.<br> لا تضرر سمعة شخص اخر, حتى لو كان حقيقة ام لا.',
-    'Reviews' => 'الآراء',
-    'Reviewed by' => 'تم كتابة الرأي بواسطة',
+    'Review' => 'تقييم',
+    'Review should be personal feedback only. <br>Do not harm someone\'s reputation, whether it is fact or not.' => 'التقييم يجب ان يكون ملاحظات شخصية فقط.<br> لا تضرر سمعة شخص اخر, حتى لو كان حقيقة ام لا.',
+    'Reviews' => 'التقييمات',
+    'Reviewed by' => 'تم كتابة التقييم بواسطة',
     '{count, plural, =1{<b>#</b> review} other{<b>#</b> reviews}}' => '{count} جمع',
     'Review {serverName}' => '「{serverName}」تقييم',
-    'Reviews of {serverName}' => '{serverName} تقييمات عن',
+    'Reviews of {serverName}' => 'تقييمات عن {serverName}',
     'Save' => 'حفظ',
     'See: <a href="{url}" target="_blank">screen capture</a>' => 'أنظر: <a href="{url}" target="_blank">تصوير الشاشة</a>',
-    'See all Discord reviews' => 'شاهد جميع تقييمات الديسكورد',
-    'See all Discord servers' => 'شاهد جميع سيرفرات الديسكورد',
-    'See More Discord Servers' => 'شاهد المزيد من سيرفرات الديسكورد',
     'Search' => 'بحث',
     'Search Discord Servers' => 'ابحث عن سيرفرات ديسكورد',
     'Search Options' => 'خيارات البحث',
@@ -151,8 +150,8 @@ return [
     'Select a Server' => 'اختر سيرفر',
     'Select a server to add to the public server list on DISBOARD' => 'اختر سيرفر لإضافته لقائمة السيرفرات العامة',
     'Select a server to review' => 'اختر سيرفر للتقييم',
-    'Send the invite command: `!d invite #channel`' => '`!d invite #channel`إرسل دعوة',
-    'Separate by <b>space</b>' => '<b>space</b> اافصل ب',
+    'Send the invite command: `!d invite #channel`' => 'إرسل امر: `d invite #channel!`',
+    'Separate by <b>space</b>' => 'اافصل ب <b>space</b>',
     'Settings' => 'الإعدادات',
     'Servers' => 'سيرفرات',
     'Server admin?' => 'أدمن السيرفر؟',
@@ -170,13 +169,15 @@ return [
     'The invite of this server is invalid or has expired.' => 'الدعاء لهذا السيرفر غير صالح او منتهي الصلاحية',
     'The report has been sent' => 'تم ارسال البلاغ',
     'The server is set to private' => 'هذا السيرفر خاص',
+	'This server has been removed due to breaking our guidelines' => 'تم ازالة هذا السيرفر بسبب كسره للقواعد الاشارية',
     'This server is private. Only the owner (you) can view it.' => 'هذا السيرفر خاص فقط المالك (انت) يمكنه رؤيته',
     'This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.' => 'هذه الصفحة محمية بالكابتشا و <a href="https://policies.google.com/privacy">سياسة جوجل الخاصة> و <a href="https://policies.google.com/terms">شروط الخدمة</a> تطبق. ',
-    'This will add this server to our public server list' => 'هذا سيضيف هذا السيرفر الى قائمة السيرفرات العامة لدينا',
+    'This review has been removed due to breaking our guidelines' => 'تم ازالة هذا التقييم بسبب كسره للقواعد الارشادية',
+	'This will add this server to our public server list' => 'هذا سيضيف هذا السيرفر الى قائمة السيرفرات العامة لدينا',
     'Title' => 'لقب',
     '{tag1} and {tag2}(nsfw) tags cannot be set together' => '{tag1} و {tag2} (غير امنة للعمل) لا يمكن ان تضع مع بعض',
     '<b>{total}</b> servers in total' => 'مجموع السيرفرات <b>{total}</b> ',
-    '<b>{total}</b> reviews in total' => 'مجموع الاراء <b>{total}</b>',
+    '<b>{total}</b> reviews in total' => 'مجموع التقييمات <b>{total}</b>',
     'Unmute' => 'ازالة الكتم',
     'Unmuted {serverName}' => '{serverName} غير مكتوم',
     'Unspecified' => 'غير محدد',
@@ -190,8 +191,8 @@ return [
     'You have already muted {serverName}' => 'لقد كتمت {serverName} من قبل',
     'You haven\'t added a server yet' => 'لم تضف سيرفر قط',
     'You must be logged in to mute a server' => 'يجب تسجيل الدخول لكتم السيرفر ',
-    'You must be a member of the server to review it' => 'يجب ان تكون في السيرفر لتعطي رايك',
-    'You need to be in the server for at least {duration} days to review' => 'يجب ان تكون في السيرفر على الاقل {duration} ايام لتعطي رايك',
+    'You must be a member of the server to review it' => 'يجب ان تكون في السيرفر لتعطي تقييمك',
+    'You need to be in the server for at least {duration} days to review' => 'يجب ان تكون في السيرفر على الاقل {duration} ايام لتعطي تقييمك',
     'You need to follow our <a href="{url}" target="_blank">Guidelines</a>' => 'يجب ان تتبع <a href="{url}" target="_blank">قواعدنا الارشادية</a>',
     'You seem like a robot' => 'تبدو مثل الروبوت',
     'Your servers' => 'سيرفراتك',
@@ -201,8 +202,8 @@ return [
     'Your server has been saved successfully' => 'تم حفظ سيرفرك بنجاح',
     'Your reply has been deleted' => 'تم حذف الرد',
     'Your reply has been saved successfully' => 'تم حفظ ردك بنجاح',
-    'Your review has been deleted' => 'تم حذف تعليقك',
-    'Your review has been saved successfully' => 'تم حفظ الرأي بنجاح',
+    'Your review has been deleted' => 'تم حذف تقييمك',
+    'Your review has been saved successfully' => 'تم حفظ التقييم بنجاح',
     'just now' => 'في هذة اللحظة',
     '{0, plural, =1{# day} other{# days}} ago' => '{0, plural, =1{# يوم} other{# أيام}} قبل',
     '{0, plural, =1{# hour} other{# hours}} ago' => '{0, plural, =1{# ساعة} other{# ساعات}} قبل',
@@ -216,7 +217,6 @@ return [
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'اكتشف سيرفرات <span class="discord-logo">ديسكورد</span>',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'نحن نصل <strong>سيرفرات الدسيكورد</strong> و <b>الناس</b> مع بعض',
-    'Public <span class="discord-logo">Discord</span> Servers' => 'سيرفرات <span class="discord-logo">ديسكورد</span> عامة',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">ديسبورد</strong> هو المكان الذي يمكنك <strong>تجد و تنزل سيرفرات ديسكورد ',
     'Find and join some awesome servers listed here.' => 'جد و ادخل سيرفرات رائعة موجودة هنا',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'او <a href="{login-url}">سجل الدخول</a> و <strong>ضف سيرفرك اذا انت تملكه</strong> 😎',
