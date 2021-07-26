@@ -202,7 +202,7 @@ return [
     'Invite is invalid or expired' => 'Ang Invite ay invalid o nag-expired',
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'Tumuklas ng <span class="discord-logo">Discord</span> Servers',
-    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Kumokonekta kami ng <strong>Discord servers</strong> at mga <b>taong</b> magsama',
+    'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Kumokonekta kami ng mga <strong>Discord servers</strong> at mga <b>tao</b> para magsama',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> ay ang lugar kung saan maaari mong <strong>ilista/mahanap ang mga servers ng Discord</strong>.',
     'Find and join some awesome servers listed here.' => 'Mag hanap at sumali ng mga kahanga-hangang servers na naka lista dito.',
     'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'O <a href="{login-url}">login</a> at <strong>idagdag ang iyong server kung ikaw ay nag mamay-ari ng server</strong> 😎',
