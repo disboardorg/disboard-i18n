@@ -1,0 +1,78 @@
+{
+	"tagline": "DISBOARD: Listahan ng mga Public Servers",
+	"inviteChanged": "Ang invite link ay na change sa {{ inviteChannel }}. :sparkles:",
+	"bumpDone": "Bump done!",
+	"checkOnDisboard": {
+		"embed": "Tingnan mo [sa DISBOARD]({{ link }}).",
+		"text": "Tingnan mo sa DISBOARD: {{ link }}."
+	},
+	"help": {
+		"title": "Hi! Ako ay bot para sa DISBOARD ({{ siteLink }})",
+		"commandList": "COMMAND LIST",
+		"descriptions": {
+			"bump": "Bump mo tong server.",
+			"page": "Kunin ang link sa Disboard's server page.",
+			"invite": "I-set ang invite dito sa channel. Kung an [channel] ay na specified, gumawa ng invite dyan sa channel.",
+			"help": "Ito!"
+		},
+		"howTo": "**Pano ko ma i-add ang server ko sa DISBOARD?**\n\n 1. Login ka sa DISBOARD website,\n 2. Pumunta ka sa Dashboard,\n 3. i-Click mo ang \"Maglagay ng Bagong Server\"\nFill out mo ang iyong server info at i-save ito. I re-redirect ka sa Discord's authorization screen. Kung ayaw, click mo ang \"Add Bot\" button sa server edit page.",
+		"adminOnly": "Admin only.",
+		"supportServer": {
+			"embed": "Kaylangan mo ng tulong? Join ka sa [support server]({{ invite }}).",
+			"text": "Kaylangan mo ng tulong? Join ka sa support server:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Itong server ay hindi na nakalista dahil ang invite ay dinelete.\n*Admin ka ba? Gumawa ka ng bagong invite gamit ang `{{ command }}`*",
+		"deprecation": {
+			"message": "⚠️ **Ang regular na commands ay ire-replace pabor sa slash commands**\nSa <t:{{ timestamp }}:F> ang regular na commands ay di na gagana at ang bot ay mag re-respond lang sa slash commands.\nTry typing `/` to see a list of available commands.",
+            "updateLink": "Kung di mo makita ang listahan ng mga commands para sa DISBOARD, try mo re-add ang bot gamit itong link sa baba:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "An unknown error occurred.\n\nTry mo mag run ng command ulit. Kung nandyan parin ang error, Ipaalam nyo sa aming support server (<{{ supportServerInvite }}>).\n\nError reference: `{{ errorId }}`",
+		"adminOnly": "Itong command ay pwede lamang gamitin ng mga administrators.",
+		"invalidChannel": "Invalid channel: {{ input }}\nTry mo i-mention ang channel, for example: {{ exampleChannel }}.",
+		"invalidChannelType": "Dito lang ako pwede makapag create ng invite:\n• Regular na text channel.\n• Announcement channel.\n\nSpecify ka sa isa sa mga channel types sa taas para gumawa ng invite",
+		"handlingCommand": "Inaasikaso ko na ang iyong command!",
+		"api": {
+			"down": "The DISBOARD API appears to be down! :sob:\nTry mo nalang mamaya.",
+			"timeout": "Ang DISBOARD API ay di nag respond in time! :sob:\nTry mo nalang mamaya."
+		},
+		"cooldown": {
+			"command": "Ikaw ay nasa cooldown. Please wait {{ numSeconds }} seconds bago mo gamitin itong command.",
+			"user": "Ikaw ay nasa cooldown. Please wait {{ numSeconds }} seconds bago mo magamit ang ibang command."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Wala akong sapat na permissions para gumawa ng invite:",
+				"withTarget": "Wala akong sapat na permissions sa na mentioned na channel para gumawa ng invite:"
+			},
+			"instructions": {
+				"sameChannel": "Bigyan mo ko ng mga permissions sa taas dito sa channel.",
+				"withTarget": "Bigyan mo ko ng mga permissions sa taas sa {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} View Channel\n{{ createInviteEmoji }} Create Invite\n{{ manageChannelEmoji }} Manage Channel",
+			"followUp": "Pagkatapos, gamitin mo tong command: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Itong server ay naka set sa **private** at dahil dyan hindi ma i-bump.\n*Admin ka ba? Set mo ito sa public sa [dashboard]({{ dashboardLink }}) para ma bump itong server.*",
+				"text": "Itong server ay naka set sa **private** at dahil dyan hindi ma i-bump.\n*Admin ka ba? Set mo ito sa public sa dashboard (<{{ dashboardLink }}>) para ma bump itong server.*"
+			},
+			"notFound": {
+				"embed": "Itong server ay hindi pa na i-add sa DISBOARD\n*Admin ka ba? Add mo itong server sa [dashboard]({{ dashboardLink }}).*",
+				"text": "This server has not been added to DISBOARD yet.\n*Admin ka ba? Add mo itong server sa dashboard <{{ dashboardLink }}>.*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`Server ID`: {{ serverId }}",
+		"shard": "`Shard ID`: {{ shardId }}",
+		"cluster": "`Cluster ID`: {{ clusterId }}",
+		"invite": "`Invite link`: {{ invite }}",
+		"main": "`Pangunahing Wika`: `{{ langCode }}`",
+		"default": "`Default channel`: {{ defaultChannel }}",
+		"latency": "`Shard latency`: {{ shardLatency }}ms"
+	}
+}
