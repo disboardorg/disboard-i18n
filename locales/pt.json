@@ -1,0 +1,78 @@
+{
+	"tagline": "DISBOARD: A Lista Pública de Servidores",
+	"inviteChanged": "O Link de convite foi alterado para {{ inviteChannel }}. :sparkles:",
+	"bumpDone": "Bump feito!",
+	"checkOnDisboard": {
+		"embed": "Confira [no DISBOARD]({{ link }}).",
+		"text": "Confira no DISBOARD: {{ link }}."
+	},
+	"help": {
+		"title": "Olá! Sou um bot para o DISBOARD ({{ siteLink }})",
+		"commandList": "LISTA DE COMANDOS",
+		"descriptions": {
+			"bump": "Fazer bump a este servidor.",
+			"page": "Obter um link para a página do servidor no DISBOARD.",
+			"invite": "Definir o convite para este canal. Se [canal] for especificado, cria um convite para esse canal.",
+			"help": "Isto!"
+		},
+		"howTo": "**Como é que adiciono o meu servidor ao DISBOARD?**\n\n 1. Autentique-se no website do DISBOARD,\n 2. Vá ao Painel de Controlo,\n 3. Clique \"Adicionar um Novo Servidor\"\nPreencha a informação do seu servidor e salve-a. Será redirecionado para a página de autorização do Discord. Se não, clique no botão \"Adicionar Bot\" na página de edição do servidor.",
+		"adminOnly": "Apenas administradores.",
+		"supportServer": {
+			"embed": "Precisa de ajuda? Junte-se ao [servidor de suporte]({{ invite }}).",
+			"text": "Precisa de ajuda? Junte-se ao servidor de suporte:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Este servidor não está mais listado porque o convite foi eliminado.\n*É um administrador? Regenere o convite ao executar `{{ command }}`*",
+		"deprecation": {
+			"message": "⚠️ **Comandos regulares serão substituídos a favor dos comandos de barra.**\nA partir de <t:{{ timestamp }}:F> os comandos regulares deixarão de funcionar e o bot somente irá responder a comandos de barra.\nTente escrever `/` para ver a lista de comandos disponíveis.",
+			"updateLink": "Se não puder ver a lista de comandos para o DISBOARD, tente re-adicionar o bot a partir do link abaixo:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "Um erro desconhecido ocorreu.\n\nTente executar o comando novamente. Se o erro persistir, informe-nos no servidor de suporte (<{{ supportServerInvite }}>).\n\nReferência do erro: `{{ errorId }}`",
+		"adminOnly": "Este comando somente pode ser usado por administradores.",
+		"invalidChannel": "Canal inválido: {{ input }}\nTente mencionar um canal, por exemplo: {{ exampleChannel }}.",
+		"invalidChannelType": "Eu só posso criar um convite em:\n• Um canal de texto regular.\n• Um canal de anúncios.\n\nPor favor especifíque um dos tipos de canal acima para onde criar um convite.",
+		"handlingCommand": "Estou a tratar do seu comando!",
+		"api": {
+			"down": "A API do DISBOARD parece estar em baixo! :sob:\nPor favor tente novamente mais tarde.",
+			"timeout": "A API do DISBOARD não respondeu a tempo! :sob:\nPor favor tente novamente mais tarde."
+		},
+		"cooldown": {
+			"command": "Você está em descanso. Por favor aguarde {{ numSeconds }} segundos antes de executar este comando novamente.",
+			"user": "Você está em descanso. Por favor aguarde {{ numSeconds }} segundos antes de executar outro comando."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Eu não tenho permissões suficientes para criar um convite:",
+				"withTarget": "Eu não tenho permissões suficientes no canal mencionado para criar um convite:"
+			},
+			"instructions": {
+				"sameChannel": "Por favor conceda-me as permissões acima para este canal.",
+				"withTarget": "Por favor conceda-me as permissões acima para o canal {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} Ver Canal\n{{ createInviteEmoji }} Criar Convite\n{{ manageChannelEmoji }} Gerir Canal",
+			"followUp": "Quando tiver feito, execute o comando: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Este servidor está definido como **private** portanto não pode ser feito bump.\n*É um administrador? Defina-o como público através do [painel de controlo]({{ dashboardLink }}) para fazer bump a este servidor.*",
+				"text": "Este servidor está definido como **private** portanto não pode ser feito bump.\n*É um administrador? Defina-o como público através do painel de controlo (<{{ dashboardLink }}>) para fazer bump a este servidor.*"
+			},
+			"notFound": {
+				"embed": "Este servidor ainda não foi adicionado ao DISBOARD.\n*É um administrador? Adicione este servidor através do [painel de controlo]({{ dashboardLink }}).*",
+				"text": "Este servidor ainda não foi adicionado ao DISBOARD.\n*É um administrador? Adicione este servidor através do painel de controlo em <{{ dashboardLink }}>.*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`ID do Servidor`: {{ serverId }}",
+		"shard": "`ID da Shard`: {{ shardId }}",
+		"cluster": "`ID do Cluster`: {{ clusterId }}",
+		"invite": "`Link de convite`: {{ invite }}",
+		"main": "`Língua principal`: `{{ langCode }}`",
+		"default": "`Canal predefinido`: {{ defaultChannel }}",
+		"latency": "`Latência da Shard`: {{ shardLatency }}ms"
+	}
+}
