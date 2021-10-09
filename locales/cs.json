@@ -1,0 +1,78 @@
+{
+	"tagline": "DISBOARD: Veřejný server list",
+	"inviteChanged": "Pozvánka byla změněna na {{ inviteChannel }}. :sparkles:",
+	"bumpDone": "Úspěšný bump!",
+	"checkOnDisboard": {
+		"embed": "Zkoukni to [na DISBOARDU]({{ link }}).",
+		"text": "Zkoukni to na DISBOARDU: {{ link }}."
+	},
+	"help": {
+		"title": "Ahoj! Já jsem bot DISBOARD bot ({{ siteLink }})",
+		"commandList": "LIST PŘÍKAZŮ",
+		"descriptions": {
+			"bump": "Bumpni tento server.",
+			"page": "Získej odkaz na DISBOARD stránku tvého serveru.",
+			"invite": "Nastav pozvánku na tennto kanál. Pokud je [channel] použit, vytvoří pozvánku do daného kanálu.",
+			"help": "Toto!"
+		},
+		"howTo": "**Jak přidám svůj server na DISBOARD?**\n\n 1. Přihlaš se na stránce DISBOARD,\n 2. Jdi do řídícího panelu,\n 3. Klikni na \"Přidej nový server\"\nVyplň informace o tvém serveru a ulož to. Budeš přesměrován na autorizační stránku Discordu. Pokud ne, klikni na tlačítko \"Přidej Bota\" které najdeš na stránce pro úpravu serveru.",
+		"adminOnly": "Pouze admin.",
+		"supportServer": {
+			"embed": "Potřebuješ pomoc? Připoj se na [support server]({{ invite }}).",
+			"text": "Potřebuješ pomoc? Připoj se na support server:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Tento server se již nenachází ve veřejném listu, protože pozvánka byla smazána.\n*Jsi admin? Vytvoř novou pozvánku použitím `{{ command }}`*",
+		"deprecation": {
+			"message": "⚠️ **Klasické příkazy nahrazujeme lomítkovými příkazy.**\nOd <t:{{ timestamp }}:F> již klasické příkazy nebudou fungovat a bot bude reagovat jen na lomítkové příkazy.\nNapiš `/` pro zobrazeni dostupných příkazů.",
+			"updateLink": "Pokud se ti list DISBOARD příkazů nezobrazuje, zkus bota znovu přidat skrze link uvedený níže:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "Objevil se neznámý error.\n\nZkus použít příkaz znovu. Pokud error přetrvává, dej nám vědět na našem support serveru. (<{{ supportServerInvite }}>).\n\nOdkaz na error: `{{ errorId }}`",
+		"adminOnly": "Tento příkaz může být použit pouze administrátorem.",
+		"invalidChannel": "Neplatný kanál: {{ input }}\nZkus zmínit kanál, pro příklad: {{ exampleChannel }}.",
+		"invalidChannelType": "Vytvořit pozvánku mohu pouze v:\n• Klasickém textovém kanálu.\n• Kanálu pro oznámení.\n\nPro úspěšné vytvoření pozvánky, kanál musí být jeden z výše uvedených typů.",
+		"handlingCommand": "Zpracovávám tvůj příkaz!",
+		"api": {
+			"down": "Vypadá to, že DISBOARD API nám spadla! :sob:\nProsím zkus to později.",
+			"timeout": " DISBOARD API neodpověděla včas. :sob:\nProsím zkus to později."
+		},
+		"cooldown": {
+			"command": "Byl jsi limitován. Prosím počkej {{ numSeconds }} vteřin před znovu použitím tohoto příkazu.",
+			"user": "Byl jsi limitován. Prosím počkej {{ numSeconds }} vteřin před použitím dalšího příkazu."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Nemám dostatečné oprávnění k vytvoření pozvánky:",
+				"withTarget": "Ve zmíněném kanálu nemám dostatečné oprávnění k vytvoření pozvánky:"
+			},
+			"instructions": {
+				"sameChannel": "Prosím přiděl mi výše uvedené oprávnění v tomto kanále.",
+				"withTarget": "Prosím přiděl mi výše uvedené oprávnění v {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} Zobraz kanál\n{{ createInviteEmoji }} Vytvoř pozvánku\n{{ manageChannelEmoji }} Spravovat Kanál",
+			"followUp": "Jakmile provedeš, použij příkaz: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Tento server je nastavený jako **soukromý** a tudíž nemůže být bumpnut.\n*Jsi admin? Nastav ho v [řídícím panelu]({{ dashboardLink }}) na veřejný pro možnost bumpnutí serveru.*",
+				"text": "Tento server je nastavený jako **soukromý** a tudíž nemůže být bumpnut.\n*Jsi admin? Nastav ho v řídícím panelu (<{{ dashboardLink }}>) na veřejný pro možnost bumpnutí serveru.*"
+			},
+			"notFound": {
+				"embed": "Tento server ještě nebyl přidán na DISBOARD.\n*Jsi admin? Přidej tento server pomocí [řídícího panelu]({{ dashboardLink }}).*",
+				"text": "Tento server ještě nebyl přidán na DISBOARD.\n*Jsi admin? Přidej tento server pomocí řídícího panelu na <{{ dashboardLink }}>.*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`ID Serveru`: {{ serverId }}",
+		"shard": "`ID Shardu`: {{ shardId }}",
+		"cluster": "`ID Clusteru`: {{ clusterId }}",
+		"invite": "`Pozvánka`: {{ invite }}",
+		"main": "`Hlavní jazyk`: `{{ langCode }}`",
+		"default": "`Hlavní kanál`: {{ defaultChannel }}",
+		"latency": "`Latence shardu`: {{ shardLatency }}ms"
+	}
+}
