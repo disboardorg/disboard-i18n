@@ -3,7 +3,7 @@ return [
     'Ascending' => 'Crescente',
     'Add New Server' => 'Adicionar um Novo Servidor',
     'Add Your Server' => 'Adicione o seu Servidor',
-    'Add Bot' => 'Adicione um Bot',
+    'Add Bot' => 'Adicione o Bot',
     'Add a Tag' => 'Adicione uma Etiqueta',
     'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => 'Adicione as permissões <b>CREATE_INSTANT_INVITE</b> e <b>SEND_MESSAGES</b> para o bot DISBOARD.',
     'Admin response' => 'Resposta administrativa',
