@@ -1,0 +1,78 @@
+{
+	"tagline": "DISBOARD: Danh sách máy chủ công khai",
+	"inviteChanged": "Link mời đã được đổi thành {{ inviteChannel }}. :sparkles:",
+	"bumpDone": "Đã bump!",
+	"checkOnDisboard": {
+		"embed": "Xem qua nó [trên DISBOARD]({{ link }}).",
+		"text": "Xem qua nó trên DISBOARD: {{ link }}."
+	},
+	"help": {
+		"title": "Chào! Tôi là bot của DISBOARD ({{ siteLink }})",
+		"commandList": "DANH SÁCH LỆNH",
+		"descriptions": {
+			"bump": "Bump máy chủ này.",
+			"page": "Lấy link đến trang DISBOARD của máy chủ.",
+			"invite": "Đặt link mời cho kênh này. nếu [channel] được nêu rõ, link mời sẽ được đặt cho kênh đó.",
+			"help": "Đây!"
+		},
+		"howTo": "**Làm cách nào để thêm máy chủ vào DISBOARD?**\n\n 1. Đăng nhập vào trang DISBOARD,\n 2. Đến Bảng điều khiển,\n 3. Nhấp vào \"Thêm máy chủ mới\"\nThêm thông tin về máy chủ của bạn và lưu. Bạn sẽ được điều hướng đến trang xác minh của Discord. Nếu không, nhấp vào nút \"Thêm bot\" trên trang chỉnh sửa máy chủ.",
+		"adminOnly": "Chỉ dành cho quản trị viên.",
+		"supportServer": {
+			"embed": "Cần hỗ trợ? Hãy tham gia [máy chủ hỗ trợ]({{ invite }}).",
+			"text": "Cần hỗ trợ? Hãy tham gia máy chủ hỗ trợ:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Máy chủ này không còn được kê trên danh sách nữa vì link mời đã bị xóa.\n*Nếu bạn là quản trị viên, dùng `{{ command }}` để tạo link mời mới*",
+		"deprecation": {
+			"message": "⚠️ **Lệnh thông thường sẽ được thay đổi đần để sử dụng lệnh slash.**\nSau <t:{{ timestamp }}:F>, lệnh thông thường sẽ ngừng hoạt động và bot sẽ chỉ phản hồi theo lệnh slasg.\nThử nhập `/` để xem qua danh sách các lệnh khả dụng.",
+			"updateLink": "Nếu bạn không thấy danh sách lệnh hiện lên, thử dùng link sau để thêm bot lại:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "Gặp phải một lỗi vô định.\n\nThử dùng lệnh lại lần nữa. Nếu lỗi tiếp tục lặp lại, hãy cho chúng tôi biết trong máy chủ hỗ trợ (<{{ supportServerInvite }}>).\n\nMã lỗi: `{{ errorId }}`",
+		"adminOnly": "Chỉ quản trị viên mới có thể dùng lệnh này.",
+		"invalidChannel": "Kênh không hợp lệ: {{ input }}\nThử nhắc tên một kênh như: {{ exampleChannel }}.",
+		"invalidChannelType": "Tôi chỉ có thể tạo link mời trong:\n• Một kênh chat bình thường.\n• Một kênh thông báo.\n\nVui lòng chỉ ra một kênh dưới dạng được nêu ở trên.",
+		"handlingCommand": "Tôi đang xử lí lệnh của bạn!",
+		"api": {
+			"down": "API của DISBOARD có vẻ như đang bị sập! :sob:\nVui lòng thử lại sau.",
+			"timeout": "API của DISBOARD không phản hồi kịp! :sob:\nVui lòng thử lại sau."
+		},
+		"cooldown": {
+			"command": "Bạn hơi nhanh rồi đó. Vui lòng đợi {{ numSeconds }} giây nữa để dùng lệnh lại.",
+			"user": "Bạn hơi nhanh rồi đó. Vui lòng đợi {{ numSeconds }} giây nữa để dùng lệnh khác."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Tôi không có đủ quyền để tạo một link mời:",
+				"withTarget": "Tôi không có đủ quyền trong kênh được nhắc đến để tạo một link mời:"
+			},
+			"instructions": {
+				"sameChannel": "Vui lòng cấp quyền được nêu trên cho tôi trong kênh này.",
+				"withTarget": "Vui lòng cấp quyền được nêu trên cho tôi trong {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} Xem kênh\n{{ createInviteEmoji }} Tạo link mời\n{{ manageChannelEmoji }} Quản lý kênh",
+			"followUp": "Sau khi bạn đã xong chỉnh sửa các quyền trên, dùng lệnh sau: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Máy chủ này đã được đặt thành **riêng tư** và vì thế không thể được bump.\n*Nếu bạn là quản trị viên, hãy đặt nó thành công khai trên [bảng điều khiển]({{ dashboardLink }}) để bump máy chủ này.*",
+				"text": "Máy chủ này đã được đặt thành **riêng tư** và vì thế không thể được bump.\n*Nếu bạn là quản trị viên, hãy đặt nó thành công khai trên bảng điều khiển tại (<{{ dashboardLink }}>) để bump máy chủ này.*"
+			},
+			"notFound": {
+				"embed": "Máy chủ này vẫn chưa được thêm vào DISBOARD.\n*Nếu bạn là quản trị viên, hãy thêm máy chủ trên [bảng điều khiển]({{ dashboardLink }}).*",
+				"text": "Máy chủ này vẫn chưa được thêm vào DISBOARD.\n*Nếu bạn là quản trị viên, hãy thêm máy chủ trên bảng điều khiển tại <{{ dashboardLink }}>.*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`ID máy chủ`: {{ serverId }}",
+		"shard": "`ID shard`: {{ shardId }}",
+		"cluster": "`ID cluster`: {{ clusterId }}",
+		"invite": "`Link mời`: {{ invite }}",
+		"main": "`Ngôn ngữ chính`: `{{ langCode }}`",
+		"default": "`Kênh mời`: {{ defaultChannel }}",
+		"latency": "`Độ trễ shard`: {{ shardLatency }}ms"
+	}
+}
