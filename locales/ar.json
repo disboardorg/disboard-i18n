@@ -1,0 +1,78 @@
+{
+	"tagline": "ديسبورد: قائمة السيرفرات العامة",
+	"inviteChanged": "تم تغيير رابط الدعوة الى {{ inviteChannel }} :sparkles: ",
+	"bumpDone": "تم الرفع!",
+	"checkOnDisboard": {
+	"embed": "انظر اليه [على ديسبورد] ({{ link )}})",
+		"text": "انظر اليه على ديسبورد: {{ link }}"
+	},
+	"help": {
+		"title": "اهلا! انا بوت لديسبورد ({{ siteLink }})",
+		"commandList": "قائمة الأوامر",
+		"descriptions": {
+			"bump": "ارفع هذا السيرفر.",
+			"page": "احصل على رابط لصفحة ديسبورد هذا السيرفر.",
+			"invite": "انشئ رابط الدعوة الى هذه القناة. اذا تم تحديد [channel], قم بانشاء دعوة لتلك القناة.",
+			"help": "هذا!"
+		},
+		"howTo": "**كيف اضيف سيرفري الى ديسبورد؟**\n\n 1. سجل الدخول على موقع ديسبورد,\n 2. اذهب الى لوحى القيادة,\n 3. اضغط \"اضف سيرفر جديد\"\nاملئ معلومات سيرفرك واحفظها. سوف يتم ارسالك الى صفحة اذن ديسكورد. ان لم يحصل, اضغط زر \"اضف البوت\ " على صفحة تعديل السيرفر.",
+		"adminOnly": "فقط للمشرفين.",
+		"supportServer": {
+			"embed": "Need help? Join the [support server]({{ invite }}).",
+			"text": "Need help? Join the support server:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "This server is no longer listed because the invite has been deleted.\n*Are you an admin? Regenerate the invite by running `{{ command }}`*",
+		"deprecation": {
+			"message": "⚠️ **Regular commands are being replaced in favour of slash commands.**\nFrom <t:{{ timestamp }}:F> regular commands will no longer work and the bot will only respond to slash commands.\nTry typing `/` to see a list of available commands.",
+			"updateLink": "If you cannot see a list of commands for DISBOARD, try re-adding the bot via the link below:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "An unknown error occurred.\n\nTry running the command again. If the error persists, let us know in our support server (<{{ supportServerInvite }}>).\n\nError reference: `{{ errorId }}`",
+		"adminOnly": "This command can only be run by administrators.",
+		"invalidChannel": "Invalid channel: {{ input }}\nTry mentioning a channel, for example: {{ exampleChannel }}.",
+		"invalidChannelType": "I can only create an invite in:\n• A regular text channel.\n• An announcement channel.\n\nPlease specify one of the above channel types to create an invite in.",
+		"handlingCommand": "I'm handling your command!",
+		"api": {
+			"down": "The DISBOARD API appears to be down! :sob:\nPlease try again later.",
+			"timeout": "The DISBOARD API didn't respond in time! :sob:\nPlease try again later."
+		},
+		"cooldown": {
+			"command": "You are on cooldown. Please wait {{ numSeconds }} seconds before running this command again.",
+			"user": "You are on cooldown. Please wait {{ numSeconds }} seconds before running another command."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "I don't have enough permissions to create an invite:",
+				"withTarget": "I don't have enough permissions in the mentioned channel to create an invite:"
+			},
+			"instructions": {
+				"sameChannel": "Please grant me the above permissions in this channel.",
+				"withTarget": "Please grant me the above permissions in {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} View Channel\n{{ createInviteEmoji }} Create Invite\n{{ manageChannelEmoji }} Manage Channel",
+			"followUp": "Once you have done so, run the command: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "This server is set to **private** and therefore cannot be bumped.\n*Are you an admin? Set it to public from the [dashboard]({{ dashboardLink }}) to bump this server.*",
+				"text": "This server is set to **private** and therefore cannot be bumped.\n*Are you an admin? Set it to public from the dashboard (<{{ dashboardLink }}>) to bump this server.*"
+			},
+			"notFound": {
+				"embed": "This server has not been added to DISBOARD yet.\n*Are you an admin? Add this server via the [dashboard]({{ dashboardLink }}).*",
+				"text": "This server has not been added to DISBOARD yet.\n*Are you an admin? Add this server via the dashboard at <{{ dashboardLink }}>.*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`Server ID`: {{ serverId }}",
+		"shard": "`Shard ID`: {{ shardId }}",
+		"cluster": "`Cluster ID`: {{ clusterId }}",
+		"invite": "`Invite link`: {{ invite }}",
+		"main": "`Main language`: `{{ langCode }}`",
+		"default": "`Default channel`: {{ defaultChannel }}",
+		"latency": "`Shard latency`: {{ shardLatency }}ms"
+	}
+}
