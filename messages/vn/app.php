@@ -249,5 +249,5 @@ return [
     /* Meta Descriptions */
     'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD là một hệ thống danh sách máy chủ Discord công khai. Bạn có thể tìm các máy chủ phù hợp với sở thích của mình như game, anime, nhạc,... Tìm và tham gia các máy chủ tuyệt vời ấy nào!',
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Kết quả tìm kiếm cho {keyword}.  Hiện có {count} máy chủ đang chờ bạn tham gia！',
-    'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Danh sách máy chủ đc gắn thẻ {tag}. Tìm và tham gia các máy chủ dưới đây!',
+    'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Danh sách máy chủ được gắn thẻ {tag}. Tìm và tham gia các máy chủ dưới đây!',
 ];
