@@ -1,0 +1,79 @@
+{
+	"tagline": "DISBOARD : La liste des serveurs publics",
+	"inviteChanged": "Le lien d'invitation a bien été enregistré pour le salon {{ inviteChannel }}. :sparkles:",
+	"bumpDone": "Bump effectué !",
+	"checkOnDisboard": {
+		"embed": "Jette un coup d'oeil [sur DISBOARD]({{ link }}).",
+		"text": "Jette un coup d'oeil sur DISBOARD : {{ link }}."
+	},
+	"help": {
+		"title": "Salut ! Je suis un bot pour DISBOARD ({{ siteLink }})",
+		"commandList": "LISTE DES COMMANDES",
+		"descriptions": {
+			"bump": "Bumper ce serveur",
+			"page": "Obtenir le lien de la page DISBOARD pour ce serveur",
+			"invite": "Créer une invitation sur le salon actuel. Si [channel] est spécifié, une invitation sera créée sur ce salon",
+			"help": "Ce que vous voyez pour le moment !"
+		},
+		"howTo": "**Comment ajouter mon serveur sur DISBOARD ?**\n\n1. Connecte-toi sur le site DISBOARD\n2. Dirige-toi vers le tableau de bord\n3. Clique sur le bouton \"Ajouter un nouveau serveur\"\nRemplis les informations concernant ton serveur et sauvegarde-les. Tu seras automatiquement redirigé vers l'écran d'autorisation de Discord ; sinon, clique sur le bouton \"Ajouter le bot\" sur la page d'édition du serveur",
+		"adminOnly": "commande réservée aux administrateurs",
+		"supportServer": {
+			"embed": "Besoin d'aide ? Rejoins le [serveur de support]({{ invite }}).",
+			"text": "Besoin d'aide ? Rejoins le serveur de support :\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Ce serveur n'est plus listé car son invitation a été supprimée.\n*Si tu es un administrateur, tu peux regénérer une invitation avec la commande `{{ command }}`*",
+		"deprecation": {
+			"message": "⚠️ **Les commandes habituelles ont été remplacées en faveur des commandes Slash.**\À partir du <t:{{ timestamp }}:F>, le bot ne réagira qu'en utilisant les commandes Slash ; tu peux écrire `/` au début de ton message pour voir la liste des commandes disponibles.",
+			"updateLink": "Si tu ne vois pas la liste des commandes Slash pour DISBOARD, réinvite le bot via le lien suivant : \n{{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "Une erreur inconnue s'est produite.\n\nTu peux relancer la commande de nouveau. Si l'erreur persiste, fais-le nous savoir sur le serveur de support (<{{ supportServerInvite }}>).\n\nRéférence : `{{ errorId }}`",
+		"adminOnly": "Cette commande ne peut être utilisée que par les administrateurs.",
+		"invalidChannel": "Salon invalide : {{ input }}\nRessaie en mentionnant un salon ; par exemple : {{ exampleChannel }}.",
+		"invalidChannelType": "I can only create an invite in:\n• A regular text channel.\n• An announcement channel.\n\nPlease specify one of the above channel types to create an invite in.",
+		"invalidChannelType": "Je ne peux créer une invitation que :\n• Dans un salon textuel régulier\n• Dans un salon d'annonces\n\nSpécifie un des types de salon ci-dessus pour créer une invitation dessus.",
+		"handlingCommand": "Je m'occupe de ta commande !",
+		"api": {
+			"down": "L'API de DISBOARD a l'air d'être en panne ! :sob:\nRessaie plus tard.",
+			"timeout": "L'API de DISBOARD n'a pas répondu assez rapidement ! :sob:\nRessaie plus tard."
+		},
+		"cooldown": {
+			"command": "Tu es dans un temps d'attente. Attends {{ numSeconds }} secondes avant de relancer la commande.",
+			"user": "Tu es dans un temps d'attente. Attends {{ numSeconds }} secondes avant de lancer une nouvelle commande."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Je n'ai pas assez de permissions pour créer une nouvelle invitation :",
+				"withTarget": "Je n'ai pas assez de permissions dans le salon mentionné pour créer une nouvelle invitation :"
+			},
+			"instructions": {
+				"sameChannel": "Tu dois m'accorder les permissions ci-dessus dans ce salon.",
+				"withTarget": "Tu dois m'accorder les permissions ci-dessus dans le salon {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} Voir le salon\n{{ createInviteEmoji }} Créer une invitation\n{{ manageChannelEmoji }} Gérer le salon",
+			"followUp": "Une fois les permissions accordées, lance la commande suivante : `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Ce serveur est en mode **privé** pour le moment et ne peut donc être bumpé.\n*Si tu es un administrateur, tu peux mettre ce serveur en mode public via le [tableau de bord]({{ dashboardLink }}) afin de pouvoir le bumper.*",
+				"text": "Ce serveur est en mode **privé** pour le moment et ne peut donc être bumpé.\n*Si tu es un administrateur, tu peux mettre ce serveur en mode public via le tableau de bord (<{{ dashboardLink }}>) afin de pouvoir le bumper.*"
+			},
+			"notFound": {
+				"embed": "Ce serveur n'a pas encore été ajouté sur DISBOARD.\n*Si tu es un administrateur, tu peux l'ajouter via le [tableau de bord]({{ dashboardLink }}).*",
+				"text": "Ce serveur n'a pas encore été ajouté sur DISBOARD.\n*Si tu es un administrateur, tu peux l'ajouter via le tableau de bord avec le lien suivant : <{{ dashboardLink }}>).*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`Identifiant du serveur` : {{ serverId }}",
+		"shard": "`Identifiant de fragment` : {{ shardId }}",
+		"cluster": "`Identifiant de groupe` : {{ clusterId }}",
+		"invite": "`Lien d'invitation` : {{ invite }}",
+		"main": "`Langue principale` : `{{ langCode }}`",
+		"default": "`Salon par défaut` : {{ defaultChannel }}",
+		"latency": "`Latence du fragment` : {{ shardLatency }} ms"
+	}
+}
