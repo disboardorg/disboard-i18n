@@ -25,7 +25,7 @@
 	"warning": {
 		"unlisted": "Ce serveur n'est plus listé car son invitation a été supprimée.\n*Si tu es un administrateur, tu peux regénérer une invitation avec la commande `{{ command }}`*",
 		"deprecation": {
-			"message": "⚠️ **Les commandes habituelles ont été remplacées en faveur des commandes Slash.**\À partir du <t:{{ timestamp }}:F>, le bot ne réagira qu'en utilisant les commandes Slash ; tu peux écrire `/` au début de ton message pour voir la liste des commandes disponibles.",
+			"message": "⚠️ **Les commandes habituelles ont été remplacées en faveur des commandes Slash.**\nÀ partir du <t:{{ timestamp }}:F>, le bot ne réagira qu'en utilisant les commandes Slash ; tu peux écrire `/` au début de ton message pour voir la liste des commandes disponibles.",
 			"updateLink": "Si tu ne vois pas la liste des commandes Slash pour DISBOARD, réinvite le bot via le lien suivant : \n{{ updateScopeLink }}."
 		}
 	},
