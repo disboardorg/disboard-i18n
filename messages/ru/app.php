@@ -17,7 +17,7 @@ return [
     'Bump' => 'Повысить',
     'Bumped recently' => 'Последние обновления',
     'Cancel' => 'Отменить',
-    'Categorize your server by keywords (e.g. game title)' => 'Отметьте категорию вашего сервера ключевыми словами (например - название игры, )',
+    'Categorize your server by keywords (e.g. game title)' => 'Отметьте категорию вашего сервера ключевыми словами (например - название игры)',
     'Category' => 'Категория',
     'Could not delete the server' => 'Невозможно удалить сервер',
     'Could not delete the review' => 'Невозможно удалить Отзыв',
@@ -63,7 +63,7 @@ return [
     'Not Found' => 'Не Найдено',
     'No reviews and ratings yet' => 'Отзывы и рейтинги отсутствуют',
     'No results found for <strong>{keyword}</strong>' => 'Нет результатов для <strong>{keyword}</strong>',
-    'Official Discord Server' => 'Оффициальный Discord Сервер',
+    'Official Discord Server' => 'Официальный Discord Сервер',
     'Owner servers' => 'Ваши Сервера',
     'Partners' => 'Партнеры',
     'Please check the checkbox below before joining "<strong>{serverName}</strong>"' => 'Пожалуйста, установите флажок ниже, прежде чем присоединиться "<strong>{serverName}</strong>"',
@@ -108,7 +108,7 @@ return [
     'Submit' => 'Подать заявку',
     'Support' => 'Поддержка',
     'Sync servers' => 'Синхронизировать сервера',
-    'Synced with Discord' => 'Синхронизировано с Discordо',
+    'Synced with Discord' => 'Синхронизировано с Discord',
     'Tags' => 'Тэги',
     'The server is set to private' => 'Сервер настроен как частный',
     'This server is private. Only the owner (you) can view it.' => 'Этот сервер приватный. Только владелец (du) может видеть его',
@@ -171,5 +171,5 @@ return [
     /* Meta Descriptions */
     'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'DISBOARD это сообщество с размещенными Discord серверами. Вы можете найти Discord сервера по вашему интересу, например: Игры, Аниме, музыка и т.д. Найдите и присоединитесь к классным серверам в списке!',
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'Результаты поиска для: "{keyword}". {count} сервера Discord ждут, когда вы присоединитесь к ним!',
-    'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Спсиок Discord серверов с тэгом {tag}. Найдите и присоединитесь к классным серверам в списке!',
+    'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'Список Discord серверов с тэгом {tag}. Найдите и присоединитесь к классным серверам в списке!',
 ];
