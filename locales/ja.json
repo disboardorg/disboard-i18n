@@ -1,0 +1,78 @@
+{
+	"tagline": "DISBOARD: Discordサーバー掲示板",
+	"inviteChanged": "招待リンクが {{ inviteChannel }} に変更したよ:sparkles:",
+	"bumpDone": "表示順をアップしたよ:thumbsup:",
+	"checkOnDisboard": {
+		"embed": "ディスボードで確認してね [on DISBOARD]({{ link }}).",
+		"text": "ディスボードで確認してね: {{ link }}."
+	},
+	"help": {
+		"title": "やっほー。ぼくはディスボード({{ siteLink }})のボットだよ！ :robot:",
+		"commandList": "コマンドリスト",
+		"descriptions": {
+			"bump": "このサーバーの表示順をアップするよ",
+			"page": "サーバーのページリンクを出すよ",
+			"invite": "招待リンクをこのチャンネルに変更するよ。もし[channel]が指定されたら、そのチャンネルに招待リンクを作成するよ。 (管理者のみ)",
+			"help": "いま表示してるやつだよ"
+		},
+		"howTo": "**どうやってサーバーをディスボードに載せるの？**\n\n 1. ディスボードにログイン\n 2. ダッシュボードへ移動\n 3. \"新しいサーバーを追加\" ボタンをクリック\nサーバー情報を記入して保存するとDiscordのボット追加認証画面に移動します。もし移動しなかったらサーバー編集画面にある\"ボット追加\"ボタンを押してね。",
+		"adminOnly": "管理者のみ",
+		"supportServer": {
+			"embed": "質問がある？ [サポートサーバー]({{ invite }})に入ってみてね.",
+			"text": "質問がある？サポートサーバーに入ってみてね:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "招待リンクがが削除されたのでこのサーバーはサイトに掲載されません\n*あなたは管理ですか？ `{{ command }}`を実行して招待リンクがを再生成してみてね*",
+		"deprecation": {
+			"message": "⚠️ **通常のコマンドはスラッシュコマンドに変更されたよ！**\n<t:{{ timestamp }}:F>に通常のコマンドは機能しなくなりボットはスラッシュコマンドにのみ応答するよ\n`/`を入力して使用可能なコマンドのリストを表示してみてね",
+			"updateLink": "ディスボードのコマンドリストが表示されなかったら以下のリンクからボットを追加しなおしてみてね:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "不明なエラーが発生しました\n\nもう一度コマンドを実行してみてください、エラーが続く場合はサポートサーバー (<{{ supportServerInvite }}>) にお知らせください\n\nエラー参照: `{{ errorId }}`",
+		"adminOnly": "このコマンドは管理者のみ実行可能です",
+		"invalidChannel": "チャンネルが無効です: {{ input }}\nもう一度チャンネルのメンションをしてください, 例: {{ exampleChannel }}.",
+		"invalidChannelType": "招待リンクがを作成できるのは次の場所のみです:\n• 通常のテキストチャンネル\n• アナウンスチャンネル\n\n招待リンクがを作るには上記のチャンネルタイプのいずれかを指定してください",
+		"handlingCommand": "コマンド実行中だよ",
+		"api": {
+			"down": "ディスボードのAPIサーバーが落ちてるみたい :sob:\nあとでもう一度試してみてね",
+			"timeout": "ディスボードのAPIサーバーがタイムアウトしました :sob:\nあとでもう一度試してみてね"
+		},
+		"cooldown": {
+			"command": "クールタイム中だよ。 あと {{ numSeconds }} 秒待ってからコマンドを使ってね",
+			"user": "あなたは今クールタイム中だよ。 あと {{ numSeconds }} 秒待ってからコマンドを使ってね"
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "このチャンネルの招待リンクがを作るための権限が足りないよ:",
+				"withTarget": "上記のチャンネルの招待リンクを作るための権限が足りないよ:"
+			},
+			"instructions": {
+				"sameChannel": "このチャンネルで上記の権限をください",
+				"withTarget": "{{ channel }}で上記の権限をください."
+			},
+			"details": "{{ viewChannelEmoji }} チャンネルを見る\n{{ createInviteEmoji }} 招待を作成\n{{ manageChannelEmoji }} チャンネルの管理",
+			"followUp": "権限を設定したらこのコマンドを実行してね `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "このサーバーは**非公開**に設定されています\n*あなたは管理人ですか？Bumpコマンドを使用するためには、[ダッシュボード]({{ dashboardLink }}) から公開に設定してください*",
+				"text": "このサーバーは**非公開**に設定されています\n*あなたは管理人ですか？Bumpコマンドを使用するためには、ダッシュボード(<{{ dashboardLink }}>) から公開に設定してください*"
+			},
+			"notFound": {
+				"embed": "このサーバーはまだディスボードに追加されていません。\n*あなたは管理人ですか？[ダッシュボード]({{ dashboardLink }})から追加してください.*",
+				"text": "このサーバーはまだディスボードに追加されていません。\n*あなたは管理人ですか？ ダッシュボード(<{{ dashboardLink }}>)から追加してください.*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`サーバーID`: {{ serverId }}",
+		"shard": "`シャードID`: {{ shardId }}",
+		"cluster": "`クラスターID`: {{ clusterId }}",
+		"invite": "`招待リンク`: {{ invite }}",
+		"main": "`サーバー言語`: `{{ langCode }}`",
+		"default": "`デフォルトチャンネル`: {{ defaultChannel }}",
+		"latency": "`シャード応答時間`: {{ shardLatency }}ms"
+	}
+}
