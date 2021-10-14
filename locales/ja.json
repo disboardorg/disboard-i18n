@@ -1,6 +1,6 @@
 {
 	"tagline": "DISBOARD: Discordサーバー掲示板",
-	"inviteChanged": "招待リンクが {{ inviteChannel }} に変更したよ:sparkles:",
+	"inviteChanged": "招待リンクを {{ inviteChannel }} に変更したよ :sparkles:",
 	"bumpDone": "表示順をアップしたよ:thumbsup:",
 	"checkOnDisboard": {
 		"embed": "[ディスボード]({{ link }})で確認してね",
