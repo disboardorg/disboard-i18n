@@ -45,7 +45,7 @@
 		},
 		"permission": {
 			"notice": {
-				"sameChannel": "このチャンネルの招待リンクがを作るための権限が足りないよ:",
+				"sameChannel": "このチャンネルの招待リンクを作るための権限が足りないよ:",
 				"withTarget": "上記のチャンネルの招待リンクを作るための権限が足りないよ:"
 			},
 			"instructions": {
