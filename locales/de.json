@@ -1,0 +1,78 @@
+{
+	"tagline": "DISBOARD: Die öffentliche Serverliste",
+	"inviteChanged": "Der Einladungslink wurde zu {{ inviteChannel }} geändert. :sparkles:",
+	"bumpDone": "Bump erfolgreich!",
+	"checkOnDisboard": {
+		"embed": "Schau es [auf DISBOARD]({{ link }}) an.",
+		"text": "Schau es auf DISBOARD an: {{ link }}."
+	},
+	"help": {
+		"title": "Hi! Ich bin ein Bot für DISBOARD ({{ siteLink }})",
+		"commandList": "BEFEHLSLISTE",
+		"descriptions": {
+			"bump": "Diesen Server bumpen.",
+			"page": "Einen Link der DISBOARD-Seite des Servers erhalten.",
+			"invite": "Setze den Einladungslink auf diesen Kanal. Wenn [channel] angegeben ist, wird ein Einladungslink für diesen Kanal erstellt.",
+			"help": "Das hier!"
+		},
+		"howTo": "**Wie kann ich meinen Server zu DISBOARD hinzufügen?**\n\n 1. Logge dich auf der DISBOARD-Website ein,\n 2. Gehe zum Dashboard,\n 3. Klicke \"Neuen Server hinzufügen\"\nFülle deine Serverinformationen aus und speichere sie. Du wirst zur Autorisierungsseite von Discord weitergeleitet. Falls dies nicht der Fall ist, klicke auf den \"Bot hinzufügen\" Knopf auf der Server-Bearbeitungsseite.",
+		"adminOnly": "Nur für Admins.",
+		"supportServer": {
+			"embed": "Brauchst du Hilfe? Tritt dem [Support-Server]({{ invite }}) bei.",
+			"text": "Brauchst du Hilfe? Tritt dem Support-Server bei:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Dieser Server ist nicht mehr gelistet, weil der Einladungslink gelöscht wurde.\n*Bist du ein Admin? Regeneriere die Einladung, indem du `{{ command }}` ausführst*",
+		"deprecation": {
+			"message": "⚠️ **Reguläre Befehle werden zugunsten von Slash-Befehlen ersetzt.**\nAb dem <t:{{ timestamp }}:F> werden reguläre Befehle nicht mehr funktionieren und der Bot wird nur auf Slash-Befehle antworten.\nTippe `/`, um eine Liste aller Befehle zu sehen.",
+			"updateLink": "Wenn du keine Liste der Befehle für DISBOARD sehen kannst, versuche, den Bot über den unten stehenden Link neu hinzuzufügen:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "Ein unbekannter Fehler ist aufgetreten.\n\nVersuche, den Befehl erneut auszuführen. Wenn der Fehler weiterhin besteht, lass es uns auf unserem Support-Server wissen (<{{ supportServerInvite }}>).\n\nFehlerreferenz: `{{ errorId }}`",
+		"adminOnly": "Dieser Befehl kann nur von Admins ausgeführt werden.",
+		"invalidChannel": "Ungültiger Kanal: {{ input }}\nVersuche, einen Kanal zu erwähnen, zum Beispiel: {{ exampleChannel }}.",
+		"invalidChannelType": "Ich kann nur eine Einladung erstellen in:\n• Einem normaler Textkanal.\n• Einem Ankündigungskanal.\n\nBitte gib einen der oben genannten Kanaltypen an, um eine Einladung zu erstellen.",
+		"handlingCommand": "Ich verarbeite deinen Befehl!",
+		"api": {
+			"down": "Die DISBOARD-API scheint ausser Betrieb zu sein! :sob:\nBitte versuche es später noch einmal.",
+			"timeout": "Die DISBOARD-API hat nicht rechtzeitig geantwortet! :sob:\nBitte versuche es später noch einmal."
+		},
+		"cooldown": {
+			"command": "Du bist auf Cooldown. Bitte warte {{ numSeconds }} Sekunden, bevor du diesen Befehl erneut ausführst.",
+			"user": "Du bist auf Cooldown. Bitte warte {{ numSeconds }} Sekunden, bevor du einen weiteren Befehl ausführst."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Ich habe nicht genug Berechtigungen, um eine Einladung zu erstellen:",
+				"withTarget": "Ich habe nicht genug Rechte in dem genannten Kanal, um eine Einladung zu erstellen:"
+			},
+			"instructions": {
+				"sameChannel": "Bitte erteile mir die oben genannten Berechtigungen in diesem Kanal.",
+				"withTarget": "Bitte erteile mir die oben genannten Berechtigungen in {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} Kanal anzeigen\n{{ createInviteEmoji }} Einladung erstellen \n{{ manageChannelEmoji }} Kanal verwalten",
+			"followUp": "Sobald du das getan hast, führe diesen Befehl aus: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Dieser Server ist auf **privat** gestellt und kann daher nicht gebumpt werden.\n*Bist du ein Admin? Setze ihn über das [Dashboard]({{ dashboardLink }}) auf öffentlich, um ihn zu bumpen.*",
+				"text": "Dieser Server ist auf **privat** gestellt und kann daher nicht gebumpt werden.\n*Bist du ein Admin? Setze ihn über das Dashboard (<{{ dashboardLink }}>) auf öffentlich, um ihn zu bumpen.*"
+			},
+			"notFound": {
+				"embed": "Dieser Server wurde noch nicht zu DISBOARD hinzugefügt.\n*Bist du ein Admin? Füge diesen Server über das [Dashboard]({{ dashboardLink }}) hinzu.*",
+				"text": "Dieser Server wurde noch nicht zu DISBOARD hinzugefügt.\n*Bist du ein Admin? Füge diesen Server über das Dashboard unter <{{ dashboardLink }}> hinzu.*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`Server ID`: {{ serverId }}",
+		"shard": "`Shard ID`: {{ shardId }}",
+		"cluster": "`Cluster ID`: {{ clusterId }}",
+		"invite": "`Einladungslink`: {{ invite }}",
+		"main": "`Hauptsprache`: `{{ langCode }}`",
+		"default": "`Standard-Kanal`: {{ defaultChannel }}",
+		"latency": "`Shard-Latenz`: {{ shardLatency }}ms"
+	}
+}
