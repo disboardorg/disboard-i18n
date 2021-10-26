@@ -15,64 +15,64 @@
 			"invite": "انشئ رابط الدعوة الى هذه القناة. اذا تم تحديد [channel], قم بانشاء دعوة لتلك القناة.",
 			"help": "هذا!"
 		},
-		"howTo": "**كيف اضيف سيرفري الى ديسبورد؟**\n\n 1. سجل الدخول على موقع ديسبورد,\n 2. اذهب الى لوحى القيادة,\n 3. اضغط \"اضف سيرفر جديد\"\nاملئ معلومات سيرفرك واحفظها. سوف يتم ارسالك الى صفحة اذن ديسكورد. ان لم يحصل, اضغط زر \"اضف البوت\ " على صفحة تعديل السيرفر.",
+		"howTo": "**كيف أضيف سيرفري الى ديسبورد؟**\n\n 1. سجل الدخول على موقع دسيبورد,\n 2. اذهب الى لوحة التحكم,\n 3. اضغط \"اضف سيرفر جديد\"\nاملئ معلومات سيرفرك واحفظها. سوف يتم اعادة توجيهك الى صفحة اذن ديسكورد. في حال عدم الحدوث, اضغط زر  \"اضف البوت\" على صفحة تعديل السيرفر.",
 		"adminOnly": "فقط للمشرفين.",
 		"supportServer": {
-			"embed": "Need help? Join the [support server]({{ invite }}).",
-			"text": "Need help? Join the support server:\n<{{ invite }}>."
+		"embed": "أتريد المساعدة؟ انضم الى[ سيرفر المساعدة]({{ invite }}).",
+			"text": "أتريد المساعدة؟ انضم الى سيرفر المساعدة:\n<{{ invite }}>."
 		}
 	},
 	"warning": {
-		"unlisted": "This server is no longer listed because the invite has been deleted.\n*Are you an admin? Regenerate the invite by running `{{ command }}`*",
+		"unlisted": "لم يتم عرض هذا السيرفر لانه تم حذف رابط الدعوة.\n*هل انت مشرف؟ اعد تجديد الرابط باستخدام `{{ command }}`*",
 		"deprecation": {
-			"message": "⚠️ **Regular commands are being replaced in favour of slash commands.**\nFrom <t:{{ timestamp }}:F> regular commands will no longer work and the bot will only respond to slash commands.\nTry typing `/` to see a list of available commands.",
-			"updateLink": "If you cannot see a list of commands for DISBOARD, try re-adding the bot via the link below:\n {{ updateScopeLink }}."
+			"message": "⚠️ **سوف يتم تبديل الاوامر العادية باوامر السلاش.**\nمن <t:{{ timestamp }}:F> الاوامر العادية لم تعمل وسوف يرد البوت فقط على اوامر السلاش.\nحاول كتابة `/` لرؤية قائمة من الاوامر المتوفرة .",
+			"updateLink": "اذا لا تقدر رؤية قائمة اوامر ديسبورد, حاول اعادة اضافة البوت من الرابط التالي:\n {{ updateScopeLink }}."
 		}
 	},
 	"error": {
-		"generic": "An unknown error occurred.\n\nTry running the command again. If the error persists, let us know in our support server (<{{ supportServerInvite }}>).\n\nError reference: `{{ errorId }}`",
-		"adminOnly": "This command can only be run by administrators.",
-		"invalidChannel": "Invalid channel: {{ input }}\nTry mentioning a channel, for example: {{ exampleChannel }}.",
-		"invalidChannelType": "I can only create an invite in:\n• A regular text channel.\n• An announcement channel.\n\nPlease specify one of the above channel types to create an invite in.",
-		"handlingCommand": "I'm handling your command!",
+		"generic": "حدثت مشكلة غير معروفة.\n\nحاول اعادة استخدام الأمر. ان استمرت المشكلة, قل لنا في سيرفر المساعدة (<{{ supportServerInvite }}>).\n\nError reference: `{{ errorId }}`",
+		"adminOnly": "هذا الأمر فقط للمشرفين",
+		"invalidChannel": "قناة غير معروفة: {{ input }}\nحاول ذكر القناة, على سبيل المثال: {{ exampleChannel }}.",
+		"invalidChannelType": "يمكنني انشاء رابط دعوة فقط في:\n• قناة عادية.\n• قناة اعلانات.\n\nمن فضلك حدد احد انواع القناوات المذكورة اعلاه لانشاء رابط دعوة فيها.",
+		"handlingCommand": "انني اعالج امرك!",
 		"api": {
-			"down": "The DISBOARD API appears to be down! :sob:\nPlease try again later.",
-			"timeout": "The DISBOARD API didn't respond in time! :sob:\nPlease try again later."
+			"down": "يبدوا ان API دسيبورد لا يعمل! :sob:\nحاول مجددا في وقت اخر.",
+			"timeout": "لن يستجيب API ديسبورد! :sob:\nحاول مجددا في وقت اخر."
 		},
 		"cooldown": {
-			"command": "You are on cooldown. Please wait {{ numSeconds }} seconds before running this command again.",
-			"user": "You are on cooldown. Please wait {{ numSeconds }} seconds before running another command."
+			"command": "انت في وقت الانتظار. انتظر {{ numSeconds }} قبل استخدام هذا الامر مرة اخرى.",
+			"user": "انت في وقت الانتظار. انتظر {{ numSeconds }} ثواني قبل استخدام أمر اخر."
 		},
 		"permission": {
 			"notice": {
-				"sameChannel": "I don't have enough permissions to create an invite:",
-				"withTarget": "I don't have enough permissions in the mentioned channel to create an invite:"
+				"sameChannel": "ليس عندي اذونات كافية لانشاء رابط دعوة:",
+				"withTarget": "ليس عندي اذونات كافية في القناة المحددة لانشاء رابط دعوة:"
 			},
 			"instructions": {
-				"sameChannel": "Please grant me the above permissions in this channel.",
-				"withTarget": "Please grant me the above permissions in {{ channel }}."
+				"sameChannel": "من فضلك امنحني الاذونات المذكورة اعلاه.",
+				"withTarget": "من فضلك امنحني الاذونات المذكورة اعلاه في {{ channel }}."
 			},
-			"details": "{{ viewChannelEmoji }} View Channel\n{{ createInviteEmoji }} Create Invite\n{{ manageChannelEmoji }} Manage Channel",
-			"followUp": "Once you have done so, run the command: `{{ command }}`."
+			"details": "{{ viewChannelEmoji }} عرض القناة\n{{ createInviteEmoji }} انشاء دعوة\n{{ manageChannelEmoji }} ادر القناة",
+			"followUp": "عندما تفعل هذا, استخدم الامر: `{{ command }}`."
 		},
 		"server": {
 			"private": {
-				"embed": "This server is set to **private** and therefore cannot be bumped.\n*Are you an admin? Set it to public from the [dashboard]({{ dashboardLink }}) to bump this server.*",
-				"text": "This server is set to **private** and therefore cannot be bumped.\n*Are you an admin? Set it to public from the dashboard (<{{ dashboardLink }}>) to bump this server.*"
+				"embed": "تم تحديد هذا السيرفر الى  **خاص** ولهذا لا يمكن رفعه.\n*هل انت مشرف؟ حوله الى عام من [لوحة التحكم]({{ dashboardLink }}) لرفع هذا السيرفر.*",
+				"text": "تم تحديد هذا السيرفر الى  **خاص** ولهذا لا يمكن رفعه.\n*هل انت مشرف؟ حوله الى عام من لوحة التحكم({{ dashboardLink }}) لرفع هذا السيرفر.* "
 			},
 			"notFound": {
-				"embed": "This server has not been added to DISBOARD yet.\n*Are you an admin? Add this server via the [dashboard]({{ dashboardLink }}).*",
-				"text": "This server has not been added to DISBOARD yet.\n*Are you an admin? Add this server via the dashboard at <{{ dashboardLink }}>.*"
+				"embed": "لم يضاف هذا السيرفر الى ديسبورد بعد.\n*هل انت مشرف? اضف هذا السيرفر باستخدام [لوحة التحكم]({{ dashboardLink }}).*",
+				"text": "لم يضاف هذا السيرفر الى ديسبورد بعد.\n*هل انت مشرف? اضف هذا السيرفر باستخدام لوحة التحكم عند <{{ dashboardLink }}>.*"
 			}
 		}
 	},
 	"debug": {
-		"server": "`Server ID`: {{ serverId }}",
-		"shard": "`Shard ID`: {{ shardId }}",
-		"cluster": "`Cluster ID`: {{ clusterId }}",
-		"invite": "`Invite link`: {{ invite }}",
-		"main": "`Main language`: `{{ langCode }}`",
-		"default": "`Default channel`: {{ defaultChannel }}",
-		"latency": "`Shard latency`: {{ shardLatency }}ms"
+		"server": "`رقم هوية السيرفر`: {{ serverId }}",
+		"shard": "`رقم هوية الشارد`: {{ shardId }}",
+		"cluster": "`رقم هوية الكتلة`: {{ clusterId }}",
+		"invite": "`رابط الدعوة`: {{ invite }}",
+		"main": "`اللغة الرئيسية`: `{{ langCode }}`",
+		"default": "`القناة المعتادة`: {{ defaultChannel }}",
+		"latency": "`تأخير الشارد`: {{ shardLatency }}ms"
 	}
 }
