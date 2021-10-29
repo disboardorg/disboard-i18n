@@ -26,7 +26,7 @@
 		"unlisted": "Itong server ay hindi na nakalista dahil ang invite ay dinelete.\n*Admin ka ba? Gumawa ka ng bagong invite gamit ang `{{ command }}`*",
 		"deprecation": {
 			"message": "⚠️ **Ang regular na commands ay ire-replace pabor sa slash commands**\nSa <t:{{ timestamp }}:F> ang regular na commands ay di na gagana at ang bot ay mag re-respond lang sa slash commands.\nTry typing `/` to see a list of available commands.",
-            "updateLink": "Kung di mo makita ang listahan ng mga commands para sa DISBOARD, try mo re-add ang bot gamit itong link sa baba:\n {{ updateScopeLink }}."
+            		"updateLink": "Kung di mo makita ang listahan ng mga commands para sa DISBOARD, try mo re-add ang bot gamit itong link sa baba:\n {{ updateScopeLink }}."
 		}
 	},
 	"error": {
