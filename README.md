@@ -18,7 +18,7 @@ Primary translator (The user with the most contribution in each language) is bol
 * Polish: **Lego#8486 ([@Lego8486](https://github.com/Lego8486))**
 * Portuguese (Portugal): **Lucks#6960 ([@luckspt](https://github.com/luckspt))**
 * Swedish: **wewritethestory#2772 ([@hongjes1](https://github.com/hongjes1))**
-* Arabic: **Dr. Magic#6969 ([@DrMagic707](https://github.com/DrMagic707))**
+* Arabic: **potatomantiger#0001 ([@potatomantiger](https://github.com/potatomantiger))**, Dr. Magic#6969 ([@DrMagic707](https://github.com/DrMagic707))
 * Turkish: **synarvis#4228 ([@synarvis](https://github.com/synarvis))**, Admisor#0135\*, worgy#6180\* ([@halissen](https://github.com/halissen)), Rauf ⋆ShadowQinq⋆#8920 ([@ShadowQinq](https://github.com/ShadowQinq))
 * Russian: **[@Juneccino](https://github.com/Juneccino)**
 * Chinese (Simplified, Mainland): **The Double-Eyed Bus#6889 ([@austinhuang0131](https://github.com/austinhuang0131))**
