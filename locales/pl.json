@@ -1,0 +1,78 @@
+{
+	"tagline": "DISBOARD: Lista serwerów publicznych",
+	"inviteChanged": "Link z zaproszeniem został zmieniony => {{ inviteChannel }}. :sparkles:",
+	"bumpDone": "Podbito serwer!",
+	"checkOnDisboard": {
+		"embed": "Sprawdź to na stronie [DISBOARD]({{ link }}).",
+		"text": "Sprawdź to na stronie DISBOARD: {{ link }}."
+	},
+	"help": {
+		"title": "Hej! Jestem botem stworzonym dla DISBOARD ({{ siteLink }})",
+		"commandList": "LISTA POLECEŃ",
+		"descriptions": {
+			"bump": "Podbij ten serwer.",
+			"page": "Uzyskaj link do strony serwera na DISBOARD.",
+			"invite": "Ustaw, aby zaproszenie kierowało do kanału, na którym wpisano polecenie.\nJeśli określono kanał [#kanał], zostanie utworzone zaproszenie do tego kanału.",
+			"help": "To, co widzisz!"
+		},
+		"howTo": "**Jak dodać serwer na DISBOARD?**\n\n 1. Zaloguj się na stronie DISBOARD\n 2. Przejdź do panelu nawigacyjnego\n 3. Kliknij \"Dodaj nowy serwer\"\nWypełnij informacje o serwerze i zapisz je. Zostaniesz przekierowany do ekranu autoryzacji Discord. Jeśli nie, kliknij przycisk \"Dodaj bota\" na stronie edycji serwera.",
+		"adminOnly": "Tylko dla administratorów.",
+		"supportServer": {
+			"embed": "Potrzebujesz pomocy? Dołącz do naszego [serwera wsparcia]({{ invite }}).",
+			"text": "Potrzebujesz pomocy? Dołącz do naszego serwera wsparcia.\n<{{ invite }}>"
+		}
+	},
+	"warning": {
+		"unlisted": "Ten serwer nie znajduje się już na liście, ponieważ zaproszenie zostało usunięte.\n*Jesteś administratorem serwera? Wygeneruj nowe zaproszenie wpisując polecenie `{{ command }}`*",
+		"deprecation": {
+			"message": "⚠️ **Zwykłe komendy są zastępowane na rzecz poleceń z ukośnikiem.**\nOd<t:{{ timestamp }}:F> zwykłe komendy nie będą już działać i bot będzie reagował tylko na polecenia z ukośnikiem.\nSpróbuj wpisać `/` aby wyświetlić listę dostępnych poleceń.",
+			"updateLink": "Jeśli nie widzisz listy poleceń DISBOARD, spróbuj ponownie dodać bota za pomocą poniższego linku:\n{{ updateScopeLink }}"
+		}
+	},
+	"error": {
+		"generic": "Wystąpił nieznany błąd.\n\nSpróbuj ponownie uruchomić polecenie. Jeśli błąd będzie się powtarzał, daj nam znać na naszym serwerze wsparcia (<{{ supportServerInvite }}>).\n\nOdniesienie do błędu: `{{ errorId }}`",
+		"adminOnly": "To polecenie może być uruchamiane tylko przez administratorów.",
+		"invalidChannel": "Nieprawidłowy kanał: {{ input }}\nSpróbuj oznaczyć kanał, na przykład: {{ exampleChannel }}.",
+		"invalidChannelType": "Zaproszenie mogę utworzyć tylko w:\n• Zwykły kanał tekstowy.\n• Kanał ogłoszeniowy.\n\nOkreśl jeden z powyższych typów kanałów, aby utworzyć zaproszenie.",
+		"handlingCommand": "Przetwarzam Twoje polecenie!",
+		"api": {
+			"down": "Wygląda na to, że DISBOARD API nie działa! :sob:\nSpróbuj ponownie później.",
+			"timeout": "DISBOARD API nie odpowiedziało na czas! :sob:\nSpróbuj ponownie później."
+		},
+		"cooldown": {
+			"command": "Twoje tempo zostało ograniczone. Poczekaj {{ numSeconds }} s. przed ponownym wpisaniem tego polecenia.",
+			"user": "Twoje tempo zostało ograniczone. Poczekaj {{ numSeconds }} s. przed ponownym wpisaniem polecenia."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Nie mam wystarczających uprawnień, aby utworzyć zaproszenie:",
+				"withTarget": "Nie mam wystarczających uprawnień na określonym kanale, aby utworzyć zaproszenie:"
+			},
+			"instructions": {
+				"sameChannel": "Nadaj mi powyższe uprawnienia na tym kanale.",
+				"withTarget": "Nadaj mi powyższe uprawnienia na kanale {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} Wyświetlanie kanału\n{{ createInviteEmoji }} Tworzenie zaproszenia\n{{ manageChannelEmoji }} Zarządzanie kanałem",
+			"followUp": "Gdy już to zrobisz, wpisz polecenie: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Ten serwer jest ustawiony jako **prywatny**, dlatego nie można go podbić.\nJesteś administratorem serwera? Ustaw serwer jako publiczny w [panelu nawigacyjnym]({{ dashboardLink }}) , aby podbić serwer.*",
+				"text": "Ten serwer jest ustawiony jako **prywatny**, dlatego nie można go podbić.\nJesteś administratorem serwera? Ustaw serwer jako publiczny w panelu nawigacyjnym (<{{ dashboardLink }}>) , aby podbić serwer.*"
+			},
+			"notFound": {
+				"embed": "Ten serwer nie został jeszcze dodany do DISBOARD.\nJesteś administratorem serwera? Dodaj ten serwer w [panelu nawigacyjnym]({{ dashboardLink }}).*",
+				"text": "Ten serwer nie został jeszcze dodany do DISBOARD.\nJesteś administratorem serwera? Dodaj ten serwer w panelu nawigacyjnym na stronie <{{ dashboardLink }}>.*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`ID serwera`: {{ serverId }}",
+		"shard": "`Shard ID`: {{ shardId }}",
+		"cluster": "`Cluster ID`: {{ clusterId }}",
+		"invite": "`Link z zaproszeniem`: {{ invite }}",
+		"main": "`Język`: `{{ langCode }}`",
+		"default": "`Kanał domyślny`: {{ defaultChannel }}",
+		"latency": "`Shard - opóźnienie`: {{ shardLatency }}ms"
+	}
+}
