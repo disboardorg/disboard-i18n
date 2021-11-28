@@ -11,7 +11,7 @@
 		"commandList": "KOMUT LİSTESİ",
 		"descriptions": {
 			"bump": "Bu sunucuyu öne çıkar.",
-			"page": "Sunucunun DISBOARD sayfasi için bağlantı alın.",
+			"page": "Sunucunun DISBOARD sayfası için bağlantı alın.",
 			"invite": "Bir davet kanalı belirleyin. Eğer [kanal] varsa, bu kanal için davet bağlantısı oluşturun.",
 			"help": "Bu!"
 		},
@@ -26,11 +26,11 @@
 		"unlisted": "Bu sunucu artık listelenmiyor çünkü davet geçersiz.\n*Yönetici misin? `{{ command }}` komutunu kullanarak yeni bir davet oluştur*",
 		"deprecation": {
 			"message": "⚠️ **Ana komutlar eğik çizgi komutlarıyla değişiyor.**\n <t:{{ timestamp }}:F> tarihinden sonra normal komutlar çalışmayacak ve eğik çizgi komutları çalışacaktır.\n`/` yazmayı deneyin ve eğik çizgi komutlarını görün.",
-			"updateLink": "Eğer DISBOARD için komut listesssni görmezsen, botu aşağıda olan davet linkinden yeniden eklemeyi dene:\n {{ updateScopeLink }}."
+			"updateLink": "Eğer DISBOARD için komut listesini görmezsen, botu aşağıda olan davet linkinden yeniden eklemeyi dene:\n {{ updateScopeLink }}."
 		}
 	},
 	"error": {
-		"generic": "Bilinmeyen bir hata oluştu.\n\nKomutu yeniden kullanmayı deneyin. Eğer devam ederse, lütfen destek sunucumuzda bize hatayı söyleyin (<{{ supportServerInvite }}>).\n\nHata kodu: `{{ errorId }}`",
+		"generic": "Bilinmeyen bir hata oluştu.\n\nKomutu yeniden kullanmayı deneyin. Eğer devam ederse, lütfen hatayı bize bildirin. (<{{ supportServerInvite }}>).\n\nHata kodu: `{{ errorId }}`",
 		"adminOnly": "Bu komut sadece yöneticiler tarafından kullanılabilir.",
 		"invalidChannel": "Geçersiz kanal: {{ input }}\nkanalı etiketlemeyi deneyin, örnek olarak: {{ exampleChannel }}.",
 		"invalidChannelType": "Ben sadece davet linkini bu kanallarda oluşturabilirim:\n• Normal yazı kanalı.\n• Duyuru kanal.\n\nLütfen yukarıda olan kanallardan bir tanesini belirtin ve davet linki oluşturun.",
