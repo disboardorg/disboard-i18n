@@ -34,6 +34,7 @@
 		"adminOnly": "Cette commande ne peut être utilisée que par les administrateurs.",
 		"invalidChannel": "Salon invalide : {{ input }}\nRessaie en mentionnant un salon ; par exemple : {{ exampleChannel }}.",
 		"invalidChannelType": "Je ne peux créer une invitation que :\n• Dans un salon textuel régulier\n• Dans un salon d'annonces\n\nSpécifie un des types de salon ci-dessus pour créer une invitation dessus.",
+		"invalidMention": "Mention invalide.",
 		"handlingCommand": "Je m'occupe de ta commande !",
 		"api": {
 			"down": "L'API de DISBOARD a l'air d'être en panne ! :sob:\nRessaie plus tard.",
@@ -63,7 +64,12 @@
 			"notFound": {
 				"embed": "Ce serveur n'a pas encore été ajouté sur DISBOARD.\n*Si tu es un administrateur, tu peux l'ajouter via le [tableau de bord]({{ dashboardLink }}).*",
 				"text": "Ce serveur n'a pas encore été ajouté sur DISBOARD.\n*Si tu es un administrateur, tu peux l'ajouter via le tableau de bord avec le lien suivant : <{{ dashboardLink }}>).*"
+			},
+			"invalidInvite": {
+				"admin": "Votre serveur n'a pas d'invitation valide de défini. Exécuté la commande {{ command }} pour en définir une, puis relancer la commande.",
+				"member": "Ce serveur n'a pas d'invitation valide de défini. Demander à un administrateur de lancer la commande {{ command }} pour en définir une, puis relancer la commande."
 			}
+
 		}
 	},
 	"debug": {
@@ -74,5 +80,10 @@
 		"main": "`Langue principale` : `{{ langCode }}`",
 		"default": "`Salon par défaut` : {{ defaultChannel }}",
 		"latency": "`Latence du fragment` : {{ shardLatency }} ms"
+	},
+	"moderator": {
+		"is": "{{ user }} est un modérateur de DISBOARD",
+		"not": "{{ user }} n'est pas un modérateur de DISBOARD"
 	}
+
 }
