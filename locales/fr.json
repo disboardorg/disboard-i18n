@@ -66,8 +66,8 @@
 				"text": "Ce serveur n'a pas encore été ajouté sur DISBOARD.\n*Si tu es un administrateur, tu peux l'ajouter via le tableau de bord avec le lien suivant : <{{ dashboardLink }}>).*"
 			},
 			"invalidInvite": {
-				"admin": "Votre serveur n'a pas d'invitation valide de défini. Exécuté la commande {{ command }} pour en définir une, puis relancer la commande.",
-				"member": "Ce serveur n'a pas d'invitation valide de défini. Demander à un administrateur de lancer la commande {{ command }} pour en définir une, puis relancer la commande."
+				"admin": "Votre serveur n'a pas d'invitation valide de défini. Exécutez la commande {{ command }} pour en définir une, puis relancer la commande.",
+				"member": "Ce serveur n'a pas d'invitation valide de défini. Demandez à un administrateur d'exécutez la commande {{ command }} pour en définir une, puis relancez la commande."
 			}
 
 		}
