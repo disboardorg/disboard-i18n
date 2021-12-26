@@ -82,7 +82,7 @@
 		"latency": "`Shard latency`: {{ shardLatency }}ms"
 	},
 	"moderator": {
-		"is": "{{ user }} is a moderator of the DISBOARD service.",
-		"not": "{{ user }} is not a moderator of the DISBOARD service."
+		"is": "{{ user }} is a moderator of DISBOARD.",
+		"not": "{{ user }} is not a moderator of DISBOARD."
 	}
 }
