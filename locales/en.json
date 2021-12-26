@@ -34,6 +34,7 @@
 		"adminOnly": "This command can only be run by administrators.",
 		"invalidChannel": "Invalid channel: {{ input }}\nTry mentioning a channel, for example: {{ exampleChannel }}.",
 		"invalidChannelType": "I can only create an invite in:\n• A regular text channel.\n• An announcement channel.\n\nPlease specify one of the above channel types to create an invite in.",
+		"invalidMention": "Invalid mention.",
 		"handlingCommand": "I'm handling your command!",
 		"api": {
 			"down": "The DISBOARD API appears to be down! :sob:\nPlease try again later.",
@@ -63,7 +64,12 @@
 			"notFound": {
 				"embed": "This server has not been added to DISBOARD yet.\n*Are you an admin? Add this server via the [dashboard]({{ dashboardLink }}).*",
 				"text": "This server has not been added to DISBOARD yet.\n*Are you an admin? Add this server via the dashboard at <{{ dashboardLink }}>.*"
+			},
+			"invalidInvite": {
+				"admin": "Your server doesn't have a valid invite set. Run {{ command }} to set the invite and then re-run the command.",
+				"member": "This server doesn't have a valid invite set. Ask an admin to run {{ command }} to set the invite and then re-run the command."
 			}
+
 		}
 	},
 	"debug": {
@@ -74,5 +80,9 @@
 		"main": "`Main language`: `{{ langCode }}`",
 		"default": "`Default channel`: {{ defaultChannel }}",
 		"latency": "`Shard latency`: {{ shardLatency }}ms"
+	},
+	"moderator": {
+		"is": "{{ user }} is a moderator of DISBOARD.",
+		"not": "{{ user }} is not a moderator of DISBOARD."
 	}
 }

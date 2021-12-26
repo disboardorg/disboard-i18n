@@ -33,7 +33,6 @@
 		"generic": "Une erreur inconnue s'est produite.\n\nTu peux relancer la commande de nouveau. Si l'erreur persiste, fais-le nous savoir sur le serveur de support (<{{ supportServerInvite }}>).\n\nRéférence : `{{ errorId }}`",
 		"adminOnly": "Cette commande ne peut être utilisée que par les administrateurs.",
 		"invalidChannel": "Salon invalide : {{ input }}\nRessaie en mentionnant un salon ; par exemple : {{ exampleChannel }}.",
-		"invalidChannelType": "I can only create an invite in:\n• A regular text channel.\n• An announcement channel.\n\nPlease specify one of the above channel types to create an invite in.",
 		"invalidChannelType": "Je ne peux créer une invitation que :\n• Dans un salon textuel régulier\n• Dans un salon d'annonces\n\nSpécifie un des types de salon ci-dessus pour créer une invitation dessus.",
 		"handlingCommand": "Je m'occupe de ta commande !",
 		"api": {
