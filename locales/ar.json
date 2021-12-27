@@ -3,7 +3,7 @@
 	"inviteChanged": "تم تغيير رابط الدعوة الى {{ inviteChannel }} :sparkles: ",
 	"bumpDone": "تم الرفع!",
 	"checkOnDisboard": {
-	"embed": "انظر اليه [على ديسبورد] ({{ link )}})",
+		"embed": "انظر اليه [على ديسبورد] ({{ link }})",
 		"text": "انظر اليه على ديسبورد: {{ link }}"
 	},
 	"help": {
