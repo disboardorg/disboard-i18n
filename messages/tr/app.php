@@ -102,7 +102,7 @@ return [
     'Please enter no more than {tagLimit} tags.' => 'Lütfen {tagLimit}\'den fazla etiket girme.',
     'Please select a server' => 'Lütfen bir sunucu seç',
     'Please wait another {0, plural, =1{# minute} other{# minutes}} until the server can be bumped' => 'Bu sunucu tekrar yükseltmeden önce lütfen {0, plural, =1{# dakika} other{# dakika}} bekle',
-    'Please wait another {0, plural, =1{# minute} other{# minutes}} until you can bump' => 'Lütfen yükseltmeden önce {0, çoğul, =1{# dakika} diğer{# dakika}} daha bekleyin',
+    'Please wait another {0, plural, =1{# minute} other{# minutes}} until you can bump' => 'Lütfen yükseltmeden önce {0, plural, =1{# dakika} other{# dakika}} daha bekleyin',
     'Popular Tags' => 'Popüler Etiketler',
     'Private' => 'Özel',
     'Public' => 'Herkese Açık',
