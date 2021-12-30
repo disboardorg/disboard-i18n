@@ -1,0 +1,88 @@
+{
+	"tagline": "DISBOARD：公共 Discord 服务器列表",
+	"inviteChanged": "邀请链接现已指向 {{ inviteChannel }} 。 :sparkles:",
+	"bumpDone": "服务器已顶！",
+	"checkOnDisboard": {
+		"embed": "在 [DISBOARD 上]({{ link }})查看。",
+		"text": "在 DISBOARD 上查看： {{ link }}"
+	},
+	"help": {
+		"title": "哈喽！ 我是为 DISBOARD ({{ siteLink }}) 工作的机器人",
+		"commandList": "命令列表",
+		"descriptions": {
+			"bump": "顶服务器",
+			"page": "获取本服务器 DISBOARD 页面的链接。",
+			"invite": "将本服务器的邀请链接指向当前频道。若指定 [channel] ，则会将链接指向该频道。",
+			"help": "您现在就在看这个！"
+		},
+		"howTo": "**如何将服务器添加至 DISBOARD ？**\n\n 1. 于 DISBOARD 网站上登录，\n 2. 前往设定，\n 3. 点击 \"添加新的服务器\"。\n请在填写相关信息后保存。 网站会将您重定向至 Discord 的授权页面来添加机器人。 您亦可在服务器信息更改页面中点击 \"邀请机器人\" 按钮。",
+		"adminOnly": "限服务器管理员",
+		"supportServer": {
+			"embed": "需要帮助？ 请联系[客服]({{ invite }})。",
+			"text": "需要帮助？ 请联系客服：\n<{{ invite }}>"
+		}
+	},
+	"warning": {
+		"unlisted": "由于您的邀请链接已失效， DISBOARD 已不再显示本服务器。\n*您是服务器管理员吗？请用 `{{ command }}` 来重新生成邀请链接。*",
+		"deprecation": {
+			"message": "⚠️ **常规命令将会被斜杠命令所淘汰。**\n<t:{{ timestamp }}:F> 起，机器人只会回复斜杠命令，而非常规命令。\n请键入 `/` 以查看可用的斜杠命令。",
+			"updateLink": "若您无法查看 DISBOARD 的斜杠命令，请尝试重新添加机器人：\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "出现未知错误。\n\n请尝试再次运行命令。若仍有错误，请联系客服 (<{{ supportServerInvite }}>)。\n\n错误代码： `{{ errorId }}`",
+		"adminOnly": "只有服务器管理员可以使用该命令。",
+		"invalidChannel": "频道无效： {{ input }}\n请提及一个频道，如： {{ exampleChannel }} 。",
+		"invalidChannelType": "邀请链接只能指向以下类型的频道：\n• 常规文字频道。\n• 公告频道。\n\n请指定以上两类中的一个频道来创建邀请链接。",
+		"invalidMention": "提及无效。",
+		"handlingCommand": "正在处理命令，请耐心等候。",
+		"api": {
+			"down": "DISBOARD API 似乎出现了故障！ :sob:\n请稍后再试。",
+			"timeout": "DISBOARD API 回应超时！ :sob:\n请稍后再试。"
+		},
+		"cooldown": {
+			"command": "您已被限速。请等待 {{ numSeconds }} 秒后再次运行该命令。",
+			"user": "您已被限速。请等待 {{ numSeconds }} 秒后再运行其它命令。"
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "我没有创建邀请链接的权限：",
+				"withTarget": "我没有在该频道创建邀请链接的权限："
+			},
+			"instructions": {
+				"sameChannel": "请给予我在该频道的以上权限。",
+				"withTarget": "请给予我在 {{ channel }} 的以上权限。"
+			},
+			"details": "{{ viewChannelEmoji }} 查看频道\n{{ createInviteEmoji }} 创建邀请链接\n{{ manageChannelEmoji }} 管理频道",
+			"followUp": "设置完毕后，请运行该命令： `{{ command }}` 。"
+		},
+		"server": {
+			"private": {
+				"embed": "本服务器已设置为**私密**，所以无法顶。\n*您是服务器管理员吗？请于[设定]({{ dashboardLink }})中将服务器修改为公开后，再顶改服务器。.*",
+				"text": "本服务器已设置为**私密**，所以无法顶。\n*您是服务器管理员吗？请于设定 (<{{ dashboardLink }}>) 中将服务器修改为公开后，再顶改服务器。*"
+			},
+			"notFound": {
+				"embed": "本服务器尚未被添加到 DISBOARD。\n*您是服务器管理员吗？请于[设定]({{ dashboardLink }})中添加本服务器。*",
+				"text": "本服务器尚未被添加到 DISBOARD。\n*您是服务器管理员吗？请于设定 (<{{ dashboardLink }}>) 中添加本服务器。*"
+			},
+			"invalidInvite": {
+				"admin": "您的服务器尚未设定有效的邀请链接。请先键入 {{ command }} 来创建邀请链接，然后再使用此命令。",
+				"member": "本服务器尚未设定有效的邀请链接。服务器管理员键入 {{ command }} 来创建邀请链接后方可使用此命令。"
+			}
+
+		}
+	},
+	"debug": {
+		"server": "`服务器 ID`: {{ serverId }}",
+		"shard": "`子进程 ID`: {{ shardId }}",
+		"cluster": "`进程组 ID`: {{ clusterId }}",
+		"invite": "`邀请链接`: {{ invite }}",
+		"main": "`首选语言`: `{{ langCode }}`",
+		"default": "`默认频道`: {{ defaultChannel }}",
+		"latency": "`子进程延时`: {{ shardLatency }}ms"
+	},
+	"moderator": {
+		"is": "{{ user }} 是 DISBOARD 的全站管理员。",
+		"not": "{{ user }} 不是 DISBOARD 的全站管理员。"
+	}
+}
