@@ -187,6 +187,7 @@ return [
     'View' => '見る', // view server button on Dashboard
     'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => 'あなたのお気に入りの <span class="discord-logo">Discord</span> サーバーをレビューしてみませんか？',
     'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => '<a href="{reviewUrl}"><strong>{serverName}</strong> をレビュー</a>してみませんか?',
+    'you are not alone' => 'きみはひとりじゃないからね',
     'You have already muted {serverName}' => '既に {serverName} をミュートしています',
     'You haven\'t added a server yet' => 'まだサーバーを追加していません',
     'You must be logged in to mute a server' => 'サーバーをミュートするにはログインしてください',
