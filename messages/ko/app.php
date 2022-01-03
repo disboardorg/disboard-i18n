@@ -174,7 +174,7 @@ return [
     'The server is set to private' => '서버가 비공개로 설정되어있습니다',
     'This server has been removed due to breaking our guidelines' => '이 서버는 가이드라인을 위반하여 삭제되었습니다',
     'This server is private. Only the owner (you) can view it.' => '이 서버는 비공개입니다. 서버 주인(당신)만 볼 수 있습니다.',
-    'This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.' => '이 사이트는 reCAPTCHA에 의해 보호되고 있으며, 구글의 <a href="https://policies.google.com/privacy">개인정보처리방침</a>과 <a href="https://policies.google.com/terms">서비스 약관</a>이 적용됩니다.'
+    'This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.' => '이 사이트는 reCAPTCHA에 의해 보호되고 있으며, 구글의 <a href="https://policies.google.com/privacy">개인정보처리방침</a>과 <a href="https://policies.google.com/terms">서비스 약관</a>이 적용됩니다.',
     'This review has been removed due to breaking our guidelines' => '이 리뷰는 가이드라인을 위반하여 삭제되었습니다',
     'This will add this server to our public server list' => '체크하면 서버 게시판에 공개됩니다',
     'Title' => '제목',
