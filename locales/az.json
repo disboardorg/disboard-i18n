@@ -1,0 +1,78 @@
+{
+	"tagline": "DISBOARD: Server Siyahısı",
+	"inviteChanged": "Server dəvət kanalı {{ inviteChannel }} kanalına dəyişdirildi. :sparkles:",
+	"bumpDone": "Server qabağa çıxarıldı!",
+	"checkOnDisboard": {
+		"embed": " [DISBOARD'da] baxın ({{ link }}).",
+		"text": "DISBOARD'da baxın: {{ link }}."
+	},
+	"help": {
+		"title": "Salam! Mən DISBOARD üçün bir botam ({{ siteLink }})",
+		"commandList": "KOMMAND SİYAHISI",
+		"descriptions": {
+			"bump": "Bu serveri qabağa çıxar.",
+			"page": "Serverinizin səyfəsi üçün bir link alın.",
+			"invite": "Bir dəvət kanalı yaradın. Əgər [kanal] varsa, bu kanal üçün bir dəvət yarada bilərəm.",
+			"help": "Bu!"
+		},
+		"howTo": "**Serverimi  necə DISBOARD'a əlavə edə bilərəm?**\n\n 1. DISBOARD saytında hesabınıza daxil olun,\n 2. İdarəçi panelinə girin,\n 3. \"Yeni Server Əlavə Et\" düyməsinə baxın \nServer Haqqında Bilgilərinizi Yazın Və Davam Edin. Discord'un səlahiyyətləndirmə yerinə aparılacaqsınız. Əgər olmadısa, server bilgilərinizi deyişdirmə yerində \"Botu Əlavə Et\" düyməsinə basın.",
+		"adminOnly": "Yalnız idarəçi.",
+		"supportServer": {
+			"embed": "Köməyə ehtiyacın var? [Dəstək serverimizə] qatıl({{ invite }}).",
+			"text": "Köməyə ehtiyacın var? Dəstək serverimizə qatıl:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Bu server artıq siyahıda deyil çünki serverin dəvət linki artıq işləmir.\n*İdarəçisən? `{{ command }}` kommandını istifadə edərək tezə bir dəvət linki yarad*",
+		"deprecation": {
+			"message": "⚠️ **Kommandlar əyiq xətt (slash) kommandlarıyla dəyişir .**\n <t:{{ timestamp }}:F> tarihindən sonra normal kommandlar işləməyəcəq və əyiq xətt kommandları ilə dəyişəcəq.\n`/` yazın və əyiq xətt kommandlarını görün.",
+			"updateLink": "Əgər DISBOARD üçün kommand siyahısını görməzsən, botu aşağıda olan dəvət linkindən əlavə edin və tezdən yoxlayın:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "Bilinməyən bir xəta oldu.\n\nKommandı tezdən yoxlayın. Əgər xəta davam edərsə, xətayı bizə bildirin. (<{{ supportServerInvite }}>).\n\nXəta kodu: `{{ errorId }}`",
+		"adminOnly": "Bu kommand sadəcə idarəçilər tərəfindən işlədilə bilər.",
+		"invalidChannel": "Etibarsız kanal: {{ input }}\nkanalı etiketləməyə çalışın, məsələn: {{ exampleChannel }}.",
+		"invalidChannelType": "Mən sadəcə dəvət linkini aşağıdaki kanallarda yaradabilərəm:\n• Normal yazı kanalı.\n• Anons kanalı.\n\nXahiş edirik yuxarıda olan kanallardan bir dənəsini seçin və tezdən yoxlayın.",
+		"handlingCommand": "Kommandı çalışdırıram!",
+		"api": {
+			"down": "DISBOARD API'si işləmir! :sob:\nBiraz gözləyin və tezdən yoxlayın.",
+			"timeout": "DISBOARD API'si vaxtında cavab vermədi! :sob:\nBiraz gözləyin və tezdən yoxlayın."
+		},
+		"cooldown": {
+			"command": "Gözləyin. Bu kommandı yazmadan əvvəl {{ numSeconds }} saniyə gözləyin.",
+			"user": "Gözləyin. Başqa bir kommand yazmadan əvvəl {{ numSeconds }} saniyə gözləyin."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Dəvət linki yaradmaq üçün icazəm yoxdur:",
+				"withTarget": "Etiketlədiyiniz kanalda dəvət linki yaradmaq üçün icazəm yoxdur:"
+			},
+			"instructions": {
+				"sameChannel": "Xahiş edirəm mənə aşağıda olan səlahiyyətləri verin.",
+				"withTarget": "Xahiş edirəm mənə {{ channel }} kanalında olan səlahiyyətləri verin."
+			},
+			"details": "{{ viewChannelEmoji }} Kanalı Gör\n{{ createInviteEmoji }} Dəvət Yarad\n{{ manageChannelEmoji }} Kanalı İdarə Et",
+			"followUp": "Etdikdən sonra bu kommandı istifadə edin: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Bu server **gizli** bir serverdir və qabağa çıxardıla bilməz.\n*İdarəçisən? Serveri [idarəçi panelindən] hamıya açıq edin. ({{ dashboardLink }}).*",
+				"text": "Bu server **gizli** bir serverdir və qabağa çıxardıla bilməz.\n*İdarəçisən? Serveri [idarəçi panelindən] hamıya açıq edin. ({{ dashboardLink }}).*"
+			},
+			"notFound": {
+				"embed": "Bu server DISBOARD'a hələ əlavə edilmədi.\n*İdarəçisən? Serveri [idarəçi panelindən] əlavə edin ({{ dashboardLink }}).*",
+				"text": "Bu server DISBOARD'a hələ əlavə edilmədi.\n*İdarəçisən? Serveri [idarəçi panelindən] əlavə edin <{{ dashboardLink }}>.*"
+			}
+		}
+	},
+	"debug": {
+		"server": "`Server ID`: {{ serverId }}",
+		"shard": "`Shard ID`: {{ shardId }}",
+		"cluster": "`Cluster ID`: {{ clusterId }}",
+		"invite": "`Dəvət linki`: {{ invite }}",
+		"main": "`Ana dil`: `{{ langCode }}`",
+		"default": "`Varsayılan kanal`: {{ defaultChannel }}",
+		"latency": "`Shard gecikməsi`: {{ shardLatency }}ms"
+	}
+}
