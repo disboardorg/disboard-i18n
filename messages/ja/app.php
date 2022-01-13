@@ -95,7 +95,7 @@ return [
     'New Review' => '新規レビュー',
     'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => '最大サーバーミュート数を超えました。新しくミュートするには設定から別のサーバーのミュートを解除してください。',
     'More about {appName}' => '{appName} について',
-    'Must be checked if the server contains sensitive content such as sexually explicit material etc.' => 'サーバー内に性的表現のようなセンシティブなコンテンツが含まれる場合にチェックする必要があります',
+    'Must be checked if the server\'s main theme is NSFW, such as sexually explicit content' => 'サーバーのメインテーマが性描写などのセンシティブなコンテンツ(NSFW)の場合にチェックが必要です',
     'Mute this server' => 'このサーバーをミュートする',
     'Muted servers' => 'ミュート中のサーバー',
     'Muted {serverName}' => '{serverName} をミュートしました',
