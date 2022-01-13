@@ -95,7 +95,7 @@ return [
     'New Review' => '새로운 리뷰',
     'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => '뮤트한 서버 수 최대치를 초과했습니다. 새로 뮤트하려면 설정에서 다른 서버의 뮤트를 해제해 주세요.',
     'More about {appName}' => '{appName}에 대해',
-    'Must be checked if the server contains sensitive content such as sexually explicit material etc.' => '서버 내에 성적 표현과 같은 민감한 컨텐츠를 포함할 경우 체크해야 합니다',
+    'Must be checked if the server\'s main theme is NSFW, such as sexually explicit content' => '서버의 주요 주제가 성적 표현 등의 민감한 컨텐츠(NSFW)인 경우 체크해야 합니다',
     'Mute this server' => '이 서버 뮤트하기',
     'Muted servers' => '뮤트한 서버',
     'Muted {serverName}' => '{serverName}을(를) 뮤트했습니다',
