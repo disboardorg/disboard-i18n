@@ -95,6 +95,7 @@ return [
     'NSFW server' => 'NSFW (18+) sunucusu',
     'Official Discord Server' => 'Resmi Discord Sunucusu',
     'Official verified partners' => 'Resmi onaylı ortaklar',
+    'Must be checked if the server\'s main theme is NSFW, such as sexually explicit content' => 'Eğer sunucunun ana teması NSFW ise bunun seçilmiş olması gerek.',
     'Owner servers' => 'Sahip sunucuları',
     'Partners' => 'Ortaklar',
     'Please check the checkbox below before joining "<strong>{serverName}</strong>"' => '"<strong>{serverName}</strong>" sunucusuna katılmadan önce, lütfen aşağıdaki onay kutusunu tıkla',
