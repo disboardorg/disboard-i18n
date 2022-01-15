@@ -55,7 +55,6 @@ return [
     'Delete review' => 'حذف التقييم',
     'DISBOARD bot API server is offline' => 'ديسبورد غير متاح حالياً',
     'DISBOARD bot must be in the server to review' => 'بوت الديسبورد يجب أن يكون في السيرفر للتقييم',
-    'Discord servers partnered with <span class="brand">DISBOARD</span>' => 'سيرفرات ديسكورد مشتركة مع <span class="brand">ديسبورد</span> ',
     'Discord Server List' => 'قائمة سيرفرات الديسكورد',
     'Discord Server Reviews' => 'تقييمات السيرفرات',
     'Discord Servers Bumped Recently' => 'سيرفرات تم رفعها مؤخراً',
@@ -95,7 +94,8 @@ return [
     '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# دقيقة} other{# دقائق}}',
     'New!' => '!جديد',
     'New Review' => 'إضافة تقييم',
-    'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => 'تم تجاوز الحد الأقصى لعدد السيرفرات التي تم كتم صوتها. لكتم صوت سيرفر ، انتقل إلى "الإعدادات" وألغِ كتم صوت سيرفر آخر.',
+    'Must be checked if the server\'s main theme is NSFW, such as sexually explicit content' => 'يجب ان يكون منقور اذا كان موضوع السيرفر الاساسي غير آمن لاستخدام الأطفال'
+	'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => 'تم تجاوز الحد الأقصى لعدد السيرفرات التي تم كتم صوتها. لكتم صوت سيرفر ، انتقل إلى "الإعدادات" وألغِ كتم صوت سيرفر آخر.',
     'More about {appName}' => '{appName} المزيد عن',
     'Mute this server' => 'كتم السيرفر',
     'Muted servers' => 'السيرفرات المكتومة',
