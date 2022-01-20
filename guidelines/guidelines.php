@@ -1,5 +1,11 @@
 <?php
+/*
+ * DO NOT EDIT ANY CODE WITHIN <?php ?> <?= ?> TAGS
+ * YOU CAN TRANSLATE THEM IN MESSAGE FILES
+ */
 use yii\helpers\Url;
+
+$this->context->layout = 'focus';
 
 $this->title = Yii::t('app', 'Guidelines');
 ?>

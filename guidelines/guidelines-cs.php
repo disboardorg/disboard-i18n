@@ -1,7 +1,13 @@
 <?php
+/*
+ * DO NOT EDIT ANY CODE WITHIN <?php ?> <?= ?> TAGS
+ * YOU CAN TRANSLATE THEM IN MESSAGE FILES
+ */
 use yii\helpers\Url;
 
-$this->title = Yii::t('app', 'Pokyny');
+$this->context->layout = 'focus';
+
+$this->title = Yii::t('app', 'Guidelines');
 ?>
 <h1>
     <?= $this->title ?>
@@ -34,7 +40,7 @@ $this->title = Yii::t('app', 'Pokyny');
         V DISBOARDU nesmíte odměňovat ani nutit uživatele k provádění akcí. Například nesmíte odměňovat své uživatele za zveřejnění pěkné recenze o serveru nebo je nutit, aby server bumpnuli.
     </li>
     <li>
-        Není povoleno vytváření více Discord účtů za účelem zveřejnění vícero recenzí. Zveřejňujte prosím jen jednu recenzi na osobu.
+        Není povoleno vytváření více Discord účtů za účelem zveřejnění vícero recenzí. Zveřejňuj prosím jen jednu recenzi na osobu.
     </li>
     <li>
         Všechny servery, které jsou založeny hlavně na NSFW (sexuální obsah podle našeho uvážení), musí být v DISBOARDU označeny jako „NSFW“.
@@ -42,5 +48,5 @@ $this->title = Yii::t('app', 'Pokyny');
 </ul>
 
 <p>
-    Koukni také na naše <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Podmínky používání služeb'); ?></a>
+    Koukni také na naše <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Term of Services'); ?></a>
 </p>

@@ -1,7 +1,13 @@
 <?php
+/*
+ * DO NOT EDIT ANY CODE WITHIN <?php ?> <?= ?> TAGS
+ * YOU CAN TRANSLATE THEM IN MESSAGE FILES
+ */
 use yii\helpers\Url;
 
-$this->title = Yii::t('app', 'Richtlinien');
+$this->context->layout = 'focus';
+
+$this->title = Yii::t('app', 'Guidelines');
 ?>
 <h1>
     <?= $this->title ?>
@@ -41,5 +47,5 @@ $this->title = Yii::t('app', 'Richtlinien');
 </ul>
 
 <p>
-    Siehe auch unsere <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Nutzungsbedingungen'); ?></a>
+    Siehe auch unsere <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Term of Services'); ?></a>
 </p>
