@@ -18,7 +18,7 @@
 		"howTo": "**Sunucumu nasıl DISBOARD'a eklerim?**\n\n 1. DISBOARD sitesinde hesabınıza giriş yapın,\n 2. Kontrol paneline girin,\n 3. \"Yeni Sunucu Ekle\" tuşuna basın \nSunucu bilgilerinizi doldurun ve kaydedin. Discord'un yetkilendirme alanına yönlendirileceksiniz. Eğer olmadıysa, sunucunuzu düzenleme alanında \"Botu Ekle\" tuşuna basın.",
 		"adminOnly": "Sadece yönetici.",
 		"supportServer": {
-			"embed": "Yardıma mı ihtiyacın var? [Destek sunucumuza] katıl({{ invite }}).",
+			"embed": "Yardıma mı ihtiyacın var? [Destek sunucumuza katıl]({{ invite }}).",
 			"text": "Yardıma mı ihtiyacın var? Destek sunucumuza katıl:\n<{{ invite }}>."
 		}
 	},
