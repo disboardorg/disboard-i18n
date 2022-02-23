@@ -6,8 +6,8 @@ return [
     'Add Bot' => 'Adicione o Bot',
     'Add a Tag' => 'Adicione uma Etiqueta',
     'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => 'Adicione as permissões <b>CREATE_INSTANT_INVITE</b> e <b>SEND_MESSAGES</b> para o bot DISBOARD.',
-    'Admin response' => 'Resposta administrativa',
-    'Admin servers' => 'Servidores administrados',
+    'Admin response' => 'Resposta da administração',
+    'Admin servers' => 'Servidores que é admin',
     'After that send this command: <span class="tag is-light">!d refresh</span>' => 'Depois disso, execute este comando: <span class="tag is-light">!d refresh</span>',
     'All Discord reviews' => 'Todas as Reviews do Discord',
     'All Discord servers' => 'Todos os Servidores do Discord',
@@ -88,7 +88,7 @@ return [
     'NSFW' => 'NSFW(+18)',
     'NSFW server' => 'Servidor NSFW(+18)',
     'Official Discord Server' => 'Servidor Oficial do Discord',
-    'Owner servers' => 'Servidores em que é proprietário',
+    'Owner servers' => 'Servidores em que é dono',
     'Please check the checkbox below before bumping "<strong>{serverName}</strong>"' => 'Por favor, marque a caixa de seleção abaixo antes de fazer bump ao "<strong>{serverName}</strong>"',
     'Please check the checkbox below before joining "<strong>{serverName}</strong>"' => 'Por favor, marque a caixa de seleção abaixo antes de entrar ao "<strong>{serverName}</strong>"',
     'Please enter no more than {tagLimit} tags.' => 'Respeite o limite de {tagLimit} etiquetas.',
@@ -201,7 +201,7 @@ return [
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'Conectamos <strong>Servidores de Discord</strong> e <b>pessoas</b>',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">DISBOARD</strong> é o lugar onde pode <strong>publicar/encontrar servidores de Discord</strong>.',
     'Find and join some awesome servers listed here.' => 'Encontre e entre alguns servidores fantásticos aqui.',
-    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Ou <a href="{login-url}">inicie sessão</a> e <strong>adicione o seu servidor se é o proprietário de algum</strong> 😎',
+    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'Ou <a href="{login-url}">inicie sessão</a> e <strong>adicione o seu servidor se é o dono de algum</strong> 😎',
     'Add Your Server!' => 'Adicione o seu servidor!', // The large button
     /* Categories */
     'Adventure Games' => 'Jogos de Aventura',
