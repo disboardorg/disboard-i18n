@@ -12,10 +12,10 @@
 		"descriptions": {
 			"bump": "Fazer bump a este servidor.",
 			"page": "Obter um link para a página do servidor no DISBOARD.",
-			"invite": "Definir o convite para este canal. Se [canal] for especificado, cria um convite para esse canal.",
+			"invite": "Definir o convite para este canal. Se [channel] for especificado, cria um convite para esse canal.",
 			"help": "Isto!"
 		},
-		"howTo": "**Como é que adiciono o meu servidor ao DISBOARD?**\n\n 1. Autentique-se no website do DISBOARD,\n 2. Vá ao Painel de Controlo,\n 3. Clique \"Adicionar um Novo Servidor\"\nPreencha a informação do seu servidor e salve-a. Será redirecionado para a página de autorização do Discord. Se não, clique no botão \"Adicionar Bot\" na página de edição do servidor.",
+		"howTo": "**Como é que adiciono o meu servidor ao DISBOARD?**\n\n 1. Autentique-se no website do DISBOARD,\n 2. Vá ao Painel de Controlo,\n 3. Clique \"Adicionar um Novo Servidor\"\nPreencha a informação do seu servidor e salve-a. Será redirecionado para a página de autorização do Discord. Se não, clique no botão \"Adicione o Bot\" na página de edição do servidor.",
 		"adminOnly": "Apenas administradores.",
 		"supportServer": {
 			"embed": "Precisa de ajuda? Junte-se ao [servidor de suporte]({{ invite }}).",
@@ -63,6 +63,10 @@
 			"notFound": {
 				"embed": "Este servidor ainda não foi adicionado ao DISBOARD.\n*É um administrador? Adicione este servidor através do [painel de controlo]({{ dashboardLink }}).*",
 				"text": "Este servidor ainda não foi adicionado ao DISBOARD.\n*É um administrador? Adicione este servidor através do painel de controlo em <{{ dashboardLink }}>.*"
+			},
+			"invalidInvite": {
+				"admin": "Este servidor não tem um convite válido configurado. Execute {{ command }} para configurar um convite e re-execute o comando.",
+				"member": "Este servidor não tem um convite válido configurado. Peça a um admin para executar {{ command }} de forma a configurar um convite e re-execute o comando."
 			}
 		}
 	},
@@ -74,5 +78,9 @@
 		"main": "`Língua principal`: `{{ langCode }}`",
 		"default": "`Canal predefinido`: {{ defaultChannel }}",
 		"latency": "`Latência da Shard`: {{ shardLatency }}ms"
+	},
+	"moderator": {
+		"is": "{{ user }} é um moderador do DISBOARD.",
+		"not": "{{ user }} não é um moderador do DISBOARD."
 	}
 }
