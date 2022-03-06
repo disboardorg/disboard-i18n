@@ -11,7 +11,7 @@ Primary translator (The user with the most contribution in each language) is bol
 * Filipino: **aeris#0018 ([@aeristhy](https://github.com/aeristhy))**
 * Czech: **Khaooss#8036 ([@Khaooss](https://github.com/Khaooss))**
 * French: **SmokyBird#6804 ([@SmokyBird](https://github.com/SmokyBird))**, **Tailer#0001\* ([@tai1er](https://github.com/tai1er))**
-* Hindi: **Creeper#0630 ([@ThisIsACreeper0101](https://github.com/ThisIsACreeper0101))**
+* Hindi: **Saur#0630 ([@Saurmandal](https://github.com/Saurmandal))**
 * Italian: **froggit#0001 ([@gattaa](https://github.com/gattaa))**, Bryce#5439
 * Dutch: **🌸 Thana ✨#2212 ([@zThana](https://github.com/zThana))**, [@QkeleQ10](https://github.com/QkeleQ10), Ardere#9578\* ([@ArdentLemon](https://github.com/ArdentLemon))
 * Norweigian: **Forman#1861 ([@voormann](https://github.com/voormann))**
