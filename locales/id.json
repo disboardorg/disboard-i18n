@@ -1,0 +1,88 @@
+{
+	"tagline": "DISBOARD: Daftar Server Umum",
+	"inviteChanged": "Tautan undangan telah diubah ke {{ inviteChannel }}. :sparkles:",
+	"bumpDone": "Bump berhasil! 👍",
+	"checkOnDisboard": {
+		"embed": "Coba cek [di DISBOARD]({{ link }}).",
+		"text": "Coba cek di DISBOARD: {{ link }}."
+	},
+	"help": {
+		"title": "Hai! Saya adalah bot untuk DISBOARD ({{ siteLink }})",
+		"commandList": "DAFTAR PERINTAH",
+		"descriptions": {
+			"bump": "Bump server ini.",
+			"page": "Dapatkan link untuk halaman server DISBOARD.",
+			"invite": "Atur undangan ke server ini. Jika [channel] ditentukan, buatlah undangan untuk saluran itu.",
+			"help": "Ini!"
+		},
+		"howTo": "**Bagaimana cara menambahkan server saya ke DISBOARD?**\n\n 1. Pergi ke situs DISBOARD\n 2. Pergi ke Dasbor\n 3. Klik \"Tambahkan server baru\"\nIsi info server Anda dan simpan. Anda akan diarahkan ke laman otorisasi Discord. Jika tidak, klik tombol \"Tambahkan Bot\" di halaman edit server.",
+		"adminOnly": "Hanya untuk admin.",
+		"supportServer": {
+			"embed": "Butuh bantuan? Bergabunglah ke [server dukungan]({{ invite }}).",
+			"text": "Butuh bantuan? Bergabunglah ke server dukungan:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Server ini sudah tidak terdaftar lagi karena undangan telah dihapus.\n*Apakah Anda seorang admin? Buat ulang undangan dengan menjalankan `{{ command }}`*",
+		"deprecation": {
+			"message": "⚠️ **Perintah reguler akan digantikan dengan perintah garis miring (slash).**\nUntuk <t:{{ timestamp }}:F> perintah reguler tidak akan berfungsi dan bot hanya akan merespon perintah garis miring (slash).\nCoba ketik `/` untuk melihat daftar perintah yang tersedia.",
+			"updateLink": "Jika Anda tidak bisa melihat daftar perintah untuk DISBOARD, coba menambahkan ulang bot ini lewat link dibawah:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "Kesalahan tidak dikenal terjadi.\n\nCoba jalankan perintah kembali. Jika kesalahan masih muncul, kasih tahu kami di server dukungan kami (<{{ supportServerInvite }}>).\n\nError reference: `{{ errorId }}`",
+		"adminOnly": "Perintah ini hanya bisa dijalankan oleh administrator.",
+		"invalidChannel": "Saluran tidak valid: {{ input }}\nCoba menyebutkan saluran, contohnya: {{ exampleChannel }}.",
+		"invalidChannelType": "Saya hanya bisa membuat undangan di:\n• Saluran teks reguler.\n• Saluran pemberitahuan.\n\nMohon tentukan salah satu dari jenis saluran diatas untuk membuat undangan.",
+		"invalidMention": "Sebutan (mention) tidak valid.",
+		"handlingCommand": "Saya mengendalikan perintahmu!",
+		"api": {
+			"down": "Nampaknya API DISBOARD sedang down! :sob:\nCoba ulangi lagi nanti.",
+			"timeout": "API DISBOARD tidak merespons tepat waktu! :sob:\nCoba ulangi lagi nanti."
+		},
+		"cooldown": {
+			"command": "Anda sedang dalam masa cooldown. Mohon tunggu {{ numSeconds }} detik sebelum menjalankan perintah ini lagi.",
+			"user": "Anda sedang dalam masa cooldown. Mohon tunggu {{ numSeconds }} detik sebelum menjalankan perintah lain."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Saya tidak memiliki izin yang cukup untuk membuat undangan:",
+				"withTarget": "Saya tidak memiliki izin yang cukup di saluran yang disebutkan untuk membuat undangan:"
+			},
+			"instructions": {
+				"sameChannel": "Mohon berikan saya izin yang lebih tinggi di saluran ini.",
+				"withTarget": "Mohon berikan saya izin yang lebih tinggi di {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} Lihat Saluran\n{{ createInviteEmoji }} Buat Undangan\n{{ manageChannelEmoji }} Kelola Saluran",
+			"followUp": "Setelah Anda melakukannya, jalankan perintah `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Server ini diatur ke **privat** dan oleh karena itu tidak bisa di-bump.\n*Apakah Anda admin? Atur menjadi publik dari [dashboard]({{ dashboardLink }}) untuk menge-bump server ini.*",
+				"text": "Server ini diatur ke **privat** dan oleh karena itu tidak bisa di-bump.\n*Apakah Anda admin? Atur menjadi publik dari dashboard (<{{ dashboardLink }}>) untuk menge-bump server ini.*"
+			},
+			"notFound": {
+				"embed": "Server ini belum ditambahkan ke DISBOARD.\n*Apakah Anda admin? Tambahkan server ini melalui [dasbor]({{ dashboardLink }}).*",
+				"text": "Server ini belum ditambahkan ke DISBOARD.\n*Apakah Anda admin? Tambahkan server ini melalui dasbor di <{{ dashboardLink }}>.*"
+			},
+			"invalidInvite": {
+				"admin": "Server Anda tidak memiliki set undangan yang valid. Jalankan {{ command }} untuk mengatur undangan lalu jalankan ulang perintah.",
+				"member": "Server ini tidak memiliki set undangan yang vaild. Tanyakan pada admin untuk menjalankan {{ command }} untuk mengatur undangan lalu jalankan ulang perintah."
+			}
+
+		}
+	},
+	"debug": {
+		"server": "`ID Server`: {{ serverId }}",
+		"shard": "`ID Shard`: {{ shardId }}",
+		"cluster": "`ID Gugus`: {{ clusterId }}",
+		"invite": "`Tautan undangan`: {{ invite }}",
+		"main": "`Bahasa utama`: `{{ langCode }}`",
+		"default": "`Saluran default`: {{ defaultChannel }}",
+		"latency": "`Latensi shard`: {{ shardLatency }}milidetik"
+	},
+	"moderator": {
+		"is": "{{ user }} adalah moderator DISBOARD.",
+		"not": "{{ user }} bukanlah moderator DISBOARD."
+	}
+}
