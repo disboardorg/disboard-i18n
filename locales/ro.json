@@ -1,0 +1,88 @@
+{
+	"tagline": "DISBOARD: Lista de servere publice",
+	"inviteChanged": "Linkul de invitație a fost schimbat în {{ inviteChannel }}. :sparkles:",
+	"bumpDone": "Bump gata!",
+	"checkOnDisboard": {
+		"embed": "Verificați-l [pe DISBOARD]({{ link }}).",
+		"text": "Verificați-l pe DISBOARD: {{ link }}."
+	},
+	"help": {
+		"title": "Bună! Sunt un bot pentru DISBOARD ({{ siteLink }})",
+		"commandList": "COMMAND LIST",
+		"descriptions": {
+			"bump": "Loveste acest server.",
+			"page": "Obțineți un link către pagina DISBOARD a serverului.",
+			"invite": "Setați invitația la acest canal. Dacă este specificat [canal], creați o invitație pentru canalul respectiv.",
+			"help": "Acest!"
+		},
+		"howTo": "**Cum îmi adaug serverul la DISBOARD?**\n\n 1. Conectați-vă pe site-ul DISBOARD,\n 2. Accesați Tabloul de bord,\n 3. Faceți clic pe \"Add New Server\"\nCompletați informațiile despre server și salvați-le. Veți fi redirecționat către ecranul de autorizare al Discord. Dacă nu, faceți clic pe butonul \"Add Bot\" de pe pagina de editare a serverului.",
+		"adminOnly": "Doar administratori.",
+		"supportServer": {
+			"embed": "Nevoie de ajutor? Alăturați-vă [serverului de asistență]({{ invite }}).",
+			"text": "Nevoie de ajutor? Alăturați-vă serverului de asistență:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Acest server nu mai este listat deoarece invitația a fost ștearsă.\n*Esti administrator? Regenerați invitația rulând `{{ command }}`*",
+		"deprecation": {
+			"message": "⚠️ **Comenzile obișnuite sunt înlocuite în favoarea comenzilor slash.**\nDe la <t:{{ timestamp }}:F> comenzile obișnuite nu vor mai funcționa și bot-ul va răspunde doar la comenzile slash.\nÎncearcă să tastezi `/` pentru a vedea o listă de comenzi disponibile.",
+			"updateLink": "Dacă nu puteți vedea o listă de comenzi pentru DISBOARD, încercați să adăugați din nou botul prin linkul de mai jos:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "O eroare necunoscută s-a întamplat.\n\nÎncercați să rulați comanda din nou. Dacă eroarea persistă, anunțați-ne pe serverul nostru de asistență (<{{ supportServerInvite }}>).\n\nReferință eroare: `{{ errorId }}`",
+		"adminOnly": "Această comandă poate fi rulată numai de administratori.",
+		"invalidChannel": "Canal nevalid: {{ input }}\nÎncercați să menționați un canal, de exemplu: {{ exampleChannel }}.",
+		"invalidChannelType": "Pot crea o invitație doar în:\n• Un canal de text obișnuit.\n• Un canal de anunț.\n\nVă rugăm să specificați unul dintre tipurile de canale de mai sus pentru a crea o invitație.",
+		"invalidMention": "Mențiune nevalidă.",
+		"handlingCommand": "Mă ocup de comanda ta!",
+		"api": {
+			"down": "API-ul DISBOARD pare să fie oprit! :sob:\nVă rugăm să încercați din nou mai târziu.",
+			"timeout": "API-ul DISBOARD nu a răspuns la timp! :sob:\nVă rugăm să încercați din nou mai târziu."
+		},
+		"cooldown": {
+			"command": "Sunteți în așteptare. Va rugam asteptati {{ numSeconds }} secunde înainte de a rula din nou această comandă.",
+			"user": "Sunteți în așteptare. Va rugam asteptati {{ numSeconds }} secunde înainte de a rula din nou această comandă."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Nu am suficiente permisiuni pentru a crea o invitație:",
+				"withTarget": "Nu am suficiente permisiuni în canalul menționat pentru a crea o invitație:"
+			},
+			"instructions": {
+				"sameChannel": "Vă rog să-mi acordați permisiunile de mai sus pe acest canal.",
+				"withTarget": "Vă rog să-mi acordați permisiunile de mai sus în {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} Vizualizare canal\n{{ createInviteEmoji }} Creați invitație\n{{ manageChannelEmoji }} Gestionează canalul",
+			"followUp": "După ce ați făcut acest lucru, executați comanda: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Acest server este setat la **privat** și prin urmare, nu poate fi lovit.\n*Esti administrator? Setați-l la public din [panoul de bord]({{ dashboardLink }}) pentru a lovi acest server.*",
+				"text": "Acest server este setat la privat și, prin urmare, nu poate fi lovit.\n* Sunteți administrator? Setați-l ca public din tabloul de bord (<{{ dashboardLink }}>) pentru a lovi acest server.*"
+			},
+			"notFound": {
+				"embed": "Acest server nu a fost încă adăugat la DISBOARD.\n*Esti administrator? Adăugați acest server prin [tabloul de bord]({{ dashboardLink }}).*",
+				"text": "Acest server nu a fost încă adăugat la DISBOARD.\n*Esti administrator? Adăugați acest server prin tabloul de bord <{{ dashboardLink }}>.*"
+			},
+			"invalidInvite": {
+				"admin": "Serverul dvs. nu are un set de invitații valid. Foloseste {{ command }} pentru a seta invitația și apoi a rula din nou comanda.",
+				"member": "Acest server nu are un set de invitații valid. Cereți unui administrator să ruleze {{ command }} pentru a seta invitația și apoi să ruleze din nou comanda."
+			}
+
+		}
+	},
+	"debug": {
+		"server": "`Server ID`: {{ serverId }}",
+		"shard": "`Shard ID`: {{ shardId }}",
+		"cluster": "`Cluster ID`: {{ clusterId }}",
+		"invite": "`Invitație`: {{ invite }}",
+		"main": "`Limba Principala`: `{{ langCode }}`",
+		"default": "`Canalul Principal`: {{ defaultChannel }}",
+		"latency": "`Latentă`: {{ shardLatency }}ms"
+	},
+	"moderator": {
+		"is": "{{ user }} este un moderator al DISBOARD.",
+		"not": "{{ user }} nu este un moderator al DISBOARD."
+	}
+}
