@@ -12,7 +12,7 @@
 		"descriptions": {
 			"bump": "Bump server này.",
 			"page": "Lấy link đến trang DISBOARD của server.",
-			"invite": "Đặt link mời cho kênh này. nếu [channel] được nêu ra, link mời sẽ được đặt cho kênh đó.",
+			"invite": "Đặt link mời cho kênh này. nếu [channel] được nêu ra, link mời sẽ được đặt cho kênh đó. (Chỉ dành cho quản trị viên)",
 			"help": "Đây!"
 		},
 		"howTo": "**Làm cách nào để thêm server vào DISBOARD?**\n\n 1. Đăng nhập vào trang DISBOARD,\n 2. Đến Bảng điều khiển,\n 3. Nhấp vào \"Thêm server mới\"\nThêm thông tin về server của bạn và lưu. Bạn sẽ được chuyển hướng đến trang xác minh của Discord. Nếu không, nhấp vào nút \"Thêm bot\" trên trang chỉnh sửa server.",
