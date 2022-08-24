@@ -7,7 +7,7 @@ Just follow the **Japanese file** (`ja`) and do a PR to contribute. You will get
 Primary translator (The user with the most contribution in each language) is bolded. An asterisk means they're not in the support server. Languages are in the order as displayed on the website.
 
 * German: **Skidder#6775\* ([@GregTCLTK](https://github.com/GregTCLTK))**, synarvis#4228 ([@synarvis](https://github.com/synarvis)), MoaufmKlo#5171 ([@MoaufmKlo](https://github.com/MoaufmKlo)), TraaaashPanda#0001\* ([@TraaaashPanda](https://github.com/TraaaashPanda)),『DσυႦʅҽ Tαƈσ』#2006\* ([@Flo19802006](https://github.com/Flo19802006)), Tailer#0001\* ([@tai1er](https://github.com/tai1er))
-* Spanish: **Aimarekin#3872 ([@Aimarekin](https://github.com/Aimarekin))**
+* Spanish: **Aimarekin#3872 ([@Aimarekin](https://github.com/Aimarekin))**, **Vioshim#3939 ([@Vioshim](https://github.com/Vioshim))**
 * Filipino: **aeris#0018 ([@aeristhy](https://github.com/aeristhy))**
 * Czech: **Khaooss#8036 ([@Khaooss](https://github.com/Khaooss))**
 * French: **SmokyBird#6804 ([@SmokyBird](https://github.com/SmokyBird))**, **Tailer#0001\* ([@tai1er](https://github.com/tai1er))**
