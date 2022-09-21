@@ -88,7 +88,7 @@ return [
     'Language' => 'Dil',
     'Login' => 'Daxil ol',
     'Logout' => 'Çıxış et',
-    'Main Language' => 'Ana Dil',
+    'Main Language' => 'Əsas Dil',
     'Member Count' => 'Üzv Sayı',
     '<b>{number}</b> online' => '<b>{number}</b> aktiv',
     '<b>{number}</b> total' => '<b>{number}</b> ümumi',
