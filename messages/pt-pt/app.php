@@ -76,6 +76,7 @@ return [
     '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# minuto} other{# minutos}}',
     'New!' => 'Nova!',
     'New Review' => 'Avaliação Nova',
+    'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => 'Número máximo de servidores silenciados excedido. Para silenciar um servidor, vá a Definições de de-selencie outro servidor.',
     'More about {appName}' => 'Mais sobre {appName}',
     'Must be checked if the server\'s main theme is NSFW, such as sexually explicit content' => 'Deve estar ativo se o tema principal do servidor é NSFW, tal como conteúdo sexualmente explícito',
     'Mute this server' => 'Silenciar este servidor',
