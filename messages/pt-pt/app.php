@@ -170,6 +170,7 @@ return [
     'View' => 'Ver', // view server button on Dashboard
     'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => 'Porque não faz uma avaliação ao seu servidor favorito do <span class="discord-logo">Discord</span>?',
     'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => 'Porque não faz uma <a href="{reviewUrl}">avaliação ao <strong>{serverName}</strong></a>?',
+    'you are not alone' => 'você não está sozinho',
     'You have already muted {serverName}' => 'Você já silenciou o servidor {serverName}',
     'You haven\'t added a server yet' => 'Ainda não adicionou um servidor!',
     'You must be logged in to mute a server' => 'Você deve ter sessão iniciada para silenciar um servidor',
