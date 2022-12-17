@@ -17,14 +17,14 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Ascending' => 'تصاعدي',
+    'Ascending' => 'ترتيب تصاعدي',
     'Add New Server' => 'أضف سيرفر جديد',
     'Add Your Server' => 'أضف سيرفرك',
     'Add Bot' => 'أضف بوت',
-    'Add a Tag' => 'أضف تاغ',
+    'Add a Tag' => 'أضف تاق',
     'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => 'إنشىء دعوة فورية <b>و</b> إرسال الرسائل</b> صلاحيات البوت',
-    'Admin response' => 'رد الادمن',
-    'Admin servers' => 'سيفرات الأدمن',
+    'Admin response' => 'رد الأدمن',
+    'Admin servers' => 'سيرفرات الأدمن',
     'After that send this command: <span class="tag is-light">!d invite</span>' => 'من ثم إرسل هذا الأمر: <span class="tag is-light">!d invite</span>',
     'All Discord reviews' => 'جميع تقييمات الديسكورد',
     'All Discord servers' => 'جميع سيرفرات الديسكورد',
@@ -41,14 +41,14 @@ return [
     'Cancel' => 'إلغاء',
     'Categorize your server by keywords (e.g. game title)' => 'صنّف سيرفرك بكلمات مفتاحية مثل: اسم لعبة',
     'Category' => 'تصنيف',
-    '<b>Categories</b> and <b>Popular tags</b>' =>  '<b>تاغات مشهورة</b> و <b>تصنيفات</b>',
+    '<b>Categories</b> and <b>Popular tags</b>' =>  '<b>تاقات مشهورة</b> و <b>تصنيفات</b>',
     'Copied the URL' => 'تم نسخ الـرابط',
     'Could not bump the server because the invite link is invalid (expired?)' => 'لم يتم رفع السيرفر بنجاح لأن رابط الدعوة غير صالح',
     'Could not delete the server' => 'لم يتم حذف السيرفر',
     'Could not delete the review' => 'لم يتم حذف التقييم',
     'Created at {datetime}' => 'تم إنشاؤه بـ{datetime}',
     'Dashboard' => 'لوحة الإعدادات',
-    'Descending' => 'تنازلي',
+    'Descending' => 'ترتيب تنازلي',
     'Description' => 'وصف',
     'Delete server' => 'حذف السيرفر',
     'Delete reply' => 'حذف الرد',
@@ -59,7 +59,7 @@ return [
     'Discord Server Reviews' => 'تقييمات السيرفرات',
     'Discord Servers Bumped Recently' => 'سيرفرات تم رفعها مؤخراً',
     'Discord servers categorized as <strong>{category}</strong>' => '<strong>{category}</strong> تصنف سيرفرات الديسكورد لـ',
-    'Discord servers tagged with {tag}' => 'لسيرفرات بتاغ{tag}',
+    'Discord servers tagged with {tag}' => "لسيرفرات بتاق{tag}',
     '<span class="discord-logo">Discord</span> Servers' => '<span class="discord-logo">Discord</span> سيرفرات',
     'Discord servers tagged with <strong>{tag}</strong>' => '<strong>{tag}</strong>لسيرفرات بهاشتاغ',
     'Don\'t forget to check "Set this link to never expire"' => 'لا تنسَ جعل رابط الدعوة غير منتهي الصلاحية',
@@ -70,11 +70,11 @@ return [
     'Games' => 'ألعاب',
     'Gaming' => 'العب',
     'Get link' => 'احصل على الرابط',
-    'Go to Dashboard' => 'الذهاب للوحة الإعدادات',
+    'Go to Dashboard' => 'الذهاب للوحة التحكم',
     'Go Back' => 'الرجوع',
-    'Go Home' => 'اذهب الى القائمةالرئيسية',
+    'Go Home' => 'اذهب الى القائمة الرئيسية',
     'Guidelines' => 'التعليمات',
-    'Home' => 'القائمةالرئيسية',
+    'Home' => 'القائمة الرئيسية',
     'If you don\'t add the bot, you can NOT present information about your server, create an invitation link or bump up your servers with commands' => 'إذا لم تقم بإضافة البوت ، فلا يمكنك تقديم معلومات حول السيرفر الخاص بك ، أو إنشاء رابط دعوة أو رفع الأوامر إلى السيرفرات الخاصة بك',
     'If your server isn\'t in the above list or dropdown, sync with Discord manually' => 'إذا لم يكن السيرفر الخاص بك في القائمة أعلاه أو القائمة المنسدلة ، فقم بالمزامنة مع ديسكورد يدويًا',
     'Invite is not set' => 'لم يتم تعيين الدعوة',
@@ -164,8 +164,8 @@ return [
     'Sync servers' => 'تزامن السيرفرات',
     'Synced with Discord' => 'متزامن مع ديسكورد',
     'Tags' => 'تاغات',
-    'Tags similar to {tag}' => 'شعارات تشبه {tag}',
-    'Terms of Service' => 'شروط الاستخدام',
+    'Tags similar to {tag}' => 'شعارات مشابهة لـ {tag}',
+    'Terms of Service' => 'شروط الإستخدام',
     'The invite of this server is invalid or has expired.' => 'الدعاء لهذا السيرفر غير صالح او منتهي الصلاحية',
     'The report has been sent' => 'تم ارسال البلاغ',
     'The server is set to private' => 'هذا السيرفر خاص',
@@ -178,18 +178,18 @@ return [
     '{tag1} and {tag2}(nsfw) tags cannot be set together' => '{tag1} و {tag2} (غير امنة للعمل) لا يمكن ان تضع مع بعض',
     '<b>{total}</b> servers in total' => 'مجموع السيرفرات <b>{total}</b> ',
     '<b>{total}</b> reviews in total' => 'مجموع التقييمات <b>{total}</b>',
-    'Unmute' => 'ازالة الكتم',
+    'Unmute' => 'إزالة الكتم',
     'Unmuted {serverName}' => '{serverName} غير مكتوم',
     'Unspecified' => 'غير محدد',
     'Up to {limit} tags' => 'حتى {limit} اشعار',
     'User' => 'مستخدم',
     'Users' => 'مستخدمين',
     'View' => 'عرض', // view server button on Dashboard
-    'Want to be a partner?' => 'تريد ان تكون شريك؟',
+    'Want to be a partner?' => 'تود ان تكون شريك؟',
     'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => 'لماذا لا تقيم السيرفر <span class="discord-logo">Discord</span> المفضل لك؟',
     'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => 'لماذاا لا <a href="{reviewUrl}">تقيم <strong>{serverName}</strong></a>؟',
     'You have already muted {serverName}' => 'لقد كتمت {serverName} من قبل',
-    'You haven\'t added a server yet' => 'لم تضف سيرفر قط',
+    'You haven\'t added a server yet' => 'لم تضف سيرفر بعد',
     'You must be logged in to mute a server' => 'يجب تسجيل الدخول لكتم السيرفر ',
     'You must be a member of the server to review it' => 'يجب ان تكون في السيرفر لتعطي تقييمك',
     'You need to be in the server for at least {duration} days to review' => 'يجب ان تكون في السيرفر على الاقل {duration} ايام لتعطي تقييمك',
@@ -211,9 +211,9 @@ return [
     '{0, plural, =1{# second} other{# seconds}} ago' => '{0, plural, =1{# ثانية} other{# ثواني}} قبل',
     'DISBOARD was made to make everyone enjoy Discord more.<br>We hope you find awesome Discord servers and friends here 😊.' => 'ديسبورد عمل ليجعل الجميع يستمتع بديسكورد اكثر.<br>نأمل ان تجد سيرفرات واصدقاء رائعة 😊.',
     /* Rules, ToS */
-    'Name or description contains insult or swear words' => 'الاسم او الوصف فيه اهانات',
+    'Name or description contains insult or swear words' => 'الأسم او الوصف تحتوي على كلمات غير لائقة.',
     'Spam / fake server' => 'سيرفر غير حقيقي',
-    'Invite is invalid or expired' => 'الدعو غير صالح او منتهي الصلاحية',
+    'Invite is invalid or expired' => 'رابط الدعوه غير صالح او منتهي الصلاحية',
     /* Welcome Messages on home page */
     'Discover <span class="discord-logo">Discord</span> Servers' => 'اكتشف سيرفرات <span class="discord-logo">ديسكورد</span>',
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'نحن نصل <strong>سيرفرات الدسيكورد</strong> و <b>الناس</b> مع بعض',
