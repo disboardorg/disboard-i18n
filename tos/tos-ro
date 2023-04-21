@@ -1,0 +1,444 @@
+<?php
+utilizați yii\helpers\Url;
+
+$this->title = „Termeni și condiții”;
+?>
+<h1>
+     <?= $this->title ?>
+</h1>
+<p class="has-text-right is-italic">
+     Ultima modificare: 2023-04-21
+</p>
+<h2>Introducere</h2>
+<p class="tos-summary">
+     Acesta este DISBOARD. Prin utilizarea site-ului nostru, sunteți de acord cu următorii termeni.
+</p>
+<ul>
+    <li>
+         Următorii Termeni de utilizare (denumiți în continuare „Termeni”) stabilesc condiții care definesc utilizarea corectă a serviciului nostru (denumit în continuare „Serviciul”) furnizat de DISBOARD. (denumit în continuare „noi”, „nostru”).
+     </li>
+     <li>
+         Termenii sunt definiți ca niste condiții de utilizare pentru site-ul DISBOARD. Prin utilizarea site-ului DISBOARD, utilizatorii sunt de acord să respecte acești termeni.
+     </li>
+     <li>
+         Utilizarea site-ului DISBOARD indică faptul că utilizatorii au citit și au acceptat acești termeni, cu condiția ca utilizatorii să aibă vârsta peste 18 în jurisdicția lor sau că tutorii lor legali au revizuit și sunt de acord cu acești termeni dacă utilizatorii au vârsta sub vârsta majoratului în jurisdicția lor. .
+     </li>
+</ul>
+
+<h2>Modificări</h2>
+<p class="tos-summary">Putem modifica oricând acești termeni, așa că ar trebui să verificați în mod regulat.</p>
+<ul>
+     <li>
+         Putem revizui și actualiza acești Termeni în orice moment, cu sau fără notificare pentru orice utilizator.
+     </li>
+     <li>
+         Modificările termenilor vor intra în vigoare atunci când sunt actualizate pe site-ul DISBOARD, cu excepția cazului în care se menționează altfel.
+     </li>
+     <li>
+         Dacă un utilizator continuă să folosească Serviciul după orice modificare a acestor Termeni, utilizatorul va fi obligat să respecte cea mai nouă versiune a acestor Termeni.
+     </li>
+</ul>
+</p>
+
+<h2>Politica de confidențialitate</h2>
+<p class="tos-summary">
+Această politică de confidențialitate va explica modul în care organizația noastră utilizează datele personale pe care le colectăm de la dvs. atunci când utilizați site-ul nostru web.
+</p>
+
+<h3>Ce date colectăm?</h3>
+<p>DISBOARD colectează următoarele date:</p>
+<ul>
+     <li>
+         Jurnalele de activitate pe site-ul DISBOARD
+     </li>
+     <li>
+         Informații furnizate de API-ul Discord, cu excepția adresei de e-mail
+     </li>
+</ul>
+
+<h3>Minori</h3>
+<p>
+Serviciile noastre sunt destinate utilizatorilor cu vârsta de 13 ani și peste și nu colectăm cu bună știință informații personale de la copii sub 13 ani. Dacă sunteți părinte sau tutore al unui copil cu vârsta sub 13 ani și credeți că acesta a dezvăluit informații personale către noi, vă rugăm să ne contactați. Pentru rezidenții SEE, unde prelucrarea informațiilor personale se bazează pe consimțământ, DISBOARD nu se va implica cu bună știință în acea prelucrare pentru utilizatorii sub vârsta consimțământului stabilită de legea aplicabilă privind protecția datelor. Dacă aflăm că suntem implicați în acea prelucrare cu acești utilizatori, vom opri această prelucrare și vom lua măsuri rezonabile pentru a elimina prompt informațiile aplicabile din înregistrările noastre.
+</p>
+
+<h3>Cum colectăm datele dvs.?</h3>
+<p>
+     Colectăm date și procesăm date atunci când:
+</p>
+<ul>
+     <li>
+         Te înregistrezi online pentru oricare dintre serviciile noastre.
+     </li>
+     <li>
+         Creați voluntar o listă de server, o recenzie sau un răspuns la o recenzie.
+     </li>
+     <li>
+         Utilizați sau vizualizați site-ul nostru prin intermediul modulelor cookie ale browserului dumneavoastră.
+     </li>
+</ul>
+
+<h3>Cum vom folosi datele dvs.?</h3>
+<p>
+     Vom folosi informațiile private primite numai în următoarele scopuri:
+</p>
+<ul>
+     <li>
+         Pentru a ne furniza serviciul.
+     </li>
+     <li>
+         Pentru a taxa utilizatorii care folosesc serviciul nostru cu plată.
+     </li>
+     <li>
+         Ca date determinante pentru îmbunătățirea acestui serviciu sau adăugarea unui nou serviciu.
+     </li>
+     <li>
+         Pentru a preveni utilizarea încălcării condițiilor de utilizare a acestui serviciu.
+     </li>
+     <li>
+         Pentru a colecta date statistice privind utilizarea de către utilizatori (în cazul colectării unor astfel de date, datele vor fi modificate pentru a nu identifica o persoană).
+     </li>
+     <li>
+         Pentru a înțelege situația de utilizare a utilizatorilor și a le folosi pentru îmbunătățirea acestui serviciu și dezvoltarea de noi servicii.
+     </li>
+     <li>
+         Pentru a furniza informații cu privire la diverse servicii de membru și alte diverse servicii pe care le oferim.
+     </li>
+</ul>
+
+<h3>Cum stocăm datele dvs.?</h3>
+<p>
+Compania noastră stochează în siguranță datele dumneavoastră în facilități de găzduire ale terților. <br>
+Compania noastră va păstra datele dumneavoastră până când veți solicita în mod explicit ștergerea acestora.
+</p>
+
+<h3>Marketing</h3>
+<p>Nu distribuim datele dvs. în scopuri de marketing.</p>
+
+<h3>Care sunt drepturile dvs. de protecție a datelor?</h3>
+<p>Compania noastră ar dori să se asigure că sunteți pe deplin conștient de toate drepturile dvs. de protecție a datelor. Fiecare utilizator are dreptul la următoarele:</p>
+<ul>
+     <?php /*
+     <li>
+         Dreptul de acces – Aveți dreptul de a solicita Companiei noastre copii ale datelor dumneavoastră personale. Este posibil să vă percepem o mică taxă pentru acest serviciu.
+     </li>
+     <li>
+         Dreptul la rectificare – Aveți dreptul de a solicita companiei noastre să corecteze orice informație pe care o considerați inexacte. De asemenea, aveți dreptul de a solicita Companiei noastre să completeze informațiile pe care le considerați incomplete.
+     </li>
+     */ ?>
+     <li>
+         Dreptul la ștergere – Aveți dreptul de a solicita ca Compania Noastră să șteargă datele dumneavoastră cu caracter personal, în anumite condiții.
+     </li>
+     <li>
+         Dreptul de a restricționa prelucrarea – Aveți dreptul de a solicita companiei noastre să restricționeze prelucrarea datelor dumneavoastră cu caracter personal, în anumite condiții.
+     </li>
+     <?php /*
+     <li>
+         Dreptul de a vă opune prelucrării – aveți dreptul de a vă opune prelucrării de către Compania Noastră a datelor dumneavoastră cu caracter personal, în anumite condiții.
+     </li>
+     <li>
+         Dreptul la portabilitatea datelor – Aveți dreptul de a solicita ca Compania noastră să transfere datele pe care le-am colectat către o altă organizație, sau direct către dumneavoastră, în anumite condiții.
+     </li>
+     */ ?>
+     <li>
+         Dacă faceți o cerere, avem la dispoziție o lună pentru a vă răspunde. Dacă doriți să vă exercitați oricare dintre aceste drepturi, vă rugăm să ne contactați.
+     </li>
+</ul>
+
+<h3>Cookie-uri</h3>
+<p>
+Cookie-urile sunt fișiere text plasate pe computerul dumneavoastră pentru a colecta informații standard de jurnal de Internet și informații despre comportamentul vizitatorilor. Când vizitați site-ul nostru web, este posibil să colectăm informații de la dvs. automat prin cookie-uri sau tehnologii similare.
+Pentru mai multe informații, vizitați https://allaboutcookies.org.
+</p>
+
+<h4>Cum folosim cookie-urile?</h4>
+<p>
+     Compania noastră folosește cookie-uri într-o serie de moduri pentru a vă îmbunătăți experiența pe site-ul nostru web, inclusiv:
+</p>
+<ul>
+     <li>
+         Vă păstrează conectat
+     </li>
+     <li>
+         Înțelegerea modului în care utilizați site-ul nostru
+     </li>
+</ul>
+
+<h4>Ce tipuri de cookie-uri folosim?</h4>
+<p>Există o serie de tipuri diferite de cookie-uri, cu toate acestea, site-ul nostru web utilizează:</p>
+<ul>
+     <li>
+         Funcționalitate - DISBOARD utilizează aceste cookie-uri astfel încât să recunoaștem informațiile dvs. de conectare pe site-ul nostru web și să ne amintim preferințele selectate anterior. Acestea ar putea include limba pe care o preferați. Se utilizează o combinație de cookie-uri primare și terțe.
+     </li>
+     <li>
+         Performanță - DISBOARD folosește aceste cookie-uri pentru a ne îmbunătăți serviciile.
+     </li>
+</ul>
+
+<h3>Google Analytics</h3>
+<p>
+     Pentru a colecta informații despre modul în care vizitatorii folosesc site-ul nostru web și pentru a îmbunătăți modul în care funcționează serviciile noastre, utilizăm Google Analytics pe acest site web. Puteți afla mai multe despre cum funcționează Google Analytics și despre cum sunt colectate informațiile din termenii și condițiile Google Analytics și din politica de confidențialitate Google.
+</p>
+<ul>
+     <li>
+         Termenii de utilizare Google Analytics
+         https://marketingplatform.google.com/about/analytics/terms/us/
+     </li>
+     <li>
+         Politica de confidențialitate Google
+         https://policies.google.com/privacy
+     </li>
+</ul>
+<p>
+     Pentru a renunța la Google Analytics, descărcați „Opt-out Browser Add-on” de la adresa URL de mai jos. După ce îl instalați, veți putea edita setările Google Analytics.
+     Supliment de browser pentru renunțarea la Google Analytics
+     https://tools.google.com/dlpage/gaoptout
+</p>
+
+<h3>reCaptcha</h3>
+<p>
+     Folosim serviciul reCAPTCHA oferit de Google Inc. (Google) pentru a vă proteja trimiterile prin intermediul formularelor de trimitere pe internet de pe acest site. Acest plugin verifică dacă sunteți o persoană pentru a preveni (a)utilizarea anumitor funcții ale site-ului web de către roboții de spam. Această interogare de plugin include trimiterea adresei IP și, eventual, a altor date solicitate de Google pentru serviciul Google reCAPTCHA. În acest scop, contribuția dvs. va fi comunicată și utilizată de Google. Cu toate acestea, adresa dvs. IP este trunchiată anterior de Google în statele membre ale Uniunii Europene sau în alte state care sunt parte la acordul privind Spațiul Economic European și este, ca atare, anonimizată. Doar în cazuri excepționale, o adresă IP completă este transmisă unui server Google din Statele Unite și trunchiată acolo. În numele operatorului acestui site web, Google va folosi aceste informații pentru a evalua utilizarea de către dumneavoastră a acestui serviciu. Adresa IP furnizată de reCaptcha din browserul dumneavoastră nu va fi îmbinată cu alte date de la Google.
+</p>
+
+<h3>Cum să gestionați cookie-urile</h3>
+<p>
+     Puteți seta browserul să nu accepte cookie-uri, iar site-ul web de mai sus vă spune cum să eliminați cookie-urile din browser. Cu toate acestea, în câteva cazuri, este posibil ca unele dintre funcțiile site-ului nostru web să nu funcționeze ca urmare.
+</p>
+
+<h3>Politicile de confidențialitate ale altor site-uri web</h3>
+<p>
+     Site-ul DISBOARD.org conține link-uri către alte site-uri web. Politica noastră de confidențialitate se aplică numai site-ului nostru web, așa că dacă faceți clic pe un link către un alt site web, ar trebui să citiți politica de confidențialitate a acestora.
+</p>
+
+<h3>Modificări ale politicii noastre de confidențialitate</h3>
+<p>
+     DISBOARD își păstrează politica de confidențialitate sub control regulat și plasează orice actualizări pe această pagină web. Această politică de confidențialitate a fost actualizată ultima dată la data menționată în partea de sus a paginii.
+</p>
+
+<h3>Cum să ne contactați</h3>
+<p>
+     Dacă aveți întrebări despre politica de confidențialitate a Companiei noastre, datele pe care le deținem despre dvs. sau doriți să vă exercitați unul dintre drepturile dvs. de protecție a datelor, vă rugăm să nu ezitați să ne contactați.<br>
+     Server Discord: <a href="<?= Yii::$app->params['discordServer']['en'] ?>"><?= Yii::$app->params['discordServer'][ „en”] ?></a> (Proprietar: Taki#0526) <br>
+     (Notă: atunci când doriți să adresați o întrebare, asigurați-vă că ați precizat conținutul solicitării dvs. (Nu vom putea răspunde la întrebarea dvs. dacă nu este specificat clar)
+</p>
+
+<h3>Pentru rezidenții din California</h3>
+<p>
+     DISBOARD nu își urmărește clienții de-a lungul timpului și pe site-urile web ale terților pentru a oferi publicitate direcționată și, prin urmare, nu răspunde la semnalele Do Not Track (DNT). Cu toate acestea, unele site-uri terțe țin evidența activităților dvs. de navigare atunci când vă oferă conținut, ceea ce le permite să adapteze ceea ce vă prezintă. Dacă vizitați astfel de site-uri, este responsabilitatea dumneavoastră să activați semnalele DNT în browser.
+</p>
+
+<h2>Dreptul de dezaprobare la calitatea de membru</h2>
+<p class="tos-summary">
+     Vă putem refuza înregistrarea.
+</p>
+<ul>
+     <li>
+         Oricine este de acord cu acești Termeni poate aplica pentru calitatea de membru utilizând instrumentele de înregistrare furnizate de DISBOARD pentru a utiliza acest Serviciu.
+     </li>
+     <li>
+         Oricine aplică pentru acest Serviciu (denumit în continuare „solicitant”) devine utilizator atunci când acceptăm aplicația.
+     </li>
+     <li>
+         Putem decide să refuzăm o cerere din partea unui solicitant fără a dezvălui motivul în următoarele cazuri:
+         <ul>
+             <li>
+                 Reclamantul nu a aplicat prin clauza precedentă 2.
+             </li>
+             <li>
+                 Solicitantul a fost pedepsit cu retragerea din serviciu din cauza încălcării termenilor sau a altor condiții.
+             </li>
+             <li>
+                 Am considerat cererea nepotrivită.
+             </li>
+         </ul>
+     </li>
+</ul>
+
+<h2>Întreținerea mediului utilizator</h2>
+<p class="tos-summary">
+     Sunteți singurul responsabil pentru contul/proprietățile dvs.
+</p>
+<ul>
+     <li>
+         Utilizatorul va menține tot hardware-ul necesar pentru a utiliza acest serviciu pe cheltuiala și responsabilitatea utilizatorului.
+     </li>
+     <li>
+         Utilizatorul trebuie să ia măsurile adecvate pentru a preveni dispozitivele sale de viruși, acces neautorizat sau scurgere de informații.
+     </li>
+     <li>
+         Nu avem nicio implicare sau responsabilitate în mediul utilizatorului și în proprietatea personală.
+     </li>
+</ul>
+
+<h2>Responsabilitatea utilizatorului</h2>
+<p class="tos-summary">
+     Sunteți singurul responsabil pentru acțiunile dvs.
+</p>
+<ul>
+     <li>
+         Utilizatorul este pe deplin responsabil pentru utilizarea acestui serviciu și își asumă responsabilitatea pentru acțiunile și rezultatele cauzate de utilizarea acestui serviciu.
+     </li>
+     <li>
+         Utilizatorul este pe deplin responsabil pentru toate datele pe care utilizatorul le postează pe acest serviciu. Nu suntem responsabili pentru conținutul pe care utilizatorul îl postează pe serviciu.
+     </li>
+     <li>
+         Utilizatorul trebuie să rezolve responsabilitatea și cheltuielile utilizatorului atunci când utilizatorul se comportă într-o manieră defăimătoare, încalcă dreptul la confidențialitate, dezvăluie informațiile terțelor părți fără permisiune sau încalcă legile privind drepturile de autor. Nu ne asumăm nicio responsabilitate.
+     </li>
+</ul>
+
+<h2>Acte interzise</h2>
+<p class="tos-summary">
+     Există lucruri pe care nu le puteți face pe acest site, enumerate mai jos.
+</p>
+<p>
+     Actele descrise mai jos sunt interzise pe acest serviciu. Când utilizatorul efectuează acte interzise,
+     putem rezilia sau suspenda calitatea lor de membru, ștergem o parte sau toate datele din cont sau putem modifica limitarea de publicare a utilizatorului.
+     (Cu toate acestea, nu suntem obligați să luăm aceste măsuri și nu ne asumăm obligația de a dezvălui motivul pentru care luăm aceste măsuri.)
+</p>
+<ul>
+     <li>
+         Pentru a încălca <a href="<?= Url::to(['/site/guidelines']) ?>">Regulament</a>
+     </li>
+     <li>
+         Postarea datelor, inclusiv următorul conținut:
+         <ul>
+             <li>
+                 Pornografia infantilă sau abuzul asupra copiilor, care încalcă legile, regulamentul.
+             </li>
+             <li>
+                 Informații care provoacă defăimare.
+             </li>
+             <li>
+                 Informații de identificare personală.
+             </li>
+             <li>
+                 Informații pe care le considerăm nepotrivite.
+             </li>
+         </ul>
+     </li>
+     <li>
+         Retipărirea datelor de pe acest site fără permisiunea creatorului sau a noastră.
+     </li>
+     <li>
+         Orice acțiune care încalcă legile, moralitatea, termenii sau alte condiții sau pe care o considerăm că încalcă dreptul altora.
+     </li>
+     <li>
+         Punerea unei sarcini asupra serverului peste extinderea normală sau deteriorarea operațiunii de serviciu sau a sistemului de rețea.
+     </li>
+     <li>
+         Orice alte acțiuni considerate nepotrivite de către compania noastră.
+     </li>
+</ul>
+
+<h2>Modificarea serviciului</h2>
+<p class="tos-summary">
+     Putem schimba/încheia acest serviciu în orice moment și nu suntem responsabili.
+</p>
+<ul>
+     <li>
+         Putem adăuga, modifica, întrerupe și/sau rezilia acest serviciu în orice moment fără notificare prealabilă.
+     </li>
+     <li>
+         Nu suntem responsabili pentru nicio adăugare, modificare, suspendare sau încetare a acestui serviciu.
+     </li>
+</ul>
+
+<h2>Taxe</h2>
+<p>
+     DISBOARD este folosit gratuit.<br>
+     Este planificat serviciul premium. În acest caz, acesta va fi descris separat în termenii și condițiile serviciului premium.
+</p>
+
+<h2>Dreptul la date</h2>
+<p class="tos-summary">
+     Tot ceea ce postezi trebuie să fie al tău de drept. În caz de dispute, vă ocupați de el. Nu ne aduce foc.
+</p>
+<p>
+     Utilizatorul care postează date utilizând acest serviciu va garanta că datele nu încalcă niciun drept al unei terțe părți. În cazul în care apar dispute precum încălcarea dreptului unei terțe părți din cauza postării datelor, utilizatorul trebuie să rezolve disputa pe răspunderea și cheltuiala utilizatorului. Utilizatorul nu va cauza niciun prejudiciu companiei noastre.
+</p>
+
+<h2>Licență de date</h2>
+<p class="tos-summary">
+     Acest serviciu este al nostru. Ne acordați permisiunea de a vă folosi datele. Le putem revizui periodic.
+</p>
+<ul>
+     <li>
+         Drepturile de proprietate intelectuală și alte drepturi referitoare la informații, servicii, programe etc. atașate acestui serviciu ne aparțin.
+     </li>
+     <li>
+         Toate datele postate pe acest serviciu sunt dreptul de autor al utilizatorului care a creat textul sau/și imaginile. Prin postarea oricăror date pe site-ul DISBOARD, acel utilizator ne acordă o licență perpetuă, la nivel mondial, fără drepturi de autor, irevocabilă de a transmite, stoca, modifica și afișa acele date pentru a presta serviciile descrise pe site-ul DISBOARD.
+     </li>
+     <li>
+         Compania noastră poate utiliza și revizui datele postate de un utilizator pentru buna funcționare a serviciului nostru și/sau construirea, îmbunătățirea sau menținerea sistemului nostru în intervalul necesar.
+     </li>
+</ul>
+
+<h2>Declinarea răspunderii</h2>
+<p class="tos-summary">
+     Nu suntem responsabili pentru daune. Ochii orbi nu contează ca renunțări.
+</p>
+<ul>
+     <li>
+         Nu ne preocupă compania noastră cu vreo dispută sau comunicare greșită între utilizatori. În cazul în care apare vreo dispută între utilizatori, utilizatorii trebuie să o rezolve pe răspunderea utilizatorilor. Nu ne asumăm nicio responsabilitate pentru orice dispută sau comunicare greșită între utilizatori.
+     </li>
+     <li>
+         În orice moment, putem revizui, întrerupe sau întrerupe serviciul fără notificare prealabilă atunci când considerăm că este necesar. Nu ne asumăm nicio responsabilitate pentru orice daune rezultate din modificările acestui serviciu. Mai mult, același lucru se aplică atunci când încetinirile sau eșecurile au loc din cauza supraîncărcării serverului sau a oricăror alți factori neaștepți.
+     </li>
+     <li>
+         Nu avem nicio obligație de a gestiona sau stoca datele postate de un utilizator.
+     </li>
+     <li>
+         Disboard nu este responsabil pentru niciun conținut creat sau încărcat pe site de către niciun utilizator. Disboard va lua toate măsurile rezonabile pentru a elimina conținutul care este ilegal sau care încalcă acești Termeni, dar Disboard nu își va asuma responsabilitatea pentru niciun conținut care nu este eliminat.
+     </li>
+     <li>
+         Putem să reziliem sau să suspendăm calitatea de membru, să ștergem toate sau o parte din datele sau să modificăm limitarea publicată a utilizatorului atunci când considerăm că există suficiente motive pentru a susține că utilizatorul a încălcat sau ar fi putut încălca termenii sau alte condiții. Nu ne asumăm nicio responsabilitate pentru orice daune rezultate din această acțiune.
+     </li>
+     <li>
+         Neexercitarea sau aplicarea oricărui drept sau prevedere a acestor Termeni nu va constitui o renunțare la un astfel de drept sau prevedere și nicio renunțare de către oricare dintre părți la vreo încălcare sau nerespectare în temeiul prezentei Condiții nu va fi considerată a fi o renunțare la oricare dintre cele precedente sau ulterioare. încălcarea sau implicit.
+     </li>
+</ul>
+
+<h2>Valabilitatea Termenilor și a altor condiții</h2>
+<p class="tos-summary">
+     Dacă o parte a legii, sau un contract privat, neagă anumite părți ale termenilor, celelalte părți rămân intacte.
+</p>
+<ul>
+     <li>
+         Dacă orice parte a acestor Termeni este considerată nevalidă de către o instanță judecătorească competentă, părțile rămase ale acestor Termeni se vor aplica în plin efect.
+     </li>
+     <li>
+         Dacă decidem să anulăm o parte din acești Termeni într-un contract scris cu orice utilizator, părțile rămase din acești Termeni vor rămâne în vigoare.
+     </li>
+</ul>
+
+<h2>Procedura pentru accesul interzis</h2>
+<p class="tos-summary">
+     Aceastea sunt măsurile pentru a vă pedepsi atunci când orice membru a încălcat regulile.
+</p>
+<ul>
+     <li>
+         În cazul în care se constată că utilizatorul a încălcat acești Termeni și alți termeni de utilizare etc. și în alte cazuri, dacă considerăm că este necesar, putem lua următoarele măsuri. Cu toate acestea, nu suntem obligați să luăm aceste măsuri și nu ne asumăm nicio obligație de a dezvălui motivul pentru care luăm aceste măsuri.
+         <ul>
+             <li>
+                 Solicitați ștergerea sau revizuirea datelor.
+             </li>
+             <li>
+                 Ștergeți o parte sau toate datele, modificați intervalul de publicare sau dezactivați navigarea.
+             </li>
+             <li>
+                 Modificați accesul utilizatorului la acest serviciu.
+             </li>
+             <li>
+                 Executarea obligatorie pentru încetarea calității de membru.
+             </li>
+             <li>
+                 Refuzul acceptării calității de membru.
+             </li>
+         </ul>
+     </li>
+     <li>
+         Utilizatorul nu va avea obiecții cu privire la măsurile noastre.
+     </li>
+     <li>
+         DISBOARD nu este obligat să compenseze sau să negocieze cu utilizatorii în acțiunile descrise în această secțiune.
+     </li>
+</ul>
