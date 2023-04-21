@@ -1,0 +1,53 @@
+<?php
+/*
+ * DO NOT EDIT ANY CODE WITHIN <?php ?> <?= ?> TAGS
+ * YOU CAN TRANSLATE THEM IN MESSAGE FILES
+ */
+use yii\helpers\Url;
+
+$this->context->layout = 'focus';
+
+$this->title = Yii::t('app', 'Instrucțiuni');
+?>
+<h1>
+    <?= $this->title ?>
+</h1>
+<p class="has-text-right is-italic">
+    Last Modified: 2023-04-21
+</p>
+<p>
+    Pentru a menține o comunitate în siguranță, există câteva reguli pe care trebuie să le urmați <br>
+     Folosind DISBOARD, sunteți de acord cu următoarele reguli:
+</p>
+<ul>
+    <li>
+        Utilizarea înjurăturilor, cuvintelor murdare sau NSFW (conținut sexual) la discreția noastră în meta (titlu, descriere și imagine), recenzie sau alt conținut care poate fi văzut de alți utilizatori în DISBOARD nu este permisă. Acest lucru va duce la eliminarea conținutului, cu toate acestea, veți putea să repostați conținutul folosind un limbaj adecvat.
+    </li>
+    <li>
+        Nu aveți dreptul să încălcați nicio lege sau reglementare din țara dumneavoastră de reședință sau să promovați încălcarea acestora.
+    </li>
+    <li>
+        Serverele care încalcă <a href="https://discordapp.com/guidelines" target="_blank">Regulile comunității Discord</a> nu sunt permise.
+    </li>
+    <li>
+        Utilizarea roboților sau a altor scripturi pentru a efectua automat acțiuni în DISBOARD, cum ar fi deplasarea unui server („auto-bump”) nu este permisă. Bumping, crearea de recenzii și etc. trebuie făcute manual.
+    </li>
+    <li>
+        Nu aveți dreptul să listați servere care servesc exclusiv scopului de a redirecționa sau de a face publicitate altor servere sau care nu au conținut (la discreția noastră).
+    </li>
+    <li>
+        Nu puteți recompensa sau forța utilizatorii să facă acțiuni în DISBOARD. De exemplu, nu trebuie să recompensați utilizatorii pentru postarea unei recenzii frumoase pe un server sau să-i forțați să intre pe un server.
+
+    </li>
+    <li>
+        Nu puteți crea mai multe conturi de DISCORD pentru a trimite mai multe recenzii. Vă rugăm, postați o recenzie individual.
+    </li>
+    <li>
+        Toate serverele care se bazează în principal pe NSFW (conținut sexual) trebuie să fie marcate ca "NSFW" în DISBOARD.
+
+    </li>
+</ul>
+
+<p>
+    Consultați, de asemenea, <a href="<?= Url::to(['/site/tos']) ?>"><?= Yii::t('app', 'Termenii serviciilor'); ?></a>
+</p>
