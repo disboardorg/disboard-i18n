@@ -16,8 +16,8 @@ $this->title = Yii::t('app', 'Guidelines');
     Zuletzt geändert: 2020-04-10
 </p>
 <p>
-    Um eine sichere Gemeinschaft zu gewährleisten, gibt es einige Richtlinien, die von dir befolgt werden müssen <br>
-    Durch die Verwendung von DISBOARD erklärst du dich mit folgenden Richtlinien einverstanden:
+    Um eine sichere Gemeinschaft zu gewährleisten, gibt es einige Richtlinien, die du befolgen musst <br>
+    Indem du DISBOARD nutzt, stimmst du den folgenden Richtlinien zu:
 </p>
 <ul>
     <li>
