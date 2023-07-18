@@ -3,7 +3,7 @@ return [
     'Ascending' => 'Crescător',
     'Add New Server' => 'Adăugați un server nou',
     'Add Your Server' => 'Adăugați serverul dvs.',
-    'Add Bot' => 'Adăugați un bot',
+    'Add Bot' => 'Adăugați botul',
     'Add a Tag' => 'Adăugați o etichetă',
     'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => 'Adăugați permisiunile <b>CREATE_INSTANT_INVITE</b> și <b>SEND_MESSAGES</b> la botul DISBOARD.',
     'Admin response' => 'Răspunsul administratorului',
