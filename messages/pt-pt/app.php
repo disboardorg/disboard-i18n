@@ -72,6 +72,7 @@ return [
     'New!' => 'Nova!',
     'Newer' => 'Novos',
     'New Review' => 'Avaliação Nova',
+    'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => 'Número máximo de servidores silenciados excedido. Para silenciar um servidor, vá a Definições de de-selencie outro servidor.',
     'More about {appName}' => 'Mais sobre {appName}',
     'Not Found' => 'Não encontrado',
     'No reviews and ratings yet' => 'Ainda não há avaliações nem classificações',
