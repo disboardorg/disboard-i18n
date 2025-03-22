@@ -22,10 +22,10 @@ return [
     'Add Your Server' => 'أضف سيرفرك',
     'Add Bot' => 'أضف بوت',
     'Add a Tag' => 'أضف تاغ',
-    'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => 'إنشىء دعوة فورية <b>و</b> إرسال الرسائل</b> صلاحيات البوت',
+    'Add <b>CREATE_INSTANT_INVITE</b> permission to DISBOARD bot.' => 'إنشىء دعوة فورية <b>و</b> إرسال الرسائل</b> صلاحيات البوت',
     'Admin response' => 'رد الادمن',
     'Admin servers' => 'سيفرات الأدمن',
-    'After that send this command: <span class="tag is-light">!d invite</span>' => 'من ثم إرسل هذا الأمر: <span class="tag is-light">!d invite</span>',
+    'After that send this command: <span class="tag is-light">/invite</span>' => 'من ثم إرسل هذا الأمر: <span class="tag is-light">/invite</span>',
     'All Discord reviews' => 'جميع تقييمات الديسكورد',
     'All Discord servers' => 'جميع سيرفرات الديسكورد',
 	'All shards are operational!' => 'جميع الشاردات تعمل!',
@@ -55,6 +55,7 @@ return [
     'Delete review' => 'حذف التقييم',
     'DISBOARD bot API server is offline' => 'ديسبورد غير متاح حالياً',
     'DISBOARD bot must be in the server to review' => 'بوت الديسبورد يجب أن يكون في السيرفر للتقييم',
+    'Discord servers partnered with <span class="brand">DISBOARD</span>' => 'سيرفرات ديسكورد مشتركة مع <span class="brand">ديسبورد</span> ',
     'Discord Server List' => 'قائمة سيرفرات الديسكورد',
     'Discord Server Reviews' => 'تقييمات السيرفرات',
     'Discord Servers Bumped Recently' => 'سيرفرات تم رفعها مؤخراً',
@@ -82,6 +83,7 @@ return [
     'Invite Link' => 'رابط الدعوة',
     'Invalid Invite' => 'رابط غير صحيح',
     'Join <a href="{invite}">our server</a> and check the requirements on <span class="tag is-light">#partners</span> channel' => 'ادخل <a href="{invite}">سيرفرنا</a> وانظر الى المتطلبات على قناة <span class="tag is-light">#partners</span>',
+    'Join' => 'انضم',
     'Join this Server' => 'انضم إلى هذا السيرفر',
     'Join this server to be the first reviewer!' => 'إنضم إلى السيرفر لتكون أول مقيم!',
     'Language' => 'لغة',
@@ -93,9 +95,9 @@ return [
     '<b>{number}</b> total' => '<b>{number}</b> الكلي', // toal member count
     '{time, plural, =1{# minute} other{# minutes}}' => '{time, plural, =1{# دقيقة} other{# دقائق}}',
     'New!' => '!جديد',
+    'Newer' => 'أحدث',
     'New Review' => 'إضافة تقييم',
-    'Must be checked if the server\'s main theme is NSFW, such as sexually explicit content' => 'يجب ان يكون منقور اذا كان موضوع السيرفر الاساسي غير آمن لاستخدام الأطفال'
-	'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => 'تم تجاوز الحد الأقصى لعدد السيرفرات التي تم كتم صوتها. لكتم صوت سيرفر ، انتقل إلى "الإعدادات" وألغِ كتم صوت سيرفر آخر.',
+    'Maximum number of muted servers exceeded. To mute a server, go to Settings and unmute another server.' => 'تم تجاوز الحد الأقصى لعدد السيرفرات التي تم كتم صوتها. لكتم صوت سيرفر ، انتقل إلى "الإعدادات" وألغِ كتم صوت سيرفر آخر.',
     'More about {appName}' => '{appName} المزيد عن',
     'Mute this server' => 'كتم السيرفر',
     'Muted servers' => 'السيرفرات المكتومة',
@@ -123,7 +125,6 @@ return [
     'Rating' => 'التقييم',
     'Ratings & Reviews' => 'التقييمات',
     'Read more' => 'اعرف المزيد',
-    'reCAPTCHA failed' => 'reCAPTCHAفشل في الـ',
     'Recommended' => 'موصى به',
     'Redirecting' => 'إعادة توجيه',
     'Reply' => 'كتابة رد',
@@ -150,11 +151,12 @@ return [
     'Select a Server' => 'اختر سيرفر',
     'Select a server to add to the public server list on DISBOARD' => 'اختر سيرفر لإضافته لقائمة السيرفرات العامة',
     'Select a server to review' => 'اختر سيرفر للتقييم',
-    'Send the invite command: `!d invite #channel`' => 'إرسل امر: `d invite #channel!`',
+    'Send the invite command: `/invite #channel`' => 'إرسل امر: `d invite #channel!`',
     'Separate by <b>space</b>' => 'اافصل ب <b>space</b>',
     'Settings' => 'الإعدادات',
     'Servers' => 'سيرفرات',
     'Server admin?' => 'أدمن السيرفر؟',
+    'Server Language' => 'لغة الخادم',
     '{num, plural, =1{# shard is dead} other{# shards are dead}}' => '{num, plural, =1{الشارد # لا يعمل} other{# شارد لا تعمل}}',
     'Showing <b>{from}</b> - <b>{to}</b> of <strong>{total} servers</strong>' => 'يتم عرض <b>{from}</b> - <b>{to}</b> من <strong>{total} سيرفرات</strong>',
     'Showing <b>{from}</b> - <b>{to}</b> of <strong>{total} reviews</strong>' => 'يتم عرض <b>{from}</b> - <b>{to}</b> من <strong>{total} تقييمات</strong>',
@@ -169,15 +171,17 @@ return [
     'The invite of this server is invalid or has expired.' => 'الدعاء لهذا السيرفر غير صالح او منتهي الصلاحية',
     'The report has been sent' => 'تم ارسال البلاغ',
     'The server is set to private' => 'هذا السيرفر خاص',
+    'This server is currently under review.' => 'هذا الخادم قيد المراجعة حاليًا',
+    'This server has been approved. Edit and publish it from Dashboard!' => 'تمت الموافقة على هذا الخادم. قم بتعديله ونشره من لوحة التحكم!',
 	'This server has been removed due to breaking our guidelines' => 'تم ازالة هذا السيرفر بسبب كسره للقواعد الاشارية',
     'This server is private. Only the owner (you) can view it.' => 'هذا السيرفر خاص فقط المالك (انت) يمكنه رؤيته',
-    'This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.' => 'هذه الصفحة محمية بالكابتشا و <a href="https://policies.google.com/privacy">سياسة جوجل الخاصة> و <a href="https://policies.google.com/terms">شروط الخدمة</a> تطبق. ',
     'This review has been removed due to breaking our guidelines' => 'تم ازالة هذا التقييم بسبب كسره للقواعد الارشادية',
 	'This will add this server to our public server list' => 'هذا سيضيف هذا السيرفر الى قائمة السيرفرات العامة لدينا',
     'Title' => 'لقب',
     '{tag1} and {tag2}(nsfw) tags cannot be set together' => '{tag1} و {tag2} (غير امنة للعمل) لا يمكن ان تضع مع بعض',
     '<b>{total}</b> servers in total' => 'مجموع السيرفرات <b>{total}</b> ',
     '<b>{total}</b> reviews in total' => 'مجموع التقييمات <b>{total}</b>',
+    'Top active Discord servers' => 'أفضل خوادم ديسكورد النشطة',
     'Unmute' => 'ازالة الكتم',
     'Unmuted {serverName}' => '{serverName} غير مكتوم',
     'Unspecified' => 'غير محدد',
@@ -197,6 +201,7 @@ return [
     'You seem like a robot' => 'تبدو مثل الروبوت',
     'Your servers' => 'سيرفراتك',
     'Your reviews' => 'تقييماتك',
+    'Your server listing wasn\'t accepted. Please review your server details and try submitting it again.' => 'لم يتم قبول إدراج خادمك. يرجى مراجعة تفاصيل الخادم الخاص بك وحاول تقديمه مرة أخرى.',
     'Your server has been bumped' => 'تم رفع سيرفرك',
     'Your server has been deleted' => 'تم حذف سيرفرك',
     'Your server has been saved successfully' => 'تم حفظ سيرفرك بنجاح',
@@ -219,7 +224,7 @@ return [
     'We connect <strong>Discord servers</strong> and <b>people</b> together' => 'نحن نصل <strong>سيرفرات الدسيكورد</strong> و <b>الناس</b> مع بعض',
     '<strong class="brand">DISBOARD</strong> is the place where you can <strong>list/find Discord servers</strong>.' => '<strong class="brand">ديسبورد</strong> هو المكان الذي يمكنك <strong>تجد و تنزل سيرفرات ديسكورد ',
     'Find and join some awesome servers listed here.' => 'جد و ادخل سيرفرات رائعة موجودة هنا',
-    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 😎' => 'او <a href="{login-url}">سجل الدخول</a> و <strong>ضف سيرفرك اذا انت تملكه</strong> 😎',
+    'Or <a href="{login-url}">login</a> and <strong>add your server if you are a server owner</strong> 👑' => 'او <a href="{login-url}">سجل الدخول</a> و <strong>ضف سيرفرك اذا انت تملكه</strong> 👑',
     'Add Your Server!' => 'أضف سيرفرك', // The large button
     /* Categories */
     'Adventure Games' => 'ألعاب مغامرات',
@@ -250,4 +255,9 @@ return [
     'DISBOARD is the public Discord server listing community. You can search Discord servers by your interest like Gaming, Anime, Music, etc. Find and join some awesome servers listed here!' => 'ديسبورد هو قائمة سيرفرات ديسكورد العامة. يمكنك ان تبحث سيرفرات الديسكورد حسب اهتمماتك مثل الجيمنج و الانيمي وغيرها. جد و ادخل سيرفرات رائعة هنا!',
     'Search results for: {keyword}. There {count, plural, =1{is # server which is} other{are # servers which are}} waiting for your joining!' => 'نتائج البحث ل: {keyword}. هناك {count, plural, =1{# سيرفر الذي هو} other{# سيرفرات التي هي}} ',
     'List of Discord servers tagged with {tag}. Find and join some awesome servers listed here!' => 'قائمة سيرفرات بشعار {tag}. جد وادخل سيرفرات رائعة موجودة هنا!',
+    /* Age Verification */
+    'Age Verification' => 'التحقق من العمر',
+    'This page may contain adult content.' => 'قد تحتوي هذه الصفحة على محتوى للبالغين.',
+    'By accessing this page, you confirm that you are of legal age in your country of residence and agree to view adult content.' => 'من خلال الوصول إلى هذه الصفحة، فإنك تؤكد أنك بلغت السن القانونية في بلد إقامتك وتوافق على مشاهدة المحتوى المخصص للبالغين.',
+    'Yes, I\'m over 18' => 'نعم، عمري أكثر من 18',
 ];
