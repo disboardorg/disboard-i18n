@@ -3,8 +3,8 @@
 	"inviteChanged": "Sunucu daveti kanalı {{ inviteChannel }} kanalına değiştirildi. :sparkles:",
 	"bumpDone": "Öne çıkarma başarılı!",
 	"checkOnDisboard": {
-		"embed": " [DISBOARD'da] kontrol edin ({{ link }}).",
-		"text": "DISBOARD'da kontrol edin: {{ link }}."
+		"embed": "[DISBOARD'da]({{ link }}) kontrol edin.",
+		"text": "[DISBOARD'da]({{ link }}) kontrol edin.",
 	},
 	"help": {
 		"title": "Merhaba! Ben DISBOARD için bir botum ({{ siteLink }})",
