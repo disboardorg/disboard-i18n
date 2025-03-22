@@ -1,0 +1,88 @@
+{
+	"tagline": "DISBOARD: Lista de Servidores Públicos",
+	"inviteChanged": "O link de convite foi alterado para {{ inviteChannel }}. :sparkles:",
+	"bumpDone": "Impulso feito!",
+	"checkOnDisboard": {
+		"embed": "Confira [no DISBOARD]({{ link }}).",
+		"text": "Confira em DISBOARD: {{ link }}."
+	},
+	"help": {
+		"title": "Oi! eu sou um bot para DISBOARD ({{ siteLink }})",
+		"commandList": "LISTA DE COMANDOS",
+		"descriptions": {
+			"bump": "Impulse este servidor.",
+			"page": "Obtenha um link para a página DISBOARD do servidor.",
+			"invite": "Definir convite para este canal. Se [canal] for especificado, crie um convite para o canal.",
+			"help": "Este!"
+		},
+		"howTo": "**Como adiciono meu servidor ao DISBOARD?**\n\n 1. Entrar no site da DISBOARD,\n 2. Ir para a dashboard,\n 3. Clique \"Adicionar novo servidor\"\nPreencha as informações do servidor e salve-as. Você será redirecionado para a tela de autorização do Discord.Se não, clique no botão \"Adicionar bot\" na página de edição do servidor.",
+		"adminOnly": "Somente administrador.",
+		"supportServer": {
+			"embed": "Preciso de ajuda? Junte-se ao [servidor de suporte]({{ invite }}).",
+			"text": "Preciso de ajuda? Junte-se ao servidor de suporte:\n<{{ invite }}>."
+		}
+	},
+	"warning": {
+		"unlisted": "Este servidor não está mais listado porque o convite foi excluído.\n*Você é um administrador? Crie um novo convite executando `{{ command }}`*",
+		"deprecation": {
+			"message": "⚠️ **Comandos regulares estão sendo substituídos por comandos de barra.**\nDe <t:{{ timestamp }}:F> os comandos regulares não funcionarão mais e o bot responderá apenas aos comandos de barra.\nTente digitar `/` para ver uma lista de comandos disponíveis.",
+			"updateLink": "Se você não conseguir ver uma lista de comandos para DISBOARD, tente adicionar novamente o bot através do link abaixo:\n {{ updateScopeLink }}."
+		}
+	},
+	"error": {
+		"generic": "Ocorreu um erro desconhecido.\n\nTente executar o comando novamente. Se o erro persistir, avise-nos em nosso servidor de suporte (<{{ supportServerInvite }}>).\n\nError reference: `{{ errorId }}`",
+		"adminOnly": "Este comando só pode ser executado por administradores.",
+		"invalidChannel": "Canal inválido: {{ input }}\nTente mencionar um canal, por exemplo: {{ exampleChannel }}.",
+		"invalidChannelType": "Só posso criar um convite em:\n• Um canal de texto regular.\n• Um canal de anúncio.\n\nEspecifique um dos tipos de canal acima para criar um convite.",
+		"invalidMention": "Menção inválida.",
+		"handlingCommand": "Estou cuidando do seu comando!",
+		"api": {
+			"down": "A API DISBOARD parece estar fora do ar! :sob:\nPor favor, tente novamente mais tarde.",
+			"timeout": "A API DISBOARD não respondeu a tempo! :sob:\nPor favor, tente novamente mais tarde."
+		},
+		"cooldown": {
+			"command": "Você está em espera. Por favor, espere {{ numSeconds }} segundos antes de executar este comando novamente.",
+			"user": "Você está em espera. Por favor, espere {{ numSeconds }} segundos antes de executar outro comando."
+		},
+		"permission": {
+			"notice": {
+				"sameChannel": "Não tenho permissões suficientes para criar um convite:",
+				"withTarget": "Não tenho permissões suficientes no canal mencionado para criar um convite:"
+			},
+			"instructions": {
+				"sameChannel": "Por favor, conceda-me as permissões acima neste canal.",
+				"withTarget": "Por favor, conceda-me as permissões acima em {{ channel }}."
+			},
+			"details": "{{ viewChannelEmoji }} Ver canal\n{{ createInviteEmoji }} Criar convite\n{{ manageChannelEmoji }} Gerenciar canal",
+			"followUp": "Feito isso, execute o comando: `{{ command }}`."
+		},
+		"server": {
+			"private": {
+				"embed": "Seu servidor está definido como **privado** e, portanto, não pode ser impulsionado.\n*Você é um administrador? Defina-o como público a partir do [dashboard]({{ dashboardLink }}) para impulsionar este servidor.*",
+				"text": "Este servidor está definido como **privado** e, portanto, não pode ser impulsionado.\n*Você é um administrador? Defina-o como público no painel (<{{ dashboardLink }}>) para impulsionar este servidor.*"
+			},
+			"notFound": {
+				"embed": "Este servidor ainda não foi adicionado ao DISBOARD.\n*Você é um administrador? Adicione este servidor através do [dashboard]({{ dashboardLink }}).*",
+				"text": "Este servidor ainda não foi adicionado ao DISBOARD.\n*Você é um administrador? Adicione este servidor por meio do painel em <{{ dashboardLink }}>.*"
+			},
+			"invalidInvite": {
+				"admin": "Seu servidor não tem um conjunto de convite válido. Execute {{ command }} para definir o convite e, em seguida, execute novamente o comando.",
+				"member": "Este servidor não tem um conjunto de convite válido. Peça a um administrador para executar {{ command }} para definir o convite e, em seguida, execute novamente o comando."
+			}
+
+		}
+	},
+	"debug": {
+		"server": "`ID do Servidor`: {{ serverId }}",
+		"shard": "`ID do fragmento`: {{ shardId }}",
+		"cluster": "`ID do Cluster`: {{ clusterId }}",
+		"invite": "`Link de convite`: {{ invite }}",
+		"main": "`Idioma principal`: `{{ langCode }}`",
+		"default": "`Canal padrão`: {{ defaultChannel }}",
+		"latency": "`Latência do fragmento`: {{ shardLatency }}ms"
+	},
+	"moderator": {
+		"is": "{{ user }} é moderador do DISBOARD.",
+		"not": "{{ user }} não é moderador do DISBOARD."
+	}
+}
