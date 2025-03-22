@@ -81,7 +81,7 @@ return [
     'Ratings & Reviews' => 'Рейтинги и Отзывы',
     'Read more' => 'Прочитать больше',
     'Recommended' => 'Рекомендовано',
-    'Redirecting' => 'Redirecting',
+    'Redirecting' => 'Перенаправление',
     'Reply' => 'Ответить',
     'Reply to Review' => 'Ответить на отзыв',
     'Review' => 'Отзыв',
