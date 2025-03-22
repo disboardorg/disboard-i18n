@@ -1,78 +1,87 @@
 {
-	"tagline": "DISBOARD: Sunucu Listesi",
-	"inviteChanged": "Sunucu daveti kanalı {{ inviteChannel }} kanalına değiştirildi. :sparkles:",
-	"bumpDone": "Öne çıkarma başarılı!",
-	"checkOnDisboard": {
-		"embed": " [DISBOARD'da] kontrol edin ({{ link }}).",
-		"text": "DISBOARD'da kontrol edin: {{ link }}."
-	},
-	"help": {
-		"title": "Merhaba! Ben DISBOARD için bir botum ({{ siteLink }})",
-		"commandList": "KOMUT LİSTESİ",
-		"descriptions": {
-			"bump": "Bu sunucuyu öne çıkar.",
-			"page": "Sunucunun DISBOARD sayfası için bağlantı alın.",
-			"invite": "Bir davet kanalı belirleyin. Eğer [kanal] varsa, bu kanal için davet bağlantısı oluşturun.",
-			"help": "Bu!"
-		},
-		"howTo": "**Sunucumu nasıl DISBOARD'a eklerim?**\n\n 1. DISBOARD sitesinde hesabınıza giriş yapın,\n 2. Kontrol paneline girin,\n 3. \"Yeni Sunucu Ekle\" tuşuna basın \nSunucu bilgilerinizi doldurun ve kaydedin. Discord'un yetkilendirme alanına yönlendirileceksiniz. Eğer olmadıysa, sunucunuzu düzenleme alanında \"Botu Ekle\" tuşuna basın.",
-		"adminOnly": "Sadece yönetici.",
-		"supportServer": {
-			"embed": "Yardıma mı ihtiyacın var? [Destek sunucumuza katıl]({{ invite }}).",
-			"text": "Yardıma mı ihtiyacın var? Destek sunucumuza katıl:\n<{{ invite }}>."
-		}
-	},
-	"warning": {
-		"unlisted": "Bu sunucu artık listelenmiyor çünkü davet geçersiz.\n*Yönetici misin? `{{ command }}` komutunu kullanarak yeni bir davet oluştur*",
-		"deprecation": {
-			"message": "⚠️ **Ana komutlar eğik çizgi komutlarıyla değişiyor.**\n <t:{{ timestamp }}:F> tarihinden sonra normal komutlar çalışmayacak ve eğik çizgi komutları çalışacaktır.\n`/` yazmayı deneyin ve eğik çizgi komutlarını görün.",
-			"updateLink": "Eğer DISBOARD için komut listesini görmezsen, botu aşağıda olan davet linkinden yeniden eklemeyi dene:\n {{ updateScopeLink }}."
-		}
-	},
-	"error": {
-		"generic": "Bilinmeyen bir hata oluştu.\n\nKomutu yeniden kullanmayı deneyin. Eğer devam ederse, lütfen hatayı bize bildirin. (<{{ supportServerInvite }}>).\n\nHata kodu: `{{ errorId }}`",
-		"adminOnly": "Bu komut sadece yöneticiler tarafından kullanılabilir.",
-		"invalidChannel": "Geçersiz kanal: {{ input }}\nkanalı etiketlemeyi deneyin, örnek olarak: {{ exampleChannel }}.",
-		"invalidChannelType": "Ben sadece davet linkini bu kanallarda oluşturabilirim:\n• Normal yazı kanalı.\n• Duyuru kanal.\n\nLütfen yukarıda olan kanallardan bir tanesini belirtin ve davet linki oluşturun.",
-		"handlingCommand": "Komutunu çalıştırıyorum!",
-		"api": {
-			"down": "DISBOARD API'si çalışmıyor! :sob:\nDaha sonra tekrar deneyin.",
-			"timeout": "DISBOARD API'si zamanında cevap vermedi! :sob:\nDaha sonra tekra deneyin."
-		},
-		"cooldown": {
-			"command": "Bekleme süresindesin. Lütfen komutu çalıştırmadan önce {{ numSeconds }} saniye bekleyin.",
-			"user": "Bekleme süresindesin. Lütfen başka bir komutu çalıştırmadan önce {{ numSeconds }} saniye bekleyin."
-		},
-		"permission": {
-			"notice": {
-				"sameChannel": "Bir davet bağlantısı oluşturmak için yeterli yetkim yok:",
-				"withTarget": "Etiketlediğiniz kanalda bir davet linki oluşturmak için yeterli yetkim yok:"
-			},
-			"instructions": {
-				"sameChannel": "Lütfen bana aşağıda olan yetkileri verin.",
-				"withTarget": "LÜtfen bana {{ channel }} kanalında aşağıda olan yetkileri verin."
-			},
-			"details": "{{ viewChannelEmoji }} Kanalı Gör\n{{ createInviteEmoji }} Davet Oluştur\n{{ manageChannelEmoji }} Kanalı Yönet",
-			"followUp": "Yaptıktan sonra bu komutu kullanın: `{{ command }}`."
-		},
-		"server": {
-			"private": {
-				"embed": "Bu sunucu **gizli** bir sunucu ve öne çıkartılamaz.\n*Yönetici misin? Sunucuyu [yönetim panelinden] herkese açık hale getirin ({{ dashboardLink }}).*",
-				"text": "Bu sunucu **gizli** bir sunucu ve öne çıkartılamaz.\n*Yönetici misin? Sunucuyu [yönetim panelinden] herkese açık hale getirin ({{ dashboardLink }}).*"
-			},
-			"notFound": {
-				"embed": "Bu sunucu DISBOARD'a henüz eklenmedi.\n*Yönetici misin? Sunucuyu [yönetim panelinden] ekleyin ({{ dashboardLink }}).*",
-				"text": "Bu sunucu DISBOARD'a henüz eklenmedi.\n*Yönetici misin? Sunucuyu yönetim panelinden ekleyin <{{ dashboardLink }}>.*"
-			}
-		}
-	},
-	"debug": {
-		"server": "`Sunucu ID`: {{ serverId }}",
-		"shard": "`Shard ID`: {{ shardId }}",
-		"cluster": "`Cluster ID`: {{ clusterId }}",
-		"invite": "`Davet linki`: {{ invite }}",
-		"main": "`Ana dil`: `{{ langCode }}`",
-		"default": "`Varsayılan kanal`: {{ defaultChannel }}",
-		"latency": "`Shard gecikmesi`: {{ shardLatency }}ms"
-	}
+   "tagline": "DISBOARD: Sunucu Listesi",
+   "inviteChanged": "Sunucu daveti kanalı {{ inviteChannel }} kanalına değiştirildi. :sparkles:",
+   "bumpDone": "Öne çıkarma başarılı!",
+   "checkOnDisboard": {
+      "embed": " [DISBOARD'da] kontrol edin ({{ link }}).",
+      "text": "DISBOARD'da kontrol edin: {{ link }}."
+   },
+   "help": {
+      "title": "Merhaba! Ben DISBOARD için bir botum ({{ siteLink }})",
+      "commandList": "KOMUT LİSTESİ",
+      "descriptions": {
+         "bump": "Bu sunucuyu öne çıkar.",
+         "page": "Sunucunun DISBOARD sayfası için bağlantı alın.",
+         "invite": "Bir davet kanalı belirleyin. Eğer [kanal] varsa, bu kanal için davet bağlantısı oluşturun.",
+         "help": "Bu!"
+      },
+      "howTo": "**Sunucumu nasıl DISBOARD'a eklerim?**\n\n 1. DISBOARD sitesinde hesabınıza giriş yapın,\n 2. Kontrol paneline girin,\n 3. \"Yeni Sunucu Ekle\" tuşuna basın \nSunucu bilgilerinizi doldurun ve kaydedin. Discord'un yetkilendirme alanına yönlendirileceksiniz. Eğer olmadıysa, sunucunuzu düzenleme alanında \"Botu Ekle\" tuşuna basın.",
+      "adminOnly": "Sadece yönetici.",
+      "supportServer": {
+         "embed": "Yardıma mı ihtiyacın var? [Destek sunucumuza katıl]({{ invite }}).",
+         "text": "Yardıma mı ihtiyacın var? Destek sunucumuza katıl:\n<{{ invite }}>."
+      }
+   },
+   "warning": {
+      "unlisted": "Bu sunucu artık listelenmiyor çünkü davet geçersiz.\n*Yönetici misin? `{{ command }}` komutunu kullanarak yeni bir davet oluştur*",
+      "deprecation": {
+         "message": "⚠️ **Ana komutlar eğik çizgi komutlarıyla değişiyor.**\n <t:{{ timestamp }}:F> tarihinden sonra normal komutlar çalışmayacak ve eğik çizgi komutları çalışacaktır.\n`/` yazmayı deneyin ve eğik çizgi komutlarını görün.",
+         "updateLink": "Eğer DISBOARD için komut listesini görmezsen, botu aşağıda olan davet linkinden yeniden eklemeyi dene:\n {{ updateScopeLink }}."
+      }
+   },
+   "error": {
+      "generic": "Bilinmeyen bir hata oluştu.\n\nKomutu yeniden kullanmayı deneyin. Eğer devam ederse, lütfen hatayı bize bildirin. (<{{ supportServerInvite }}>).\n\nHata kodu: `{{ errorId }}`",
+      "adminOnly": "Bu komut sadece yöneticiler tarafından kullanılabilir.",
+      "invalidChannel": "Geçersiz kanal: {{ input }}\nKanalı etiketlemeyi deneyin, örnek olarak: {{ exampleChannel }}.",
+      "invalidChannelType": "Ben sadece davet linkini bu kanallarda oluşturabilirim:\n• Normal yazı kanalı.\n• Duyuru kanalı.\n\nLütfen yukarıda olan kanallardan bir tanesini belirtin ve davet linki oluşturun.",
+      "invalidMention": "Geçersiz etiketleme.",
+      "handlingCommand": "Komutunuzu çalıştırıyorum!",
+      "api": {
+         "down": "DISBOARD API'si çalışmıyor! :sob:\nDaha sonra tekrar deneyin.",
+         "timeout": "DISBOARD API'si zamanında cevap vermedi! :sob:\nDaha sonra tekrar deneyin."
+      },
+      "cooldown": {
+         "command": "Bekleme süresindesin. Lütfen komutu çalıştırmadan önce {{ numSeconds }} saniye bekleyin.",
+         "user": "Bekleme süresindesin. Lütfen başka bir komutu çalıştırmadan önce {{ numSeconds }} saniye bekleyin."
+      },
+      "permission": {
+         "notice": {
+            "sameChannel": "Bir davet bağlantısı oluşturmak için yeterli yetkim yok:",
+            "withTarget": "Etiketlediğiniz kanalda bir davet linki oluşturmak için yeterli yetkim yok:"
+         },
+         "instructions": {
+            "sameChannel": "Lütfen bana aşağıda olan yetkileri verin.",
+            "withTarget": "Lütfen bana {{ channel }} kanalında aşağıda olan yetkileri verin."
+         },
+         "details": "{{ viewChannelEmoji }} Kanalı Gör\n{{ createInviteEmoji }} Davet Oluştur\n{{ manageChannelEmoji }} Kanalı Yönet",
+         "followUp": "Yaptıktan sonra bu komutu kullanın: `{{ command }}`."
+      },
+      "server": {
+         "private": {
+            "embed": "Bu sunucu **gizli** bir sunucu ve öne çıkartılamaz.\n*Yönetici misin? Sunucuyu [yönetim panelinden] herkese açık hale getirin ({{ dashboardLink }}).*",
+            "text": "Bu sunucu **gizli** bir sunucu ve öne çıkartılamaz.\n*Yönetici misin? Sunucuyu [yönetim panelinden] herkese açık hale getirin ({{ dashboardLink }}).*"
+         },
+         "notFound": {
+            "embed": "Bu sunucu DISBOARD'a henüz eklenmedi.\n*Yönetici misin? Sunucuyu [yönetim panelinden] ekleyin ({{ dashboardLink }}).*",
+            "text": "Bu sunucu DISBOARD'a henüz eklenmedi.\n*Yönetici misin? Sunucuyu yönetim panelinden ekleyin <{{ dashboardLink }}>.*"
+         },
+         "invalidInvite": {
+            "admin": "Sunucunuzun geçerli bir daveti ayarlanmamış. Daveti ayarlamak için {{ command }} komutunu çalıştırın ve ardından komutu tekrar çalıştırın.",
+            "member": "Bu sunucunun geçerli bir daveti ayarlanmamış. Bir yöneticiden daveti ayarlamak için {{ command }} komutunu çalıştırmasını ve ardından komutu tekrar çalıştırmasını isteyin."
+         }
+      }
+   },
+   "debug": {
+      "server": "`Sunucu ID`: {{ serverId }}",
+      "shard": "`Shard ID`: {{ shardId }}",
+      "cluster": "`Cluster ID`: {{ clusterId }}",
+      "invite": "`Davet linki`: {{ invite }}",
+      "main": "`Ana dil`: `{{ langCode }}`",
+      "default": "`Varsayılan kanal`: {{ defaultChannel }}",
+      "latency": "`Shard gecikmesi`: {{ shardLatency }}ms"
+   },
+   "moderator": {
+      "is": "{{ user }} DISBOARD'un bir moderatörüdür.",
+      "not": "{{ user }} DISBOARD'un moderatörü değildir."
+   }
 }
